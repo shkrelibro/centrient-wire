@@ -13,14 +13,14 @@ def _text_hash(html):
     txt = _ws_rx.sub(" ", _tag_rx.sub(" ", html)).strip()
     return hashlib.sha1(txt.encode("utf-8", "ignore")).hexdigest(), len(txt)
 
-def sweep(client, universe, seen, state, hour):
+def sweep(client, universe, seen, state, hour, force=False):
     items, statuses, manual = [], {}, []
     for spec in universe.get("regulators", []):
         rid, name, typ = spec["id"], spec["name"], spec["type"]
         if typ == "manual_weekly":
             manual.append({"id": rid, "name": name, "url": spec["url"], "note": spec.get("note", "")})
             continue
-        if hour % int(spec.get("every", 6)) != 0:
+        if not force and hour % int(spec.get("every", 6)) != 0:
             statuses[rid] = "skipped (rotation)"; continue
         try:
             r = client.get(spec["url"], headers=UA, timeout=30)
