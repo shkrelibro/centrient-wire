@@ -1,0 +1,47 @@
+name: centrient-wire
+
+# Standalone by design: no dependency on, and no writes into, the generic newsflow engine.
+# Hourly news sweep; the script date-gates the price leg (05:xx UTC), the Monday broker-PDF leg,
+# and the monthly trade mirror (from the 25th). Public repo = unlimited Actions minutes; on a
+# private repo this cadence (~24 short runs/day) still fits the free 2,000 minutes a month.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_data:    {description: "Run the daily price leg now",        type: boolean, default: false}
+      force_weekly:  {description: "Run the Eastmoney broker-PDF leg",   type: boolean, default: false}
+      force_monthly: {description: "Run the Comtrade/Comext trade leg",  type: boolean, default: false}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: centrient-wire
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Run the wire
+        env:
+          FORCE_DATA:    ${{ inputs.force_data }}
+          FORCE_WEEKLY:  ${{ inputs.force_weekly }}
+          FORCE_MONTHLY: ${{ inputs.force_monthly }}
+          COMTRADE_KEY:  ${{ secrets.COMTRADE_KEY }}
+        run: python wire/run.py
+      - name: Commit
+        run: |
+          git config user.name "centrient-wire-bot"
+          git config user.email "centrient-wire-bot@users.noreply.github.com"
+          git add data docs
+          git commit -m "wire $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" || echo "nothing to commit"
+          git pull --rebase origin "${{ github.ref_name }}" || true
+          git push
