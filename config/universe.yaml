@@ -1,0 +1,109 @@
+# Centrient wire universe v2 — self-contained. Deterministic acquisition only; judgement in the brief.
+# v2 adds: (1) the full European language blanket (every confirmed Google News edition) on the
+# European-relevant queries, rotated every 3 hours to keep the request budget polite; (2) direct
+# regulator watchers (RSS where real, hash-diff page-watch otherwise, manual_weekly where no
+# machine channel exists); (3) nothing else changed — CN/IN names keep their focused editions.
+
+languages:
+  zh:  {hl: zh-CN,  gl: CN, ceid: "CN:zh-Hans"}
+  en:  {hl: en-GB,  gl: GB, ceid: "GB:en"}
+  in:  {hl: en-IN,  gl: IN, ceid: "IN:en"}
+  nl:  {hl: nl,     gl: NL, ceid: "NL:nl"}
+  de:  {hl: de,     gl: DE, ceid: "DE:de"}
+  fr:  {hl: fr,     gl: FR, ceid: "FR:fr"}
+  it:  {hl: it,     gl: IT, ceid: "IT:it"}
+  es:  {hl: es,     gl: ES, ceid: "ES:es"}
+  pt:  {hl: pt-PT,  gl: PT, ceid: "PT:pt-150"}
+  pl:  {hl: pl,     gl: PL, ceid: "PL:pl"}
+  cs:  {hl: cs,     gl: CZ, ceid: "CZ:cs"}
+  sk:  {hl: sk,     gl: SK, ceid: "SK:sk"}
+  hu:  {hl: hu,     gl: HU, ceid: "HU:hu"}
+  ro:  {hl: ro,     gl: RO, ceid: "RO:ro"}
+  bg:  {hl: bg,     gl: BG, ceid: "BG:bg"}
+  el:  {hl: el,     gl: GR, ceid: "GR:el"}
+  sv:  {hl: sv,     gl: SE, ceid: "SE:sv"}
+  no:  {hl: no,     gl: NO, ceid: "NO:no"}
+  da:  {hl: da,     gl: DK, ceid: "DK:da"}
+  fi:  {hl: fi,     gl: FI, ceid: "FI:fi"}
+  lt:  {hl: lt,     gl: LT, ceid: "LT:lt"}
+  lv:  {hl: lv,     gl: LV, ceid: "LV:lv"}
+  sl:  {hl: sl,     gl: SI, ceid: "SI:sl"}
+  hr:  {hl: hr,     gl: HR, ceid: "HR:hr"}
+  sr:  {hl: sr,     gl: RS, ceid: "RS:sr"}
+  uk:  {hl: uk,     gl: UA, ceid: "UA:uk"}
+  ru:  {hl: ru,     gl: RU, ceid: "RU:ru"}
+  tr:  {hl: tr,     gl: TR, ceid: "TR:tr"}
+  # flagged 'verify' by the register — kept in the blanket; a silent fallback only duplicates
+  # de/en items, which dedupe absorbs. Estonian has no confirmed edition and is excluded.
+  at:  {hl: de,     gl: AT, ceid: "AT:de"}
+  ch:  {hl: de,     gl: CH, ceid: "CH:de"}
+  ie:  {hl: en-IE,  gl: IE, ceid: "IE:en"}
+
+lang_groups:
+  eu_blanket: [en, nl, de, fr, it, es, pt, pl, cs, sk, hu, ro, bg, el, sv, no, da, fi, lt, lv, sl, hr, sr, uk, ru, tr, at, ch, ie]
+
+queries:
+  # ---- the name (full European blanket, rotated) ----
+  - {id: centrient,      q: "Centrient OR \"DSM Sinochem\"",                                    langs: eu_blanket,   every: 3, routes: [google, bing]}
+  - {id: centrient_core, q: "Centrient",                                                        langs: [en, nl, in], routes: [google]}
+  # ---- core comps ----
+  - {id: tul,            q: "联邦制药 OR \"United Laboratories\" 3933",                          langs: [zh, en],     routes: [google, bing]}
+  - {id: chuanning,      q: "川宁生物 OR \"Chuanning\"",                                         langs: [zh, en],     routes: [google]}
+  # ---- secondary comps ----
+  - {id: anglikang,      q: "昂利康",                                                            langs: [zh],         routes: [google]}
+  - {id: ncpc,           q: "华北制药",                                                          langs: [zh],         routes: [google]}
+  - {id: aurobindo,      q: "Aurobindo Lyfius OR \"Qule Pharma\" OR (Aurobindo \"Pen-G\")",      langs: [in, en],     routes: [google, bing]}
+  - {id: sandoz,         q: "Sandoz Kundl OR (Sandoz antibiotics) OR (Sandoz Antibiotika)",      langs: eu_blanket,   every: 3, routes: [google]}
+  # ---- conduct-watch ----
+  - {id: weiqida,        q: "威奇达 OR (国药现代 抗生素)",                                        langs: [zh],         routes: [google]}
+  - {id: lukang,         q: "鲁抗医药 7-ADCA OR 鲁抗 青霉素",                                     langs: [zh],         routes: [google]}
+  - {id: cspc,           q: "石药 青霉素 OR 石药 中润",                                           langs: [zh],         routes: [google]}
+  - {id: acsdobfar,      q: "\"ACS Dobfar\"",                                                    langs: [en, it, de, fr, es], every: 2, routes: [google]}
+  # ---- chain and price tape ----
+  - {id: chain_6apa,     q: "6-APA 价格 OR 6-APA 提价 OR 6-APA 上调",                             langs: [zh],         routes: [google, bing]}
+  - {id: chain_pensalt,  q: "青霉素工业盐",                                                       langs: [zh],         routes: [google, bing]}
+  - {id: chain_7adca,    q: "7-ADCA OR 头孢氨苄 价格",                                            langs: [zh],         routes: [google]}
+  - {id: chain_amoxi,    q: "阿莫西林 原料药 价格 OR 阿莫西林 出口",                                langs: [zh],         routes: [google]}
+  - {id: chain_en,       q: "\"6-APA\" OR \"penicillin G\" price OR penicillin API prices",       langs: [en, in],     routes: [google]}
+  # ---- capacity and conduct ----
+  - {id: conduct_cn,     q: "青霉素 限产 OR 6-APA 停产 OR 抗生素 检修 OR 原料药 反内卷",            langs: [zh],         routes: [google]}
+  # ---- policy ----
+  - {id: policy_mip,     q: "\"minimum import price\" penicillin OR DGFT 6-APA OR penicillin MIP", langs: [in, en],    routes: [google, bing]}
+  - {id: policy_eu,      q: "\"Critical Medicines Act\" OR antibiotics stockpile OR Arzneimittel Engpass Antibiotika OR pénurie antibiotiques OR carenza antibiotici", langs: eu_blanket, every: 3, routes: [google]}
+  # ---- credit tape ----
+  - {id: credit,         q: "Centrient bond OR Centrient Moody's OR XS3045391607 OR Bain Centrient", langs: [en, de, nl], routes: [google]}
+
+# Direct regulator sweeps. type: rss (feed), page (hash-diff of fetched text; emits one item on
+# change), manual_weekly (no machine channel — listed in data health with the URL, checked by hand
+# Mondays). every = run on hours where hour % every == 0. trip: a change/new item is a trip-wire.
+regulators:
+  - {id: reg_fda_ia_6640,   name: "FDA Import Alert 66-40",            type: page, every: 3, trip: true,  url: "https://www.accessdata.fda.gov/cms_ia/importalert_189.html"}
+  - {id: reg_fda_ia_6678,   name: "FDA Import Alert 66-78 (APIs)",     type: page, every: 3, trip: true,  url: "https://www.accessdata.fda.gov/cms_ia/importalert_1166.html"}
+  - {id: reg_edqm_ceps,     name: "EDQM actions on CEPs",              type: page, every: 6, trip: true,  url: "https://www.edqm.eu/en/actions-on-ceps"}
+  - {id: reg_dgft,          name: "DGFT notifications (MIP watch)",    type: page, every: 3, trip: true,  url: "https://www.dgft.gov.in/CP/?opt=notification", note: "JS shell — if hash never changes, treat as broken and rely on policy_mip news query"}
+  - {id: reg_ema_news,      name: "EMA news",                          type: page, every: 6, trip: false, url: "https://www.ema.europa.eu/en/news"}
+  - {id: reg_mhra_alerts,   name: "MHRA drug & device alerts",         type: rss,  every: 6, trip: false, url: "https://www.gov.uk/drug-device-alerts.atom"}
+  - {id: reg_pib,           name: "PIB India press RSS",               type: rss,  every: 3, trip: false, url: "https://www.pib.gov.in/ViewRss.aspx?reg=1&lang=1"}
+  - {id: reg_fedreg,        name: "US Federal Register: API tariffs",  type: rss,  every: 6, trip: false, url: "https://www.federalregister.gov/documents/search.rss?conditions%5Bterm%5D=%22active+pharmaceutical+ingredient%22"}
+  - {id: reg_gacc_monthly,  name: "GACC monthly stats release",        type: page, every: 6, trip: false, url: "http://english.customs.gov.cn/statics/report/monthly.html"}
+  - {id: reg_nhsa,          name: "NHSA (VBP rounds)",                 type: page, every: 12, trip: false, url: "https://www.nhsa.gov.cn/col/col104/index.html", note: "Chinese page; English mirror unreliable"}
+  - {id: reg_mee,           name: "MEE environment (curtailments)",    type: page, every: 12, trip: false, url: "https://english.mee.gov.cn/News_service/news_release/"}
+  - {id: reg_cbgmeb,        name: "CBG-MEB news (NL)",                 type: page, every: 12, trip: false, url: "https://www.cbg-meb.nl/actueel"}
+  - {id: reg_cma_train,     name: "EP legislative train: CMA",         type: page, every: 24, trip: false, url: "https://www.europarl.europa.eu/legislative-train/theme-a-new-era-for-european-defence-and-security/file-critical-medicines-act"}
+  - {id: reg_whopq,         name: "WHO Prequalification news",         type: page, every: 24, trip: false, url: "https://extranet.who.int/prequal/news"}
+  # no machine channel — Monday manual list, surfaced in data health:
+  - {id: reg_eudragmdp,     name: "EudraGMDP non-compliance search (Delft/Toansa/Ramos)", type: manual_weekly, url: "https://eudragmdp.ema.europa.eu/inspections/gmpc/searchGMPCompliance.do"}
+  - {id: reg_fda_dash,      name: "FDA inspection dashboard (firm: Centrient / Toansa FEI)", type: manual_weekly, url: "https://datadashboard.fda.gov/oii/fd/fser.htm"}
+  - {id: reg_ted,           name: "TED tenders (antibiotic API CPV)",  type: manual_weekly, url: "https://ted.europa.eu"}
+  - {id: reg_ratings,       name: "Moody's / S&P issuer pages",        type: manual_weekly, url: "https://www.moodys.com / spglobal.com/ratings"}
+  - {id: reg_ppcb,          name: "Punjab PCB (Toansa consents)",      type: manual_weekly, url: "https://ppcb.punjab.gov.in"}
+
+tripwire_regex: "(提价|上调|涨价函|降价|限产|停产|检修|环保督察|反内卷|投产|扩产|minimum import price|MIP|price (hike|increase|cut)|curtail|shutdown|capacity (exit|addition)|restart|export (ban|restriction)|non-compliance|import alert|warning letter|GMP|downgrade|rating action)"
+
+guardrails:
+  - "Merchant Pen G is not an SSP input cost; the integrated trio and Centrient ferment their own"
+  - "Centrient sells ~nothing into China; China is competitor supply, never demand"
+  - "7-ACA is the injectable chain, not the oral 7-ADCA world; CSPC P&L carries no read-across"
+  - "Anti-involution does not yet cover APIs; watch, don't underwrite"
+  - "Cheap Pen G does not cut Centrient's SSC cost (glucose route); it only arms rivals"
+  - "India demand loss did not cause the 2025 crash; it is a 2026-27 forward variable"
