@@ -85,7 +85,8 @@ def main():
         statuses["news"] = (f"{sum(counts.values())} new across {len(counts)} queries"
                             + (f"; {len(skipped)} rotated out this hour" if skipped else "")
                             + (f"; errors: {len(errs)}" if errs else ""))
-        reg_items, reg_status, manual_list = watchers.sweep(client, universe, seen, wstate, now.hour)
+        force_all = force("FORCE_DATA") or force("FORCE_WEEKLY") or force("FORCE_MONTHLY")
+        reg_items, reg_status, manual_list = watchers.sweep(client, universe, seen, wstate, now.hour, force=force_all)
         new_items += reg_items
         statuses["regulators"] = "; ".join(f"{k}={v}" for k, v in reg_status.items()) or "all rotated out"
 
@@ -104,7 +105,7 @@ def main():
             metas, statuses["eastmoney_list"] = feeds.fetch_eastmoney_reports(
                 client, (now.date() - dt.timedelta(days=8)).isoformat(), now.date().isoformat())
             PDFS.mkdir(parents=True, exist_ok=True)
-            got = 0
+            got, print_rows = 0, 0
             for m in metas[:12]:
                 p = PDFS / f"{m['infoCode']}.pdf"
                 if p.exists():
@@ -113,10 +114,11 @@ def main():
                     resp = client.get(m["pdf"], headers=feeds.UA, timeout=60)
                     if resp.status_code == 200 and resp.content[:4] == b"%PDF":
                         p.write_bytes(resp.content); got += 1
-                        price_rows += [x for x in feeds.extract_pdf_prints(p, m) if x.get("value") is not None]
+                        ex = [x for x in feeds.extract_pdf_prints(p, m) if x.get("value") is not None]
+                        print_rows += len(ex); price_rows += ex
                 except Exception:
                     pass
-            statuses["eastmoney_pdfs"] = f"{got} new PDFs"
+            statuses["eastmoney_pdfs"] = f"{got} new PDFs, {print_rows} price rows extracted"
         if do_monthly:
             r, statuses["comtrade"] = feeds.fetch_comtrade(client, os.environ.get("COMTRADE_KEY") or None); price_rows += r
             r, statuses["comext"] = feeds.fetch_comext(client); price_rows += r
