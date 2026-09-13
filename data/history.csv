@@ -1,0 +1,4 @@
+series,date,value,unit,source,snippet,fetched_at
+cb_6apa_rmb_t,2026-09-11,330000.0,RMB/t,https://m.chemicalbook.com/priceindex_cb1410046.htm,,2026-09-13T14:04:19Z
+dce_corn_rmb_t,2024-07-17,2388.0,RMB/t (settle/close),sina:C0,,2026-09-13T14:04:19Z
+dce_cornstarch_rmb_t,2024-07-17,2828.0,RMB/t (settle/close),sina:CS0,,2026-09-13T14:04:19Z

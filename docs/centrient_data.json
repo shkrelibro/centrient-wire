@@ -1,0 +1,145 @@
+{
+ "generated_at": "2026-09-13T14:02:46Z",
+ "ran": {
+  "news": true,
+  "data": true,
+  "weekly": true,
+  "monthly": true
+ },
+ "statuses": {
+  "news": "303 new across 18 queries; 3 rotated out this hour",
+  "regulators": "reg_fda_ia_6640=skipped (rotation); reg_fda_ia_6678=skipped (rotation); reg_edqm_ceps=skipped (rotation); reg_dgft=skipped (rotation); reg_ema_news=skipped (rotation); reg_mhra_alerts=skipped (rotation); reg_pib=skipped (rotation); reg_fedreg=skipped (rotation); reg_gacc_monthly=skipped (rotation); reg_nhsa=skipped (rotation); reg_mee=skipped (rotation); reg_cbgmeb=skipped (rotation); reg_cma_train=skipped (rotation); reg_whopq=skipped (rotation)",
+  "chemicalbook": "partial: cb_cefalexin_rmb_t: no price pattern; cb_amoxicillin_rmb_t: no price pattern; cb_pengK_rmb_t: no price pattern; cb_pengK_ind_rmb_t: no price pattern; cb_7adca_rmb_t: no price pattern",
+  "pharmacompass": "empty",
+  "fx": "error: AttributeError",
+  "dce_futures": "ok",
+  "bond_quotes": "empty: bond_675_2030: empty (header scheme rotated or not quoted on XFRA; check Stuttgart/Tradegate manually); bond_frn_2030: empty (header scheme rotated or not quoted on XFRA; check Stuttgart/Tradegate manually)",
+  "eastmoney_list": "ok",
+  "eastmoney_pdfs": "12 new PDFs",
+  "comtrade": "empty",
+  "comext": "empty",
+  "tradestat_india": "manual (JS portal) — 29411010/30/50 monthly at tradestat.commerce.gov.in",
+  "gacc_8digit": "not scraped (captcha + foreign-IP) — buy HS6 from chinadata.live when volumes needed",
+  "healthoo": "paywalled — the real tape; Monday broker PDFs re-print it"
+ },
+ "series": {
+  "cb_6apa_rmb_t": {
+   "latest": {
+    "date": "2026-09-11",
+    "value": 330000.0,
+    "unit": "RMB/t"
+   },
+   "prev": null,
+   "delta_pct": null,
+   "source": "https://m.chemicalbook.com/priceindex_cb1410046.htm",
+   "history_tail": [
+    {
+     "date": "2026-09-11",
+     "value": 330000.0
+    }
+   ]
+  },
+  "dce_corn_rmb_t": {
+   "latest": {
+    "date": "2024-07-17",
+    "value": 2388.0,
+    "unit": "RMB/t (settle/close)"
+   },
+   "prev": null,
+   "delta_pct": null,
+   "source": "sina:C0",
+   "history_tail": [
+    {
+     "date": "2024-07-17",
+     "value": 2388.0
+    }
+   ]
+  },
+  "dce_cornstarch_rmb_t": {
+   "latest": {
+    "date": "2024-07-17",
+    "value": 2828.0,
+    "unit": "RMB/t (settle/close)"
+   },
+   "prev": null,
+   "delta_pct": null,
+   "source": "sina:CS0",
+   "history_tail": [
+    {
+     "date": "2024-07-17",
+     "value": 2828.0
+    }
+   ]
+  }
+ },
+ "manual_weekly": [
+  {
+   "id": "reg_eudragmdp",
+   "name": "EudraGMDP non-compliance search (Delft/Toansa/Ramos)",
+   "url": "https://eudragmdp.ema.europa.eu/inspections/gmpc/searchGMPCompliance.do",
+   "note": ""
+  },
+  {
+   "id": "reg_fda_dash",
+   "name": "FDA inspection dashboard (firm: Centrient / Toansa FEI)",
+   "url": "https://datadashboard.fda.gov/oii/fd/fser.htm",
+   "note": ""
+  },
+  {
+   "id": "reg_ted",
+   "name": "TED tenders (antibiotic API CPV)",
+   "url": "https://ted.europa.eu",
+   "note": ""
+  },
+  {
+   "id": "reg_ratings",
+   "name": "Moody's / S&P issuer pages",
+   "url": "https://www.moodys.com / spglobal.com/ratings",
+   "note": ""
+  },
+  {
+   "id": "reg_ppcb",
+   "name": "Punjab PCB (Toansa consents)",
+   "url": "https://ppcb.punjab.gov.in",
+   "note": ""
+  }
+ ],
+ "thresholds": {
+  "6apa_rmb_kg": {
+   "cash_floor": [
+    135,
+    145
+   ],
+   "war_below": 180,
+   "ok_above": 200,
+   "mip_ceiling_ref": 260,
+   "note": "broker/Wind basis RMB/kg; ChemicalBook is RMB/t list quotes and reads high — divide by 1000, direction only"
+  },
+  "peng_usd_kg": {
+   "crash_ref": 13.5,
+   "first_tell": 18,
+   "strike_band": [
+    22,
+    28
+   ],
+   "india_mip": 26.5,
+   "note": "strike band computed (2.0-2.5 kg Pen G per kg 7-ADCA), not published"
+  },
+  "bond": {
+   "rule": "10pts implied restructuring probability ~ 4.5-5 bond pts; re-underwrite on -5pts"
+  },
+  "calendar": {
+   "mip_expiry": "2027-01-28",
+   "contract_reset": "January"
+  }
+ },
+ "guardrails": [
+  "Merchant Pen G is not an SSP input cost; the integrated trio and Centrient ferment their own",
+  "Centrient sells ~nothing into China; China is competitor supply, never demand",
+  "7-ACA is the injectable chain, not the oral 7-ADCA world; CSPC P&L carries no read-across",
+  "Anti-involution does not yet cover APIs; watch, don't underwrite",
+  "Cheap Pen G does not cut Centrient's SSC cost (glucose route); it only arms rivals",
+  "India demand loss did not cause the 2025 crash; it is a 2026-27 forward variable"
+ ],
+ "provenance": "deterministic acquisition only; judgement happens in the brief"
+}
