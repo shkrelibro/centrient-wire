@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-14T10:30:27Z",
+ "generated_at": "2026-09-14T11:30:15Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "192afc6f0b654679",
+   "query": "chain_amoxi",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "中、美两国对医药类供应链的互相依赖 - zmyx.net",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0Q3J3THJpS3JZUEdZOTdabGJaNDJUeFRfZnVaVDltNXY0aHFLNHNyTFNiYTEtQ2hXaHhkdFlOUE1EcUw2OHpEbFZZYW1ncTFrUGhROElDTFZKaEUxZmYtTnFGR0NjQQ?oc=5",
+   "source": "zmyx.net",
+   "published": "Sat, 07 Jun 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "24e51df6ccfd65a8",
    "query": "cspc",
@@ -2190,34 +2201,22 @@
    "source": "cj.sina.cn",
    "published": "Mon, 07 Sep 2026 12:09:00 GMT",
    "trip": false
-  },
-  {
-   "id": "2fc879a47282f726",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康宣布终止IMD-1005药物授权许可合作 协议未生效未产生资金支付 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUFqYTdOckoxSFpoREx3NXJQM3ZLOTdESERfc0RvZlBhaEJoN2tIZWZHMTNoRFdBUnNlQmlqWnZvQ2szaEtSRkEyd29zRGtTMTFaLTZKX2hJa2Uwakl4amZ4czBNbXhubkJrU0pLRVpYODNLUjFQQ0F0alRVYldnLXZjRTc2Ync?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Sun, 06 Sep 2026 09:20:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
+  "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
-  "acsdobfar": 0,
+  "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
-  "chain_amoxi": 0,
+  "chain_amoxi": 1,
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
