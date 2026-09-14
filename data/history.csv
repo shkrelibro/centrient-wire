@@ -2,3 +2,8 @@ series,date,value,unit,source,snippet,fetched_at
 cb_6apa_rmb_t,2026-09-11,330000.0,RMB/t,https://m.chemicalbook.com/priceindex_cb1410046.htm,,2026-09-13T14:04:19Z
 dce_corn_rmb_t,2024-07-17,2388.0,RMB/t (settle/close),sina:C0,,2026-09-13T14:04:19Z
 dce_cornstarch_rmb_t,2024-07-17,2828.0,RMB/t (settle/close),sina:CS0,,2026-09-13T14:04:19Z
+cb_6apa_rmb_t,2026-09-11,330000.0,RMB/t (list quote),https://m.chemicalbook.com/priceindex_cb1410046.htm,,2026-09-14T05:30:05Z
+fx_usdcny,2026-09-11,6.7082,CNY per USD (ECB),api.frankfurter.dev,,2026-09-14T05:30:05Z
+fx_usdeur,2026-09-11,0.86266,EUR per USD (ECB),api.frankfurter.dev,,2026-09-14T05:30:05Z
+dce_corn_rmb_t,2026-09-14,2231.0,RMB/t (rt last/settle),sina:hq:nf_C0,,2026-09-14T05:30:05Z
+dce_cornstarch_rmb_t,2026-09-14,2467.0,RMB/t (rt last/settle),sina:hq:nf_CS0,,2026-09-14T05:30:05Z

@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-09-14T04:30:17Z",
+ "generated_at": "2026-09-14T05:28:23Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "e63bf91092a82de5",
+   "query": "chain_en",
+   "route": "google:in",
+   "lang": "in",
+   "title": "India’s pharmaceutical sector eyes resilience as China+1 supply chain shift gains momentum - chemicals.economictimes.indiatimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVXdsdDlGZHlVWm53ZTRhdlFnX3JEMDdSMG1NM1A5ZVl6X2ZEWVRYNDAyTmlhSjBjT3RzamQyUFY3OG9IZTFkcUVFZWFUVU1HcEpldGMxelhSM000TzV0c0JuYlQyZXo5Z1hyeGtxbzgtYTVIbjdVTmtOS0Job2QxMk0ybEFLUVRlcGdZbmZ2aUVKRDdfUnRveXdVN2djYUF5a2drcEhZb21CdDhwdExKOFRGazg4aGF1SkI0aGc3VEljdkVpSEdfcDhLN2Z2RmxPVHFUMDNwYXhDVk13S2Y1RFpsNTVWLUpQQW4xU1hmcVA5UFVLMm1PZ1pn0gH_AUFVX3lxTE1mTmZYemx3ajY5LTc3MnUzOTh6My1UMGV4WVphYjNOaXhIb21iZ0hGTkZwbjE4QXEyek1rbFRnZ1NsVHdIS2VNTDBrVWlCTFZicUxqWnJyN2ZRRHViNWtQS3k3aFlCcV9QRUNPb3luYnNnaXA3YmYtVjZzNkF3T3g1Nkd5T1JwMmxISlVJS3JYMDM4WHJoVUxGcWhyR2Y0alk1YlpiMmlaUFdycFZSRW5SWXJ5V25talBOVkc3QVo3aVJRV1RPUXFleXE3RVoyXy1ZeG9VNXR0blg4bFd5Z3dTaGpCVzNjTnZ6a1dfNDNXOWMtOF9YNUJPUjhTRU93SQ?oc=5",
+   "source": "chemicals.economictimes.indiatimes.com",
+   "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "ef0649e8553df23c",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国药现代4亿元“接盘”大股东亏损资产 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kazdzMzlKX0UxNFJHQWo5WUlpV1NQTnlRR2VWbEhuTHB0NXNUTnpxa01hb2c2Mlo1T2RxOHliT0VreXVpUUJaTmVFbW51ZXlmZEk2dllhRlFSd25sYXYzV3h4dFFzMDU3Zy1pVy1xMy1rR25udDNPbQ?oc=5",
+   "source": "新浪财经",
+   "published": "Mon, 31 Aug 2026 04:05:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "3600ed52841e16ca",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812.SH)：环孢素软胶囊等药品拟中选全国药品集中采购 - i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15d2RIbGYtRklCZ1pINXd4R0dLdV85YlpDMHlxUzJpZGctcFBKS2tzUlcxOGtvMWUtWnUtc2lRbjJPMWZyWGxrRg?oc=5",
+   "source": "i.ifeng.com",
+   "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "5166fdc788549746",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "7.7亿元重磅新药合作终止，昂利康创新药转型再添变数 - 21jingji.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl9vRUUtdGkwUTBXSnRFaENManc5c1A0ZlNyMDk0MXVWeHVQeTNZSXpYMGdtcDNTa3duR08xWGNTcU5GTnN5aEJvMDBnLXFvWnpGb2VOcmcydDBydW42dTU4NlllMlJKcjNfeHRQRzBhTkxRdDVGSnBtT1Y0SXRIa0t6YmdTUm5PWE9IYw?oc=5",
+   "source": "21jingji.com",
+   "published": "Mon, 07 Sep 2026 11:14:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a8495794acc8e1cc",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "北摩高科目标价涨幅超88%；广汇能源、川宁生物等评级被调低丨券商评级观察 - 21jingji.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjF4a1Bqc0w2UFFUN3VualNhZ3d2THZnZmZHeTVyUXVJeUhrZm1sRHBaWGotX1liNTdMZGxSa0FXNWdTNUF5THY1UXZrRzhmZEN1Q3VXRWVGbTdTeDNhR1ptdUR4MDZJWU1nam92RFNsOHJ5bzZraFRUbHpRRW4wZ2RZcm1TSDZMRzNkUEFwVXpERUlo?oc=5",
+   "source": "21jingji.com",
+   "published": "Thu, 27 Aug 2026 13:40:40 GMT",
+   "trip": false
+  },
+  {
+   "id": "821be5178ef3401d",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物顾祥：完成合成生物全产业链关键布局 - 21jingji.com",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORk5BeE1vT3V3VHpSWGxhU2p3bGdzS1FhMUVTUjQ0bWtXa0dEaXFlVVp0RVR3a2ZxQUd3cjR1WmV4NDh5YVcxRmVTWEp5cURKU19NaFVvTUdxRXBrSWUtX1ZOZ19QRGdfZzZvWnNucXpmNFdqSUtXb2w1bmJqM3RTb25YbHl4X1RTN2xha25RRQ?oc=5",
+   "source": "21jingji.com",
+   "published": "Sun, 14 Jan 2024 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a7389998cb56795e",
+   "query": "centrient_core",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Centrient Pharmaceuticals starts statins API production at new manufacturing unit in Punjab - aninews.in",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPak5VTEZad05PMGU0QlF2eGYwTmZqczRXdlUwaU53NmxaUXR1UjBhampWei1RRXBRREhfdTZsQTlIQmhobEFsenZEU1hCVzQyMkVyeEFDZXI1QTNYdHNhT0RUY1VyM1hXdTg5QUd4TWV0dUpSU3hlaWdxQWd3LTZkU01QZkRMT2hienBER0loUUhYbFpoYkVRdmc0TFFyd3F5VmRXeTdWS3ZVR3NPXy1NajRJSkVWUEJMZ09ORXpXakhFS2pMclk4dDZjRGxLS3FoQkhucTM4RUx2YWRGMEVKZm5TT1c0Tk1BMm1j?oc=5",
+   "source": "aninews.in",
+   "published": "Mon, 21 Jun 2021 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "c113aaa417a20c14",
    "query": "credit",
@@ -2124,104 +2201,26 @@
    "source": "news.qq.com",
    "published": "Mon, 22 Jul 2024 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "304975530ff84406",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Latham assiste BC Partners nel suo investimento in InfoRLife in partnership con ACS Dobfar - lw.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXl5cDY1LUJ5d3EzcHNic3lrZi1UTnRCbXZsaGNfS2gyU3BoeV9BMjJXc0g2aG5SSEpwS3BKaWFQaDMtZDFvZ1FtaFFPeks4Zy1WV1o3dUVER2Q4dGljbjhsdE81WkYwSVZ4Q3k4RWNJTnhXVHhrNkRONkZBMlo5VTVBc0JRRzVQa2ZjMUlFX0daZkFsdkx0TGg2d2ROZGVTQ3hjM01xelBrd2RSeDdaYW9XN01Fb2x1UGxwUGlVTU0?oc=5",
-   "source": "lw.com",
-   "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "fa40006888e35d6c",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Ibi Lorenzini passa ad Acs Dobfar: salvi i posti di lavoro ad Aprilia - collettiva.it",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52UWFoY2xEMUNMM0RuNHNJNklaM3FDNFNpXzlEaFhWcnNVeWgzdGl2YmhBTTFoQ1dsd3RFNTNmNnV6OVc2SXlvU1Z4RUNjb3FERGttRFhLVmJwUXZacUJTOTZJa1F5cHk4b0drU2Q5amhjcUZNdmRfcERzWjZsdw?oc=5",
-   "source": "collettiva.it",
-   "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "4cf6e15d78db9f2d",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Acs Dobfar, a Tribiano 50 anni di successi nel segno dell’innovazione - ilcittadino.it",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUxxRVlLbklzckg0RWRRbE5tNG54ZUE1LS05Y1QtZGtqOWRmNGVqcjZydHRQTTRQc1lza0lJOGplU3lqelkydHprdURWQ210RDU4WGRablIwTklRNDVFdEY0ZzlFUEZWU3VmSEIwVDdyQ0Z6dHJSN0RDd05sekI3RUE2UnkwVTU5WExTYzZoazFGREFWUVNMV3dHRnhGeTQyWHJMeFQ1a3lvUEJBZGpmWHpsSUtuY1VyQnc?oc=5",
-   "source": "ilcittadino.it",
-   "published": "Thu, 08 Jun 2023 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "100235445cbe5eab",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "TRIBIANO «Vaccini ai dipendenti», Acs Dobfar è pronta - ilcittadino.it",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEJGOHRSYlQzZ29kTjVCUmJsSU9Vb1JVYjJURE5wYkVqQUUzZUx0ZmM0V3Rob3FFUFEyZnQ4ZGJoNU1ENjVoTzNZNWJjaFRZYzJVOTRIS0pZOFVuZm1QTjVjZlc5RWI1Nmh5aE9MSmFQdDFnQktyWnpOaEVic09Gd1BOaGp1RFVYM0F5N2g3SlFGaE0yWUNEc3FTMFhFM1N2RkpfWEZRUFhnUG8?oc=5",
-   "source": "ilcittadino.it",
-   "published": "Fri, 19 Mar 2021 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "290914994a35e14a",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Infortunio sul lavoro all’Acs Dobfar di Tribiano, un dipendente 33enne di Dresano finisce in ospedale - ilcittadino.it",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjN6WUozeExpNHZVV1FLWlVyMjlyWGlBNkZKZ2pLNnB3ZGFmWWtKSm13NEd3b2o3bHVQRE5vT0ZidHUzV25DYzVrcVNGZkpDbHdldkhTRVJnb05UNERpNTh1dzk3bUQwdkE2MUxWSGNmZ2ZpbFBNclEyTThKb0lPcC1Cakx2SExIcUhrRlJIXzBoUjVFV3BLbDJLZW1raGVNSHVfNi1CaWRuSlEwRzBocUtZaUdKOTlHN29PX2tFQkFtdGdKMUo4?oc=5",
-   "source": "ilcittadino.it",
-   "published": "Wed, 22 Nov 2023 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "22e774debf9b8d13",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "京东健康全网首发石药集团新药他克莫司缓释胶囊 助力提升患者长期治疗质量 - mtz.china.com",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUOVhiWXpGRG8zUFREU3IzMjJmUldLa3lCazhrUF9fZU8tSm1kUDJjX2kwa29WM3NsT3k4Sm5NRklmbUJkZkxSaU5ERWxJYVVHWmd2VjE0SFRRM3Zmd0E?oc=5",
-   "source": "mtz.china.com",
-   "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "278a152f999d7f01",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国药现代4亿元“接盘”大股东亏损资产 - news.qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Y0gxT3hyVFgySWlUamlDYkE1UUZTc0tRQy1fZG9yMnNwYURFSmx2U0VEQUlDYXo3NEJlMEtLSjJqNGNpZDdpY2ttS3RmZ2ZlVDdtci1n?oc=5",
-   "source": "news.qq.com",
-   "published": "Sat, 29 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 1,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 2,
   "anglikang": 1,
   "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 1,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 0,
+  "chain_en": 1,
   "conduct_cn": 0,
   "policy_mip": 0,
-  "credit": 1
+  "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
