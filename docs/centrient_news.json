@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-09-14T07:31:18Z",
+ "generated_at": "2026-09-14T08:32:32Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "5c43ff7bfaea98e7",
+   "query": "acsdobfar",
+   "route": "google:en",
+   "lang": "en",
+   "title": "InfoRLife Secures Growth Investment To Expand Ready-To-Use IV Infusion Bag Platform - pulse2.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGtUYVR3Z0RWeW1BUVl6c3ZjU2FsYVI2S3IyMWRMb0pNNktFbXhydFdKU1RmNC1TaENnV3cwQno5dW5ia29lY2xfYk04ME1kMzJMdUJvTlhjMy0zakFGTTFiTzd4UHJvczdsSURKbU9pQXVnbjlza2JsRWdoZEdGdEdfbUQ0MXREeldKVlZjRnM3cC1xQ2NtUVhXR2dMWnYxR0M4Z25R0gGrAUFVX3lxTE1BOUZRQUdueE9wN2xBaVcxMlBUOWUtM00yTU5HR0JpQ1JZdE1HUmw0V29FWDVZREN2UXN1cGtaYmdyZ2gxWjhXTlAxelBHUGFqMElHM1dESlBHOU80Y095Ri1mclNUX2VIc213cjhvMlZ4V0ptUThidkVxdFJPYWt5Q3RHREMyWUNtb05Dc2M4Zm5GMnhHMnhqS3FLWE5iQVFpbWFQcG9mQWh4MA?oc=5",
+   "source": "pulse2.com",
+   "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "38340b9b1220872a",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国药现代董事长、总裁双双离任，王永利接任总裁职务 公司上半年净利预计“腰斩” - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNy1qQWhTMmUza2hwMDVEYXl0anI1ZWpjZl9SYmRua05VTFBEbWNKa1lVclpGcDJtMHAwSFlCelE0dGJQRmcwMC0tMFJfbTNXWUR6V2FoTUdJTFJDb0QzeVozN2N4bkxuMWVxNXBhYjRZVVRxX3R2RjZlYTUzQWdKZEswUFJUQkhwekdURg?oc=5",
+   "source": "Sohu",
+   "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a9a5a49a11d6e7ab",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药（600812）2026年一季报简析：净利润同比下降38.3%，短期债务压力上升 - 腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZGprLUdEYXlRWjhmbkdHZm94ZGYxVDh6NmlJQWhhdzJQbHJBUk5RYmQtalJMcG5WR1Nfb0FLaVZqb0lZeVBpTGgwZk5HQVgzeF81MFVn?oc=5",
+   "source": "腾讯新闻",
+   "published": "Sun, 26 Apr 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "cdba4e2b5c6b24f3",
    "query": "chain_7adca",
@@ -2168,54 +2201,22 @@
    "source": "guandian.cn",
    "published": "Sun, 06 Sep 2026 11:26:28 GMT",
    "trip": false
-  },
-  {
-   "id": "7999b2aed83fe3a1",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物2026年中报净利润为2.78亿元、较去年同期下降38.99% - 腾讯新闻",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xQ0JPeUw1OU90WUlPT1ZIYk1UQkdrOTJ1dzUxVkJSN1BpMUtTamRBcUhmMHVtbVpTOWNIanplVDJObjRKb1REU2x1NkUxVmRoamhsQi1n?oc=5",
-   "source": "腾讯新闻",
-   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "11db9a1357f0df58",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Centrient Pharmaceuticals optimaliseert planningsproces via SAP IBP - dutchitchannel.nl",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHZ0bVJFQ2NWTkpPXzY3eFFDQ3p6b2w0RWg4dW5zZ0lYWkNIV3pKeGs2Q0tFVG5DSXp0YndhNVZXN2ZkdUpMOUxTUURac2dNMzlkV2NMZWVXODQwcDdFVlI4ZnVSVXRQQUMyODN4a1lQall2RWZSNENKeDlVQzk1ZFNHa3pBbDl4Qjl3c0xkNDBrbXFvUzBlTHVtdDU2OUZDMDFUdmdoWFowZlY1cWhCMXRGeE0?oc=5",
-   "source": "dutchitchannel.nl",
-   "published": "Thu, 10 Jul 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "2dc8f6981bba1633",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Centrient kiest SAP IBP voor optimalisatie productieplanning - dutchitchannel.nl",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnc1SVJFWGp0NXRmcHNfbEswa1F5Q1g5QUZ1ZU1Zdlk2VzFxRGprQnczVFlreEZvYUN0Tk16WW56cHpRZjNVdUVJVGRCaU9hUVlqaEZteUtZaEM1bmVQcVY2aW9JOVRBdzdCRV82NDd3RUFLYm9FSEd4YWJkcWJ3LU5MTndfVzdNYkJ3LUE2bzBCM244WEQySHJiZG1qT2o4UUhFUQ?oc=5",
-   "source": "dutchitchannel.nl",
-   "published": "Mon, 22 Nov 2021 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 3,
-  "chuanning": 2,
+  "tul": 0,
+  "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 1,
   "aurobindo": 0,
-  "weiqida": 0,
+  "weiqida": 1,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
-  "chain_7adca": 1,
+  "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
   "conduct_cn": 0,
