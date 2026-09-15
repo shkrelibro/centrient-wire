@@ -1,14 +1,19 @@
 {
- "generated_at": "2026-09-15T04:31:12Z",
+ "generated_at": "2026-09-15T05:30:15Z",
  "ran": {
   "news": true,
-  "data": false,
+  "data": true,
   "weekly": false,
   "monthly": false
  },
  "statuses": {
-  "news": "11 new across 18 queries; 3 rotated out this hour",
+  "news": "3 new across 17 queries; 4 rotated out this hour",
   "regulators": "reg_fda_ia_6640=skipped (rotation); reg_fda_ia_6678=skipped (rotation); reg_edqm_ceps=skipped (rotation); reg_dgft=skipped (rotation); reg_ema_news=skipped (rotation); reg_mhra_alerts=skipped (rotation); reg_pib=skipped (rotation); reg_fedreg=skipped (rotation); reg_gacc_monthly=skipped (rotation); reg_nhsa=skipped (rotation); reg_mee=skipped (rotation); reg_cbgmeb=skipped (rotation); reg_cma_train=skipped (rotation); reg_whopq=skipped (rotation)",
+  "chemicalbook": "partial: cb_cefalexin_rmb_t: no price pattern; cb_amoxicillin_rmb_t: no price pattern; cb_pengK_rmb_t: no price pattern; cb_pengK_ind_rmb_t: no price pattern; cb_7adca_rmb_t: no price pattern",
+  "pharmacompass": "empty",
+  "fx": "ok",
+  "dce_futures": "ok",
+  "bond_quotes": "empty: bond_675_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual); bond_frn_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual)",
   "tradestat_india": "manual (JS portal) — 29411010/30/50 monthly at tradestat.commerce.gov.in",
   "gacc_8digit": "not scraped (captcha + foreign-IP) — buy HS6 from chinadata.live when volumes needed",
   "healthoo": "paywalled — the real tape; Monday broker PDFs re-print it"
@@ -16,7 +21,7 @@
  "series": {
   "cb_6apa_rmb_t": {
    "latest": {
-    "date": "2026-09-11",
+    "date": "2026-09-14",
     "value": 330000.0,
     "unit": "RMB/t (list quote)"
    },
@@ -34,20 +39,24 @@
     {
      "date": "2026-09-11",
      "value": 330000.0
+    },
+    {
+     "date": "2026-09-14",
+     "value": 330000.0
     }
    ]
   },
   "dce_corn_rmb_t": {
    "latest": {
-    "date": "2026-09-14",
-    "value": 2231.0,
+    "date": "2026-09-15",
+    "value": 2205.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2024-07-17",
-    "value": 2388.0
+    "date": "2026-09-14",
+    "value": 2231.0
    },
-   "delta_pct": -6.6,
+   "delta_pct": -1.2,
    "source": "sina:hq:nf_C0",
    "history_tail": [
     {
@@ -57,20 +66,24 @@
     {
      "date": "2026-09-14",
      "value": 2231.0
+    },
+    {
+     "date": "2026-09-15",
+     "value": 2205.0
     }
    ]
   },
   "dce_cornstarch_rmb_t": {
    "latest": {
-    "date": "2026-09-14",
-    "value": 2467.0,
+    "date": "2026-09-15",
+    "value": 2449.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2024-07-17",
-    "value": 2828.0
+    "date": "2026-09-14",
+    "value": 2467.0
    },
-   "delta_pct": -12.8,
+   "delta_pct": -0.7,
    "source": "sina:hq:nf_CS0",
    "history_tail": [
     {
@@ -80,38 +93,56 @@
     {
      "date": "2026-09-14",
      "value": 2467.0
+    },
+    {
+     "date": "2026-09-15",
+     "value": 2449.0
     }
    ]
   },
   "fx_usdcny": {
    "latest": {
-    "date": "2026-09-11",
-    "value": 6.7082,
+    "date": "2026-09-14",
+    "value": 6.7084,
     "unit": "CNY per USD (ECB)"
    },
-   "prev": null,
-   "delta_pct": null,
+   "prev": {
+    "date": "2026-09-11",
+    "value": 6.7082
+   },
+   "delta_pct": 0.0,
    "source": "api.frankfurter.dev",
    "history_tail": [
     {
      "date": "2026-09-11",
      "value": 6.7082
+    },
+    {
+     "date": "2026-09-14",
+     "value": 6.7084
     }
    ]
   },
   "fx_usdeur": {
    "latest": {
-    "date": "2026-09-11",
-    "value": 0.86266,
+    "date": "2026-09-14",
+    "value": 0.86573,
     "unit": "EUR per USD (ECB)"
    },
-   "prev": null,
-   "delta_pct": null,
+   "prev": {
+    "date": "2026-09-11",
+    "value": 0.86266
+   },
+   "delta_pct": 0.4,
    "source": "api.frankfurter.dev",
    "history_tail": [
     {
      "date": "2026-09-11",
      "value": 0.86266
+    },
+    {
+     "date": "2026-09-14",
+     "value": 0.86573
     }
    ]
   }
