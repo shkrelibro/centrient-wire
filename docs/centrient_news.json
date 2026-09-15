@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-15T22:27:37Z",
+ "generated_at": "2026-09-15T23:26:35Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "cf5cabe84244f777",
+   "query": "tul",
+   "route": "google:en",
+   "lang": "en",
+   "title": "The United Laboratories International Holdings Limited Applies for the Clinical Trial of its Class 1 Innovative New Drug UBT251 Injection #TUL - Media OutReach Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSU04OVE2ZGFuYjRGTFF4Y2laNWJRRFZ1dDdCdnhiY05SUHpLaTZNeXBuamc2WlkyaktMd3FlU19FbDZZZnVMRlNKalVjRVphYmk4Y0dvVE5Kbl9GUTlLVGp0ZmNCVlFNOFNLUk1YaUpYaExsdXdkNDA3UlVpNDNIZDdRNzlZNmJDTm11VlF5ZVI3NGJIejhJNnZ3WUtFRUpnekZSRTBZdFRtZXpPX3NHRFh0TEtEZUxuS2duSE5PVEt4MUpjQ01Mal92MEhDYnZObTBEOFFDTnBTN0dVZkVHcWZ4OFdjWUpnQXlIOEFnZ0tKdV9TUlhwdmt2M19iZWcxVGNyalh0NkJjb0VDUzcwdUFPMVBDREM5YXJEeFRHWWphTDZWck85SUtR?oc=5",
+   "source": "Media OutReach Newswire",
+   "published": "Tue, 20 Jun 2023 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "912a97dfb97e7599",
    "query": "ncpc",
@@ -2190,30 +2201,18 @@
    "source": "finance.sina.com.cn",
    "published": "Mon, 31 Aug 2026 04:05:00 GMT",
    "trip": false
-  },
-  {
-   "id": "b3ef4f2c907c0b41",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "民生周刊 - paper.people.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4dnItVFVFM28yZHQ3bHNrTlBuNDNweUZCZEttSVctX0NEaml5c3YwNHhaMko0NmRxVnhseXl1Z09Ocm1wRGpDeWtxc3ZKUlJpcmJSd29kR0szODc5YWhLWkdIdUo2bGJKQVM4X0FFaVB3U1o5X08w?oc=5",
-   "source": "paper.people.com.cn",
-   "published": "Sat, 16 May 2026 12:29:23 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
-  "chuanning": 4,
+  "tul": 1,
+  "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
