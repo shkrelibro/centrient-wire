@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-09-16T13:30:44Z",
+ "generated_at": "2026-09-16T14:29:51Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "b2bf183a1ba7551a",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "«Arte e musica fanno parte di noi. La cultura è un linguaggio universale. Orgogliosi di essere a fianco dell’Arena» - larena.it",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONDlMRmFXSzluLTY3VXQxS05tQlZCd25ZV08xSDZKUThBMDlhUWNaSGU3Y2kyNkQ2VTNCOHNvSmgwOE5xMnd5YlNuSm03ajlwZWlsbXpMUFB5VlQ2N0xuYkNPZHU5UlEwUFJKVzkyZkVXbjcyUWdQOWNUQ0dEZlhCbjRUOURzeU9DT2pZNDRHTzhfUHF0djFndU9QVGlZMnVjeHJDaENZbS1Xak40WVB0U1d5N0h3ZjhBejQ3Q3lVM1NCRm03eEhmNTJEWVA5ckR6Z3VKcUJPeC1uYUl0OWFLdGNKMlBibENHRGIxNVZ6VU9PdlFzWkRqcExkdUVGaG1KMlpySzBNY2dsUWFhOTVNS0NyRlB0SUZ0alFB0gGgAkFVX3lxTFBHSG5SR202Um41M3FvcjQteDZGc3JWMlJONmJNQ0k2OXZCWndXa3pKZ0pQR2U5MlU4UHdPWHRXS1oyRGxnYlIzV1d6Mll6cUNXaUFaX2NjS2xSSzdDZ2JuXzVUeVEzTjV6Q19wNWVMSWx0a3ozZXBCN2wxZlprY2tRb250Vy1qcUlqdVd3SDUxX1FncWZoNzJ2TTNmWWtsWC1Nd3ZJYnhnMEhkUER0LVRET3JYcl9Xdm1YY3AtQmxLRVh1bHo1QzVoYTcydXkxYTJIbnlIZU00YktlOF90OE1jMnEyaEJiaUx5WGY3T1dVdlZscFl2MS1yaEl3OGg4eDFHQ0NHdmt4Qi1KX0xmZUtkNk8xVE1QSTJrRDdRN1Y0cw?oc=5",
+   "source": "larena.it",
+   "published": "Mon, 11 Mar 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "5ae325ddcbb25b43",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药股份有限公司关于下属公司获得《药品补充申请批准通知书》的公告 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zWU1LUzd1LWNXWV82WF83SG53dktXNm4zTG90S3h4eFZwSmlpczRDZUhmT2J2VElseUlzUmhtTEJsU3M5Tmpmdm1nNmFUcnVVWmpaQmVwZTBTUWJieWpKQ1VBYi1rWVYzSC1oUnFkMDFWY1FlT3kyMA?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 17 May 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "acaa8bba24f4eeb8",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物20cm涨停，医疗创新ETF(516820)涨近1%冲击3连涨，港股医药ETF(159718)盘中震荡 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR29oeERlV01UekVBbENaNFBLZk9wYTNzZThGR3NRWDdtX3RYblhDdEYzX21VREk2LThrMzExcnNSYUFpU1Q4a0c3ZEozOVJkNElObGpuczhpXy1OdHE5YVN3cmhIZ0JPVU1TSmxORQ?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 15 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "95efe64359495ff8",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "科伦系“技术教父”刘革新：第四次创业为何押注科伦药业川宁生物 5月15日 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1SlBzVk5fX25ENEhRUkNEXzhnSkFXd3YybmdKRFd2M3JIM1dYLVN0c2Q0R3lJalAtSVZvRjZSbHBIZkZNMUlVQWVwamRLWFhZ?oc=5",
+   "source": "雪球",
+   "published": "Thu, 15 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "56b39281838457d8",
+   "query": "centrient_core",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Bain Is Said to Explore €1 Billion Sale of Centrient Pharma - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGlmWHk2V0VXSEY2dUlFTjJMRVF0dXczY2daYVo1TVhodEpqMUt1UWw4ZlUxRDZEdU1FMklrZElnMmptSWxOZmR5YkMwZW55WVdWYXdmZ05odlpmSnN1QzV0TWRUZTFxM2duSDJRNzV5QUNmNXNpbzVSb0RUU0w4T3pYanF1TXMydEdTVzJJUFRrQ3pZWTExQjIxVlRWaVBYRHluOUFBcGxKR28wWlE?oc=5",
+   "source": "Bloomberg",
+   "published": "Wed, 03 Jan 2024 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "05a0b3dfba241de9",
    "query": "cspc",
@@ -2091,40 +2146,19 @@
    "source": "爱问健康",
    "published": "Thu, 23 Oct 2025 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "bfdbfb2b9630f68d",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmY3BOamc4SjQ2YWtLbzZjWGRIZTlKWXE3WDZ2R0FrUXpBd1B6YlNBRjJXV3RISVRGTTRUbzZiaHdybTBUaFBrREJKaklFSUliVkF1WVFmeFVBU3J1a2VJYVNJS2JONUZjUURxQWlnRktiMUhhWGYyZDNUd3dGUQ?oc=5",
-   "source": "cj.sina.cn",
-   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
-   "trip": false
-  },
-  {
-   "id": "c789a0e787a1f1ea",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "United Laboratories Begins Phase III Dosing of Obesity Drug UBT251 in China - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR3pLSnFYSHVPLWpibk5WR0phUmFXRExENjNndklyYzNKaUdFVjNqTnR1eVNQWUM3YTFKUnBtdGliNDNlQmtWT20tTmxDOVFBRmpxTVBUa1BnYXRBUm13Rl9wd2M3ekNmUFJ2VmZTX2ZiMVRJVUZaRWZJQ3BGT3ktWDVUa2thdlZhWVM1RGNKcFB6eGQtTDNRNFREMXVuT2ZnSkFZTUVnZ2pSamVyd3RFY2NsOXF6T0JhU0txVllEcW5zTFpmajB4bzAzYnNlTVFfUlF2QnJGb05pYUxUWGF3ay1zUmU1OUtHbnZJcA?oc=5",
-   "source": "The Globe and Mail",
-   "published": "Sat, 05 Sep 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 0,
+  "centrient_core": 1,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 2,
   "anglikang": 0,
   "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
