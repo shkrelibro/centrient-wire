@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-09-16T22:27:39Z",
+ "generated_at": "2026-09-16T23:27:23Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "b7f6e2cdcbf41bd6",
+   "query": "chain_en",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Penicillin G Acylase Market Size to Hit USD 257.77 Million by 2034 - Precedence Research",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeTl1OU5DQi1sMlIteFpfRjN5UHkxbDRMb3hqdGg3aXk1Rk92ZFkwZzlFVGxRU2l5UVVPelpnaUdhZWVJNHhTWjlpendaOU05c1NEQ1lNcURqYV9NdS1fVEdvMldrS3RrMUJEZDhzbw?oc=5",
+   "source": "Precedence Research",
+   "published": "Fri, 22 Aug 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "5a59c105560652c9",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "河北日报：抗生素生产，实现全流程重构！华北制药与清华大学联合攻关微反应器技术 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vS1hqSFpnYV91Q2ZVUjdOSmRaSU5yVEFORXpBTnJCcHB0eXRVOFQwQ0dXeklONnpMeFBQQzRlUWxCV0V3ZUNldFRXeHZrUGV6Umt6dnRlcFY5ZEM0N2V0elZ6ZFZYSzdZZ191X2hEM1V3bWl5WGV5dw?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "57f2a21d4f683a16",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药及子公司共计8款药品拟中选集中采购 - cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBURkRCWTVQNXczUDhuN2VobkhZVFAyb0xVcEJRbUVRV3JzdmdjcWQwUnF5QzVMcUFVMGRqaDFPV09qTWh4M1dEamFfZkJFb2g1Zml1cENFakpvbXV2Y2pWYXdFcExPV1JhNUU2alhncw?oc=5",
+   "source": "cj.sina.cn",
+   "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "708578ce51f37dbe",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物20cm涨停，医疗创新ETF(516820)涨近1%冲击3连涨，港股医药ETF(159718)盘中震荡 - cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR29oeERlV01UekVBbENaNFBLZk9wYTNzZThGR3NRWDdtX3RYblhDdEYzX21VREk2LThrMzExcnNSYUFpU1Q4a0c3ZEozOVJkNElObGpuczhpXy1OdHE5YVN3cmhIZ0JPVU1TSmxORQ?oc=5",
+   "source": "cj.sina.cn",
+   "published": "Thu, 15 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "aaf6259c0b5e6ae4",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "复盘5月上旬合成生物的游资“战役”，万亿赛道“新故事”，有哪些资金吃肉了？ - finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWW9CeGpBVGpzMEJrck5zaWR5QnFJZWJNY0Z4aDVFSWphTl9XeWJPT3RPVi1SOGFTanY1V3lYR2ZBalAzVU1FeFVCTER2V2FxMEhuYnk2dFNxakhKVk96U25pSzFpVG5NYW91NUVhUl9HWVpNc3FoOXJNay1HNGh1TUphWHRqMFp1Zm1MUExCRi0tY2w3UXlQQVlxdGZyTjEyOTl1ZWpOYWRtTmp1LVgwanIxeEJ6MWpJZW5oZDAwRTk2Y05xRnVKX2tVOVllMzRxUFlQX1JFY1NiZWdyVnFCdG5CcjFEVlp5WFFuR2F6M1JHU2VNZS11dmdzemJZREU5N0EtdHVIVzlJSmRLVVY3MnNhYlBRZkhySldvV0hCVEk1MG40VU1ZVlB3?oc=5",
+   "source": "finance.sina.cn",
+   "published": "Mon, 13 May 2024 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "612d47c103fbdb53",
    "query": "reg_dgft",
@@ -1750,68 +1805,23 @@
    "source": "新浪财经",
    "published": "Wed, 25 Feb 2026 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "dfc02e600ab073c7",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "能把医药股当做周期股来玩的，雪球论坛仅仅笔者一人，别无分号。 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xWmRpYjAtb19qX3JSMVBXXzZoT0s2YlNia3hEcFRzaE92VXNHdWJIYWdBTlhOVFZJQXBVTVVKX2Z1aXZGTTF2VzZwd1pJcUZu?oc=5",
-   "source": "雪球",
-   "published": "Fri, 22 May 2020 03:34:57 GMT",
-   "trip": false
-  },
-  {
-   "id": "f370d05c4049f549",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "ACS Dobfar completa l'acquisizione dello stabilimento farmaceutico GlaxoSmithKline di Verona - ilnordestquotidiano.it",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3dHUlFyUmpnOEdSSjRaSDlydUMwcnJJMFJKX3UwSlRkUDczTmF0d2JwdmpsWTBxTi1WLVNXa2pTLWk5ZlZESkpEaHVMRks5NXFRNHdvY1llc0JFX204OVdqZkk2bW5wQmI4Z3kwOHR6M2MxTEstQTU0clU4bWFnNmoxRG13ZGFHWUljRndfZTl5M3NpN0pZTzUtUEcteEhfN2JMX01hVnoyNWQ1Z0JhNzc3SWgyekplTzFubHI4eGtSM2taTWhpTS1wc3h2Z19oYkFMTA?oc=5",
-   "source": "ilnordestquotidiano.it",
-   "published": "Mon, 17 Feb 2020 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "8cc33db4c6e167e5",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "伊犁川宁生物技术股份有限公司首次公开发行股票并在创业板上市网上路演- 现场图片 - 中证网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWhlN0VvaHFQVXlXcjB4US1nUF8zamVWeFQ0N1BTVkktUFZpNWxndW9FN2lRcTVKSkxUZnotRGYyT0FwLUNKdTFPUmd2ZE1kaDk5cTdxS2hmRHM?oc=5",
-   "source": "中证网",
-   "published": "Wed, 14 Dec 2022 09:54:58 GMT",
-   "trip": false
-  },
-  {
-   "id": "f0d541f2c8de19cb",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药承认遭香港卫生部门调查 - 财新",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ad0N3a2p1a1o4RlhuS3RzVmVHNmt3X0xmQVk3U2I1bHJhU2w1dU9oNFhaSTZpNm9iQm52RF84NUlCQXk1QVFRaW1BZDBZQzVXZVR1THFjV19UWDhrT2dFZFhhN3o?oc=5",
-   "source": "财新",
-   "published": "Mon, 17 Aug 2015 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 2,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 0,
+  "chain_en": 1,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
