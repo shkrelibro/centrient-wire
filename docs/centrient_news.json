@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-09-16T04:29:48Z",
+ "generated_at": "2026-09-16T05:28:42Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "1ee53ae5a1c49b28",
+   "query": "chain_en",
+   "route": "google:in",
+   "lang": "in",
+   "title": "India’s pharma sector at a crossroads: Can it seize the China+1 supply chain shift? - Indiatimes",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONGVnQkRaMXhVQlI1bzAzNTJoRlcwMmdMRkFWUzdxZ2ZIeGtMZ2t4Qmk0aWtDR0huc3k4NWQwUTkyRmRrNE8yZ1Nrd1I3RzQxbktPZkdXRWpGbzVLQ1hJc2hlZmMyOXZGMXpzdnUzdDh0TzdFeHNQRll1a3VGdlFGc2N5dmdyWndDd010RmsxRkVSWVVfNDhUWHdoX011YzA4TEFlbThQcjJTWGxGRTFxSDZxRU9SN1kwWmcwVm53cGJLSXp6amo5WDVxOVlSMUY4V2dMRkVPTlVmQldVc2tiel9Hdk51dGt6SU15THdn0gHzAUFVX3lxTE5ZLU9xaGVVbmlySUFEUjBWcmdIMi04WlQtYWlkbmdMYXlHQUtmNlZrX3FFX21HU0JmZmJSMm9MWERPQ1VLN1NicDZUcHU5ekdhcVNHblFFYmZWNEtEeTNHZlV5WDhzUTJ5VEVvaGxZVXZDbC11X0FGamx5SWdrNVNFMVZncjM2WjRuTV9DVlRmekhPS2VRaS1QZHg1bl85TXhLN0tTRmxpMk9WeGJuLVVZbm1UVTNuU1lMVk1yV2FiMGh3bFhNVlUtcWVYeGpKMnJuWGJIUDZLZWlpUUp2X2FZOHFaTkRyS3EzRW9JUnV0TWdXQQ?oc=5",
+   "source": "Indiatimes",
+   "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "e492dec3b46a0503",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "2025乙肝疫苗指南：解析保护效果卓越的华北制药 CHO 疫苗 - healthnews.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcU51Q2ZJcnVlOW1ObTAtTlg3ZG9UakU0eFBQQW54OEhZMDJPZjZUaUlkVW9uY1dKSUY2bU0yTU1xdU9XRHBNdXg2LVFzc0tlLW43NXltSE9XVWhvRGNGYUVvQ3loVkNMM29MM29YWk1qYmh2cjZCelpnOVQyUW9WdC03MA?oc=5",
+   "source": "healthnews.sina.cn",
+   "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "473449e9b679585e",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康(002940.SZ)发布半年度业绩，归母净利润5492.64万元，同比下降16.68% - i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKeWRueDYtZGw1WWo0U284X01tU3ZVbGxfdkxJb3ljb1BiUDhZR2xDTDNuLWZjZ2FmZkYwTGNBQTA3aFNiYVhKZQ?oc=5",
+   "source": "i.ifeng.com",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "2f8beb6f82ae21af",
    "query": "chain_pensalt",
@@ -2168,57 +2201,23 @@
    "source": "新浪网",
    "published": "Wed, 11 Dec 2024 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "400b1df70b62811c",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康：终止与亚飞生物、亲合力签署的授权许可协议 - finance.eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nV1NuSWNoZEpHei1hU09xZV9NckJ2amdFRVNrUk5tRktQX3J4dVFVNlZ3Z0tGa2RNblgxTlBrd0RmejhHWFFUOXdoWlczYzlCSElqcjRKMmQxMTgwdkVxS2otVFJJUQ?oc=5",
-   "source": "finance.eastmoney.com",
-   "published": "Sun, 06 Sep 2026 11:03:36 GMT",
-   "trip": false
-  },
-  {
-   "id": "1cf8faf0d5959a70",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药(3933.HK)：中间体原料药高景气 动保业务高增长持续 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkZKTHQ3SHBQakNOdG5DWmNpZTZidkM5R2l1TzBVVmFwRjJxdkQ0NExVRG1RSGx3TDA3YTd4YlZlZHRiVi1nRnJOWkVJd3VuQ2p1VE5ZSXczYkpwZnVMRUNVdncxeS0tRTN2cGZ3LVZ1clZndW1ZYjg0ZmRUcS03TWRQVnlHZUhlc0ppVEc1TQ?oc=5",
-   "source": "新浪网",
-   "published": "Wed, 03 Apr 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "87c29c38eb853bdf",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "网购物流股续炒两会概念 伽玛物流劲升64% - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02SVVCVWJNcWhGa1FVdzRQeVdOQVZtU2lKUnhsRVVFQUFRRVdMX1cwaTFwZ1hjd3FVcFRxNWtMb0dTWUQycEszdUVVejVDTGVXOEpGWVRHcU8tUG9QWjlsZUM0Z3pQZzlMWFNiZjVXVE9OSGliTGtGTnhOZG0?oc=5",
-   "source": "新浪网",
-   "published": "Fri, 07 Mar 2014 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 1,
-  "anglikang": 0,
+  "chuanning": 0,
+  "anglikang": 1,
   "ncpc": 1,
-  "aurobindo": 1,
+  "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 0,
+  "chain_en": 1,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
