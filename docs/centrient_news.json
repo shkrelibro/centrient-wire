@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-09-16T07:30:17Z",
+ "generated_at": "2026-09-16T08:31:17Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "e0d6b3319b6a5ff3",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "石药集团：SYS 6010获纳入突破性治疗品种 - cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQjVaWXh3XzVXenZqYU1MRkpBRng3NkVnN0FoSTZLZG5TT0RsZXJrZkU1WWY1V21fWmQ1YUxnYU9xT0FtMFV3QXEzSWdjUjlSamVXZXJJQlZBTHA1Q0poSlUwRU5uUk5yYmZ6V2gzdw?oc=5",
+   "source": "cj.sina.cn",
+   "published": "Tue, 15 Sep 2026 10:06:34 GMT",
+   "trip": false
+  },
+  {
+   "id": "ba7a6ad174c566c6",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药六价重组诺如病毒疫苗获临床试验批准 - 10jqka.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peUR0THRqdXlQbm4yOThNQVc4aWRUelY2ejJFd1N2ZV8zNXVNdENwdThBVDdJbjlHMldaaWlicnkwMUhTeF8zLTYyTkZDazZqLVFzZWNjMjBuVzFzNnc?oc=5",
+   "source": "10jqka.com.cn",
+   "published": "Thu, 03 Sep 2026 06:57:29 GMT",
+   "trip": false
+  },
+  {
+   "id": "9665f50cf066c725",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药严重失信背后 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnUyR1pxU184VlNQeUIyVFd5WHd3N1NuVUM5VXVrYWJ1YzlLZlFLb2gzUE1paVFBbmFDTUMyZ3ZnbVY0N1IwY2FlSm1SSmxXeGtnY3U5d3dscnJVLUxqVHNmaVZYQTBndHRJVHBvUXBPNmVuaXBRd0EwLWU3RGVORGEyTkl4UQ?oc=5",
+   "source": "新浪网",
+   "published": "Thu, 09 May 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "d640b6ffacf2939e",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "7.7亿授权终止，这家浙江药企的转型棋局再生变数 - 中华网财经",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBER2JhbV9kcWZpZFBnU1lSdzhXV0dVcGZrQ0lHelE0OG5KdVlXdExoX0J1TXdyay05b3l1amFJUEpmMGg4U01QcjE1Nkt5clJiTkt2N3h1THJkMVYyaHVNTXppS2hQTmhpOVJhc0ZTYTk?oc=5",
+   "source": "中华网财经",
+   "published": "Tue, 08 Sep 2026 09:03:13 GMT",
+   "trip": false
+  },
+  {
+   "id": "a58985c2d9958838",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "减重药公司联邦制药股价大涨，跨国巨头纷纷入局中国减重药资产 - finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFJOTS1ES2xvaDNJX3Y2TmdidzM0VXlIQUlPNXFwTGpuR2k0eDFfVXVtYkNVM3lFcXpaNXh6M2NzUjFIb29jem55NHBsYWJNb2FfUG1ZdFlzaVNLZzlVTnltTC0teTVEUGg2YzNveENwbi1LUkdYZ1pxUEJhQ2VWR0g1cldlWGNxTUQzR2lfMzNDQllP?oc=5",
+   "source": "finance.sina.cn",
+   "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "efda711c8ba68460",
    "query": "anglikang",
@@ -2146,61 +2201,6 @@
    "source": "新浪网",
    "published": "Thu, 13 Aug 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "eb4adbbfd29ed98d",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药80个品种入选《国家基本药物目录》 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sdG1JRDFBQ0dLbHBQamxXUGZTLW9reGJ2ZDFyMWJ6Yy1DUWhqeFJuRG5TOWxvQTFOUE9xeUZvbG1CS2lzd2oyQkMtbW53N1g0dXcwTDNhcGhLOXZ0UUN5Tjg0RGI5eHpXakJzMzdCd0xnTXVUblg4cGgzOTJXUQ?oc=5",
-   "source": "新浪网",
-   "published": "Thu, 10 Sep 2026 13:53:01 GMT",
-   "trip": false
-  },
-  {
-   "id": "1b97bd30021a3b28",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "河北日报：抗生素生产，实现全流程重构！华北制药与清华大学联合攻关微反应器技术 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSlVWSDNwbHRjM3VkY1N2b3dtNnh3VkhjLWdndEVUZS1MOExJTzkxNm1VS3F1R043U1F5ekdhQlZXZWc1TFFZaUY0VFlLeUk0UWJPelR5SExQSTg4aW1SM0lLX0d6aVNQS2gwdWFZMlN2WTg5eGpEUEZ0aGZVQQ?oc=5",
-   "source": "新浪网",
-   "published": "Fri, 04 Sep 2026 13:13:08 GMT",
-   "trip": false
-  },
-  {
-   "id": "561e0949023cdd92",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药撤回一款抗菌药上市申请，研发投入977万，上半年扣非净利下滑超50% - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qU0I5QWRMZU12R0RvTERoV3AtWTA5VGNyeHZPSmM4OTNOWXk1eXJHS0l3MVFoNnptWnlZYjlDYk8tVV9VRzhpbFlRaURZeDgwUWxmM1ZHSmlFbjhDMkhyMDU1T2htWC1qREtQci1VRQ?oc=5",
-   "source": "新浪网",
-   "published": "Sun, 23 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "2c9cb9c36bb5bab9",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药职工在省级药检技能大赛斩获多项荣誉 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53MmFEVkw5dDJmWmFJZzhMVjQ3RkVDRnowOE05X3NBLVZUTklBbkRlaG1NSVptNWlWcW5nOFZ3S2hmMFRpUm5xellVYzRCV3BFdFlaYkRCUTB2bDNMUlo1SE16Wm9McnNoalJ2Q1g5NV82T3JwYUZndg?oc=5",
-   "source": "新浪网",
-   "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "c1e21b5d182af519",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康宣布终止IMD-1005药物授权许可合作 协议未生效未产生资金支付 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUFqYTdOckoxSFpoREx3NXJQM3ZLOTdESERfc0RvZlBhaEJoN2tIZWZHMTNoRFdBUnNlQmlqWnZvQ2szaEtSRkEyd29zRGtTMTFaLTZKX2hJa2Uwakl4amZ4czBNbXhubkJrU0pLRVpYODNLUjFQQ0F0alRVYldnLXZjRTc2Ync?oc=5",
-   "source": "新浪网",
-   "published": "Sun, 06 Sep 2026 09:20:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -2208,11 +2208,12 @@
   "tul": 1,
   "chuanning": 0,
   "anglikang": 1,
-  "ncpc": 0,
+  "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
+  "cspc": 1,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
