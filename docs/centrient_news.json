@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-09-16T01:27:27Z",
+ "generated_at": "2026-09-16T02:29:30Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "3c9bc3c44f2bff4a",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "“AI老法师”上岗记：当大模型接管工厂，让“制造”像生命一样进化 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JYUZVN1hxRzZjaWRuZ1NPUmxudEpnTElSY0N0QnJrZDd2a2NPRks1bzFiQ09VRmlOblhlWEVHbm5zVjNROC03aQ?oc=5",
+   "source": "财联社",
+   "published": "Sun, 26 Apr 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "815f698d94b54534",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "未来产业 赢领明天丨“合成生物”和“规模发酵”双轮驱动，且看行业“新秀”如何一举夺魁 - 人民网-上海频道",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81NjlXNlp6YmFaemFHLVc3THJscE0tbWdlcHM3R1VjZ084YXJ1bjRQdzVoNTE2NHRvNnJDNXRhWktkMVZaZG1ybF8zZ09mTXg4dTRFcXcyRDB6LVpuaWZQSlZyazJzdTBwNGc?oc=5",
+   "source": "人民网-上海频道",
+   "published": "Tue, 28 Nov 2023 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "69f7e2c487f42b93",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "科伦药业引爆这个赛道 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVktNZVcydDdkTm5GTXBYZjZSLVFILUF2b1o0WGlRMmhtVm9kakttY05BSTdWbTU0QzkwNWFqMkhTcUNxQXFMZF9MTzhQaFZOMHAzYmpTUmdsQ2xZczRaQS1HTW1QWlB1UDBBNjB3bkRiYldtYlAxbjd1dWEwdzVxc0p0aXNLSjE0?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 15 May 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "47c909ded7c49669",
    "query": "anglikang",
@@ -2168,51 +2201,19 @@
    "source": "sheitc.sh.gov.cn",
    "published": "Wed, 29 Nov 2023 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "585eae3d244c12b6",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "千亿石药集团“二代接班”，砸4.5亿“押注”减重赛道 - jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y3hQYXYtbjlTZVVCZEg5SE5uWGMwLXhPMzVvMXhyZEdKX1FDdkt1NTVtOVpKYzh4NGV0cGpEdHpBcUo5NHJIa2pqVi15Qi1oeWxxazN5VUs?oc=5",
-   "source": "jiemian.com",
-   "published": "Wed, 24 Dec 2025 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "bea56075ec977866",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "降价压力继续侵蚀国药现代业绩 - jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dXdhUFhvLV80OVNXYXctVTdPM3JiTTRINDJ4ajFjTjZSQUk1VW1ONEhtelJhcnZNOHRJRURUWnY2LUwyRFFhNmNlaktkMDJzanpsMEx3?oc=5",
-   "source": "jiemian.com",
-   "published": "Wed, 26 Aug 2026 20:53:00 GMT",
-   "trip": true
-  },
-  {
-   "id": "2636123dada43008",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药(600812.SH)：2026年中报净利润为6384.59万元、同比较去年同期下降48.30% - jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OLVk5blNwd1BINVhWNG4yd0JJcnpaNHgxLVFQcTFEbThyNUY2NzBxRG56Z0JWaWM2SWpSWUZlVmV3Xy1PbXJmODk5aDBBbEhrNHlubTc1SWM?oc=5",
-   "source": "jiemian.com",
-   "published": "Sat, 22 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
-  "anglikang": 1,
+  "chuanning": 3,
+  "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
