@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T19:27:45Z",
+ "generated_at": "2026-09-16T20:29:06Z",
  "window_hours": 36,
  "items": [
   {
@@ -1871,62 +1871,19 @@
    "source": "东方财富",
    "published": "Tue, 09 Jun 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "c62dcce5cc472711",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药6APA价格，2023年1月环比未增长 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ENmllTEhMWlV4ZU1CNDlQWThsaTFFdndQOXY0MjU1eWJVdjVUaS1ROV9PMUhDdFFZVW51RGwzXzFkY3I0N2tuWDMzWndUbWlS?oc=5",
-   "source": "雪球",
-   "published": "Tue, 21 Mar 2023 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "243a500cce015e32",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "中国成为世界第二大原料药生产国 - finance.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05eHJYZERpSEo3NHVJVk92S0I0R0JrSG1qeVFoY2w5MkFpdUpiZ0w5WDhqaE1IUmZRdkJNUFVXaFQxLWhtSVItVnhoOWVkN0NuSElfQTRYaU5pUUctUFRCM1lmRmJYLXNmeU5sUHdMRGlkbzBpdTNZYUxqMkE?oc=5",
-   "source": "finance.sina.cn",
-   "published": "Thu, 09 Jun 2005 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "2218e24d561256bf",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Novo Nordisk, United Laboratories 'triple G' drug trial shows 19.7% weight loss - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3lZYS11TkYxQ1RUbE9OaXJzT1NaYXR0OWtBdTFlbW94Ujd1QjRNamlfTWNzeld6cWY5U3lid1kzaTJIOUNYNlotcl9TZzdRcVhjRFNvSTRrYTN2OVkxdU5rVVZ1ajdUV0drdkQ4SkJ6Mi0wbVRleWQ0NzJsejc1LVdReTNjM0xVbWxyZXhsY25tRlV3S0hOZ1lyazFrREhNSXBPWTNWWmxHRkwwa1lHckt6TFJhb3NCWkh0NGNPSWNSVkRrUUhfUFRnZUNLeTlMd2VHZWg2Ul9uaUZ6SG5R?oc=5",
-   "source": "Reuters",
-   "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "b886512ba6f88380",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Sloopwerkzaamheden kunnen geluidsoverlast veroorzaken in Delft - ad.nl",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkx5Z2ZBLXNiUFZIeHRmZFotUWlsUWlZbVNESlFMaGEwaDhsTmU2ZkdTY21WZE5wbjFLMXdxalBaZXlQMkNhQ1BRalRwU2FfUVlnSnBoZkc2RURXaU1DeG9KX2ZWQ1Nib0U2OWxmdS1GX09CQzZ5ZlNhNWhuMUtNaU0xdlVKLWJfOHpzOU5xMThvQll3ZUEzY3BTN2s?oc=5",
-   "source": "ad.nl",
-   "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
-  "tul": 1,
+  "centrient_core": 0,
+  "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
+  "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
