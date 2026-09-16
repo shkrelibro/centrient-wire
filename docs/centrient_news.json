@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-16T16:29:11Z",
+ "generated_at": "2026-09-16T17:27:21Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "964b8c54e3a4273f",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812.SH)：2026年一季报净利润为3547.28万元、同比较去年同期下降38.30% - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVlVTbU9KTWtEZmg5SWxEaV9qUDNLSTF2QU1haEVpM0RDZDV3TC1SaDBUcEQ2dHo4NExZY2R6cnV5WHNWU0lwU3FEMk5qenpiVXUzWUJxZEEzQkRkYmFBU19qUTh6U3pzZjQ4WC1GTQ?oc=5",
+   "source": "新浪财经",
+   "published": "Sat, 25 Apr 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "335e9dd595681f15",
    "query": "anglikang",
@@ -1981,140 +1992,18 @@
    "source": "新浪网",
    "published": "Mon, 14 Sep 2026 13:53:19 GMT",
    "trip": false
-  },
-  {
-   "id": "47dc41f590cafa1e",
-   "query": "chain_7adca",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "中国治疗用单抗药物市场研究报告（2024版） - 健康网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ldGNCMzM4aEt0UmVNMTk1OV9WcHJIcUkwaGRyY1JIZXpiZzBwQ1BxYzMweDZTakRzcnRHWlNsWll0SjcweVV3Ui0xMGFGR0VmUjl1ZGRpQnhhNEZmU3dDeUxDQjFMU1ZCdTl4cWZPdEM?oc=5",
-   "source": "健康网",
-   "published": "Thu, 13 Jun 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "eac13128bf09690d",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "6APA和青霉素工业盐，海外市场将供不应求? - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16LXBWcTQ0YW90c0tRNEUxck5nU1dyVUhfTE1YWlFmQjVhcnRDQmpJLVc2QmNTNjV0QzlSczlGNDZUWUVMRGZZNmxqWjFjbFVD?oc=5",
-   "source": "xueqiu.com",
-   "published": "Mon, 08 Aug 2022 11:29:50 GMT",
-   "trip": false
-  },
-  {
-   "id": "fe85c8eb79fb81bb",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "讨论详情 - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbV9GNDRMNGRZcnpzRXVNM0labTlDWkFUaVBkQkltcUtfYWFSQmktVzNZeGQ5dmdiZmp3RWxQVHAzSmlLUWJxRjJycGYxYkpNY00zR2RLZ0t0emFrV1E?oc=5",
-   "source": "xueqiu.com",
-   "published": "Tue, 16 May 2023 08:09:42 GMT",
-   "trip": false
-  },
-  {
-   "id": "efeadcbdc08ef7cd",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Baker McKenzie e Legance nel finanziamento in pool di ACS Dobfar - legalcommunity.it",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2E3YVhkcXI4RWpyWUQ0SDA5bnVZNjhYbWQ0MXpSdV9IZUgtTUp3WURrTGRyUW9GakR1VWk5bXNJdFdSejlNMWRndHdLeHYwandaSkF2eXBLXy1mcHlsTDlsTDh4TnZvWUV6WEpDd0MtOVh3b3JWdXo2VXk1WWtQdVNUclRlMFFiNktr?oc=5",
-   "source": "legalcommunity.it",
-   "published": "Thu, 14 Mar 2019 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "70c52c745953396d",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "一文带你解读2018年抗生素供给现状！ - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Rc3N4VWFrcUc0UXRDdVZIQ1NSdW9CUFNGcDhoYW1kR3JOcUg2dmowdHVveEJfTG1pS1JUYndxWE5NVU9MckdsaDNFUmxGRDh4?oc=5",
-   "source": "xueqiu.com",
-   "published": "Thu, 21 Nov 2019 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e739d4552bcd5034",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "2019年原料药供需格局分析（中） - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00andZTE53QUlDa2JBNDFwQzNVY1RFbXN3TlQwMjdfV3V6dDlyUjh0MkZuNWpqdnVCaFZJdGdSbV84anBvN1JES1psdndvT0xS?oc=5",
-   "source": "xueqiu.com",
-   "published": "Wed, 02 Jan 2019 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e9941d4a8432ee99",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "净利腰斩预告发布仅隔数日，国药现代董事长、总裁双双换人 - 京报网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13Y29uaG1EY3I0NmotQ3hsbDNoWTQ0Skg0ZU1laWxMeHlhWmJIUVZDQWZxQm5uX2lURC0weUx1UEgzbkNES0liVlpndGVsZmVMS0V3NnNzdUZvN3FoeVdTdng0TFpGdXZKTTJNa3NFYzRlZw?oc=5",
-   "source": "京报网",
-   "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "cbb487653f5fc536",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7.7亿授权终止，这家浙江药企的转型棋局再生变数 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOTEpNZm5WX01LSmJXNzRWdmdNYkNZUHFzeEEwVXB3UGpqaHlrWTViSmQ1dGI4X09NRE1BUHE0YUJvX3h5cU91ZkxKZFk1NmJQc2drS3ZaV2NZMTdfUklGcEpXbEQwR2RVamhGVENEb01QbGZITnlUbA?oc=5",
-   "source": "新浪网",
-   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "045cdf4110e6b98b",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物(301301.SZ)2023年年报经营业绩解读一切以数据说话，本分析报告仅从财务分析视角揭示财报数据背后的理论可能，不保证现实如此。报告仅为财报研究兴趣，不预设任何立... - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaLXlpck5iNE5sYUVNNUNPTXFSY1UzRzJOLWN2WWRTamxSSUNQcEowZGJhaGp6MUhEdzlxenhmbW5HX1JJZmRkeUIwUTBvLVFv?oc=5",
-   "source": "xueqiu.com",
-   "published": "Tue, 07 May 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "42c1a866de3f970f",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "胰岛素国家续采落地，国产企业或争取更大份额 - 21jingji.com",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkhqMDRyWlBBOHNKTVRESmtUVDJPb1pmMmNiM2JZTjRyalFWSFdmZXFaeDhzR21HR1pndWZKWGROZUo1c1VNX3F3dXZ1OE5KcmQ3YTh0Y05tdHFrVDE0b2FDY1VIRUlBNmJjdFd2NFJyWDllb3IyN09uY2FNUDlUYThmXzYyX3JRNnBjWklVZ0d6U1l4?oc=5",
-   "source": "21jingji.com",
-   "published": "Wed, 24 Apr 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "99b835d83fda985f",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药(03933)股票股价_股价行情_讨论_资讯_财报_数据报告 - xueqiu.com",
-   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9mTE1VeHJMV1JSaHl2QmtVekZMSXRJYnFrRGd5b010bTd4VHAycFZFOU1kR1BXNVlOc0FOUkdLRQ?oc=5",
-   "source": "xueqiu.com",
-   "published": "Wed, 23 Jan 2013 10:47:55 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
-  "ncpc": 0,
+  "anglikang": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
