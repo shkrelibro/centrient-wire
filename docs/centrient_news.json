@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T21:28:55Z",
+ "generated_at": "2026-09-16T22:27:39Z",
  "window_hours": 36,
  "items": [
   {
@@ -1794,97 +1794,19 @@
    "source": "财新",
    "published": "Mon, 17 Aug 2015 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "3f4d91c325f20608",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "cf201d174b89eecb",
-   "query": "sandoz",
-   "route": "google:ch",
-   "lang": "ch",
-   "title": "Tiroler Milch für Penicillinproduktion - sandoz.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2hJakJ1OTNJZERzRjQxc01UdUhDOFNnZGQ4czJJVXUzeDlNbUkxTXNNdFNpbWI0b3NBWTRjSWEtTnRSVlRQa2ZBVzJYZjIyVHhxQ21YOGtsWGI1Q1YyNVktcnExc09qNXVEUWxJdEx4T2xNUVp5RWhzSHV3bS1UMzlxOV9TRGdaWDkwSEJtdU9LaHg0RHRMcjJBcVJveWxOLUJvT0F2LURJVl9oWDF3?oc=5",
-   "source": "sandoz.com",
-   "published": "Mon, 29 Jun 2026 16:23:54 GMT",
-   "trip": false
-  },
-  {
-   "id": "1af00afde6a332bd",
-   "query": "sandoz",
-   "route": "google:at",
-   "lang": "at",
-   "title": "Neue Penicillin-Produktionsanlage - sandoz.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTmJFLWsyMFlsRTZzMlJNS2ZRYmdlUk1RQUotRlhIcnZnWUczYXNNV3VKOUJESW92TG1ROFVQazFpdnNCQUc0NGFyTVRMbExyLXBzNXg2YTQzUC1DME0xZ0g1bHFkVDlFd2lVQWgtc1A4b2E0WUhGQ0JFaHhzZw?oc=5",
-   "source": "sandoz.com",
-   "published": "Tue, 23 Jun 2026 08:35:44 GMT",
-   "trip": false
-  },
-  {
-   "id": "b2f2388724a65d64",
-   "query": "sandoz",
-   "route": "google:at",
-   "lang": "at",
-   "title": "Was wir tun - sandoz.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWMklWMS1RQkF4Q2pXQUxySGZMdnFUR3phSWt1YTRKbjY5ZG1HY0dMeFNWMElNdEhUc1N2REVYOGx5b3Bob1RJcl8wazhTaVk3UzdKMHh6ZDVJOXI4VnlMcA?oc=5",
-   "source": "sandoz.com",
-   "published": "Wed, 24 Jun 2026 20:31:16 GMT",
-   "trip": false
-  },
-  {
-   "id": "623c92309ba8a4bc",
-   "query": "sandoz",
-   "route": "google:at",
-   "lang": "at",
-   "title": "Sandoz baut in Tirol mindestens 100 Jobs ab - volksgruppen.orf.at",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbWx3VEZUckNPMUpJU0RGY1lvdV9ucUJxX0paQzM4dGczUFhNNzdnV3c4WnV0eTVoakhDR3RPTUp2YVhTUFBqdGdlRFd6RGVsOTN2MnRqMkpfc2tvdjhfYmR0RHFVdzA5bnIzbklIWWE?oc=5",
-   "source": "volksgruppen.orf.at",
-   "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "84b3b7b7ad0cb112",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "肝素板块9月15日跌1.26%，华北制药领跌，主力资金净流出9736.77万元 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RWTE8tbUh1UHc0bWxCd1E2azljTVAzQndRRFc1Uk5WWlBrb1RpdDlPLUlJY29UaU1KSlh2Ymx2RUZJUHZrOFlIOWZlSFpEc1ZIc2diRGJNV004MkMyRjJ3eXlVd3M4bjZDeUxFc1JCcmVOMzh0aWVicVhoNW1kbUQtUFhYM1U3ekxpWg?oc=5",
-   "source": "Sohu",
-   "published": "Tue, 15 Sep 2026 09:16:33 GMT",
-   "trip": false
-  },
-  {
-   "id": "2cd509b4340b2bc0",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "两大传统业务下滑拖累业绩，昂利康上半年营收、净利双降 - finance.china.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IS0UzUC0tbXBnMXlScDdIUDRzVkYyUFEzcWpWTlZpX3VGcWVoRlBaWGphbjZialEtVDRaZ1ZzeHVta0o1VmpYVE9WbktVS1pxZlFqZEZ3YVg4cU9kc0dQVlFMbDJKdE4tZ3RCelBqLU4?oc=5",
-   "source": "finance.china.com",
-   "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient": 1,
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
-  "sandoz": 2,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -1892,18 +1814,17 @@
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
-  "policy_eu": 0,
   "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "unchanged",
-  "reg_fda_ia_6678": "unchanged",
+  "reg_fda_ia_6640": "skipped (rotation)",
+  "reg_fda_ia_6678": "skipped (rotation)",
   "reg_edqm_ceps": "skipped (rotation)",
-  "reg_dgft": "CHANGED [JS shell — if hash never changes, treat as broken and rely on policy_mip news query]",
+  "reg_dgft": "skipped (rotation)",
   "reg_ema_news": "skipped (rotation)",
   "reg_mhra_alerts": "skipped (rotation)",
-  "reg_pib": "ok (0 new)",
+  "reg_pib": "skipped (rotation)",
   "reg_fedreg": "skipped (rotation)",
   "reg_gacc_monthly": "skipped (rotation)",
   "reg_nhsa": "skipped (rotation)",
