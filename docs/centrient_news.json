@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-17T04:29:51Z",
+ "generated_at": "2026-09-17T05:28:36Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "a87b74793f011448",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjJhVi1sMElSQTlWeGtWRTBESk1ZMmJHVWY1eE1GQzJ0WjFyQ05UcUd6QkN0VHVtQnNsRFJHVU5sUGlhQUprY0tYWkdPNFJsYlBKdWtHaGkyM0x0dFU3aGpuN29lQmhZbnFoM1hZMHh4TGxHbDB2Wm9VclpvYXpYV2FiOTY?oc=5",
+   "source": "新浪财经",
+   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
+   "trip": false
+  },
+  {
+   "id": "27641974774b661c",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药严重失信背后 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNnUyR1pxU184VlNQeUIyVFd5WHd3N1NuVUM5VXVrYWJ1YzlLZlFLb2gzUE1paVFBbmFDTUMyZ3ZnbVY0N1IwY2FlSm1SSmxXeGtnY3U5d3dscnJVLUxqVHNmaVZYQTBndHRJVHBvUXBPNmVuaXBRd0EwLWU3RGVORGEyTkl4UQ?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Thu, 09 May 2024 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "4a872f2f66c268a6",
    "query": "weiqida",
@@ -1684,118 +1706,18 @@
    "source": "Bar and Bench",
    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "594c4520929122c1",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康：与亚飞生物及亲合力终止战略合作 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xc3FOc2F3YzNiZmNRV2d4c2ZQNTN6YVFlam55RW04QnM5UGUteUxPcFBiSkVyTTd1QjB6Tm1Zbm9KWW5iUzR6X1VPYUlzT05oZ3hpdU9YelNXYmpySEVPTkdIaENWUQ?oc=5",
-   "source": "东方财富",
-   "published": "Sun, 06 Sep 2026 09:54:53 GMT",
-   "trip": false
-  },
-  {
-   "id": "bfb66336f2184c2b",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "Acs Dobfar sceglie ThinManager di Rockwell Automation per la virtualizzazione dei suoi impianti - automazione-plus.it",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1FxVi13cm13UEFBSTlrNmFUb1R2TW1qY2E3ODlXZjlveXBRdEN2a0R5Y096RTRpZ2lSLVlaeVNXU0JYVGtLbExyeVh2YkVPYmRQWmY1a1RheHpkaE5YN1VDRnFodWhBQ2ZpRHNqUFZ4bXAxbHdOZWtyUnBWY2xvM2cwZUNxNVRyaW0xMWt2MGxyTU4xWkJtNUZnRmx1Z280Y05jandiR3dHNGFLUzVfNDdrdUowQ1Nra3NkbGNIMjVPekpVclIwdUxxa9IB0AFBVV95cUxNRkRZSTkxMXhmSkxDbjBHMW1SUlhxbXdKd2Z0VEMzbWstZFNzcU1EeXhlZzhlcWVab3BiNEFOV1NTbkcxWnlqVEhtTktfV3RzVFVYQ3I5UnlIeG95RG1uUEotUE9TbkJPczFRUGt3cExoRk1fb1c1TjNVTl9LN1I1Qkw4bndJSGtIMnROWUQwQ2FWbUE1MzY4RnlsZjRGUlFOVnNnNjJHVjlYM29zVVc0OHZKaEQzNkRQWUZIVndfOVEtT0JDU3Q3aC04UUlocTNh?oc=5",
-   "source": "automazione-plus.it",
-   "published": "Thu, 24 Feb 2022 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "9e05c101e3f72f31",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7 月 27 日， 石药创新 一份高达 11.8 亿元 -13.6 亿元、同比增 430-496 - emcreative.eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkY1cU5TcnhJRnVDWmtuS3BkSlBDMUJ2b3QyYm1YYmM2V1hmQ0w3aFJIenRBY2ZIeEZaQ1lmSlo5bjYwMEtTYU1aMnpaWmh2c2JDWHlSX3JLcFV5LVJSVUhDU2pCUlpqb2paVExWYXZacmhVbU16eWpYMkFNakxoSllyMUZKR01ReUN1ZkVqdlJ2aU5fZFI5Z3NDeW0wVnpMMThacjd1SzJzdnVNbmxGVTgwUQ?oc=5",
-   "source": "emcreative.eastmoney.com",
-   "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "69b04561976ac480",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药六价重组诺如病毒疫苗获临床试验批准 - 同花顺财经",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peUR0THRqdXlQbm4yOThNQVc4aWRUelY2ejJFd1N2ZV8zNXVNdENwdThBVDdJbjlHMldaaWlicnkwMUhTeF8zLTYyTkZDazZqLVFzZWNjMjBuVzFzNnc?oc=5",
-   "source": "同花顺财经",
-   "published": "Thu, 03 Sep 2026 06:57:29 GMT",
-   "trip": false
-  },
-  {
-   "id": "a10f11ca1f2dfc57",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSYklIdGhPcEVRMlBSMEV2QmsybzcxZXQ5VWhKUDhxMF9Ua0VsOG9DTEJ4M2hUUmNLS1FFWUk4a3ZMXzhkMl83Nm00QmpCNnhVNDY4b1dfN3F4UEsxRDN4RV9CX0pIRW5iSG9haF9aV0Rnd2YxXzJacG9TQW5WUQ?oc=5",
-   "source": "新浪财经",
-   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
-   "trip": false
-  },
-  {
-   "id": "ffb0a100a58e2555",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "全球首创CD47抗体药合作告吹：昂利康传统主业持续走弱，创新药转型高度依赖“独苗” 项目突围 - 时代在线",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaVUpQOXg3ZF9TTzF5QmJJZHh0NlRha25TXzI2c3Ytc0pKZjdodE1vZGRVYXFWckpnWTNpS1lJNTg0N1lYVVpFUmgzclF4UmVz?oc=5",
-   "source": "时代在线",
-   "published": "Mon, 07 Sep 2026 15:05:58 GMT",
-   "trip": false
-  },
-  {
-   "id": "ee3b88a8ebae35fd",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7.7亿元合作终止 昂利康转型再添变数 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4aDk2Wms0b1piM1VfY1NHbEFNVnltLTMzY2hjR0N0UlRJdFFxNzhBTmx1OWs0MVFWdlc4SWtWT3JOZUdUaXFkbEpVNmtmckU2bFRMOEg5bGh2TXdHdm4wenpWVmU1TmlBTFdhY1hIRnVmekxsUkZ4VElWUHI4UQ?oc=5",
-   "source": "新浪财经",
-   "published": "Tue, 08 Sep 2026 16:22:13 GMT",
-   "trip": false
-  },
-  {
-   "id": "5410e10e340a4e3b",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "伊犁川宁生物技术股份有限公司首次公开发行股票并在创业板上市网上路演- 现场图片 - cs.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWhlN0VvaHFQVXlXcjB4US1nUF8zamVWeFQ0N1BTVkktUFZpNWxndW9FN2lRcTVKSkxUZnotRGYyT0FwLUNKdTFPUmd2ZE1kaDk5cTdxS2hmRHM?oc=5",
-   "source": "cs.com.cn",
-   "published": "Wed, 14 Dec 2022 09:54:58 GMT",
-   "trip": false
-  },
-  {
-   "id": "db74af013d0fb950",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Delfts farmabedrijf weerstaat Chinese concurrentie, met moeite - Het Financieele Dagblad",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3VleEs2X25xbURJX2NrXzdSbUFrbWVKM0g3ajlTUW5JU3NKcUQ0RHlsSF9VZXpGN0MtWXZmNzI2aDRUVFNFV1pLNGJSalRBV1UycWdSWVN4T0t0b3VKTk1iY1lLXzZEQS1TTGl4RVVoTFZSSEU2TWtoYmxDVDFIdTFqMmI1WlFvT0VEQnRtcDc1ZXgyZnhZT1pJNlRhQQ?oc=5",
-   "source": "Het Financieele Dagblad",
-   "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 2,
+  "chuanning": 0,
   "anglikang": 0,
   "ncpc": 2,
   "aurobindo": 0,
-  "weiqida": 1,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
