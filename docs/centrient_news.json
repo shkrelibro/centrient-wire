@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-09-17T01:28:23Z",
+ "generated_at": "2026-09-17T02:29:19Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "f7bfc3aaef9599dd",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "Valle del Sacco, il Consiglio di Stato chiude una stagione: il Sin era illegittimo - AlessioPorcu.it",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkNUcko2TnNiQ2lqc1RFVi03a0RaNTU4WWRpa2NpejdjT2dHdFROUzBDeHd3Ql9zSkdRemVoNXlsTWtEUDdubF8wT21zcS0xem1rekJ6WEUzQ2lWQXJrbmVOcFhiRG53Q2p2YkthZTFLdkRzd01nVUJzSlZhazFYSFdnYlVMdzduSE95X0JvSGtzVng4dFlqQU1GRVRGd3ZnV1lMVC1aVFFJem93MWEtMlNTWlQxVmNGblE?oc=5",
+   "source": "AlessioPorcu.it",
+   "published": "Thu, 24 Jul 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a244f64a10fd1b29",
+   "query": "acsdobfar",
+   "route": "google:en",
+   "lang": "en",
+   "title": "BC Partners to Buy Stake in $1.5 Billion Pharma Firm InfoRLife - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN05Vbl9EWGp0TlBzd3N5UU9vUGlYa2VkRzhxUFpQd1BYb2NtX0lhdk9ZeXZnbmotRk4wQWlHZzMycFc3dVctNG80OGdKdko1eVFQajN5NGZmNXg2T0xmczcwLXM1ZHNEWUVhc25ndFVXcFlhLUxoVEtLdGZDT0UwUGNUcllCTDE1bjAyWHNNTG5WODVKSWtjaFllZ1RoTEdKeGNTX29vSzBRX1V4UTcyaDZB?oc=5",
+   "source": "Bloomberg",
+   "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "26da3c45be156e0f",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药（600812）9月16日主力资金净卖出513.13万元 - caifuhao.eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fS3E5YXlRc3hfeWxfcGNFc3FvcGVvaXNhM0pZeGl5U0VpYnhzcExCTWVfZ2dQSHRkVGFqdGVJaUVxc3lZRlFBcHJSOElkTlY3Wm1NajNVWnp0VXNXU09MRVVXZWhpcGZsRGhF?oc=5",
+   "source": "caifuhao.eastmoney.com",
+   "published": "Thu, 17 Sep 2026 00:35:00 GMT",
+   "trip": false
+  },
   {
    "id": "1937763e58ec17e9",
    "query": "chain_7adca",
@@ -1816,76 +1849,22 @@
    "source": "Sohu",
    "published": "Tue, 15 Sep 2026 14:16:47 GMT",
    "trip": false
-  },
-  {
-   "id": "0c4b28c50bb6e679",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "净利腰斩预告发布仅隔数日，国药现代董事长、总裁双双换人 - xinwen.bjd.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13Y29uaG1EY3I0NmotQ3hsbDNoWTQ0Skg0ZU1laWxMeHlhWmJIUVZDQWZxQm5uX2lURC0weUx1UEgzbkNES0liVlpndGVsZmVMS0V3NnNzdUZvN3FoeVdTdng0TFpGdXZKTTJNa3NFYzRlZw?oc=5",
-   "source": "xinwen.bjd.com.cn",
-   "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "46a56ed2928dcad8",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康创新药转型再添变数 - xinwen.bjd.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlR0tWX0lMbVItT3hFMDY1ZGpQRm8tWlRwS0dMbWpZMF9WdGlodnIzZ2t0aGxRNHRhaXlJSVI5MzItR0pGVkhXOElxMVI3d01EaHdPWU1YVWFOZHBrZk52SmFrQlpveE9JdEVVcG5NVk9NZw?oc=5",
-   "source": "xinwen.bjd.com.cn",
-   "published": "Mon, 07 Sep 2026 17:40:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "a121b05bc9dab330",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "拟募资11亿元 昂利康豪赌创新药 - cb.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40aE9WaGV3SWdVQlEtMnMyNzJZVXlya3l5dHJrdkZJU01SMERJVEVjUkFCYkpJOE50a3Bua3djUWR5T08xaGU5MVo3UDdtV2dzMVNxT0xWRFdFNFFuNkdEN1EtVGk?oc=5",
-   "source": "cb.com.cn",
-   "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3e44c496577049bc",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康(002940.SZ)2026年中报净利润为5492.64万元、较去年同期下降16.68% - 财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nSXFVeWl6bS1qMXV6RUpIbklneF9qbGJrM0VvZDY0T01XRlJwQ3ljRHJlS2pRVm9xZ2xWYi1QRVY1TGE2RFEyMzh1SGZzR2JfVTV4RTNldnVIOHVJZUdLOC1NemZBZC0yYTZn?oc=5",
-   "source": "财富号",
-   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "c43fceb76b948252",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "“A拆A”上市，抗生素中间体核心企业川宁生物今起申购- 创业 - Forbes China",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWmdXcFdNbXl5ZjNZSXdySWVNLWtFZ1JiTE9hODVac3hJSC1LOUFqeVR3MW5aN01fSFllOGo1Z19Gd3AtTm9zWXZvY1hRdlRPN1Z1V0J4M01BUQ?oc=5",
-   "source": "Forbes China",
-   "published": "Fri, 16 Dec 2022 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
-  "chuanning": 1,
+  "tul": 0,
+  "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 2,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 2,
   "chain_6apa": 0,
   "chain_pensalt": 0,
-  "chain_7adca": 1,
+  "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
   "conduct_cn": 0,
