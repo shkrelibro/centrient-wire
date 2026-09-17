@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-17T16:29:34Z",
+ "generated_at": "2026-09-17T17:26:44Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "2c78d38e158f25b3",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "子公司国药威奇达在第十四届品牌故事大赛（太原赛区）斩获两项荣誉 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4bThYRkU3eTZ2MWhGTDI1SXN2TkJzam9XemM5SVFoYTQ2TS1yd0RaRWVIdnVscmd5MFVtQ2NiUmJjLW1MZkRhVl9UcnQtc0pUVVgyZWJ2VmZHemliQkNJeDJzZnhBUC14SnlOOWlRay1oZ3dCNVJteQ?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "95a2bdffa84422c1",
    "query": "ncpc",
@@ -1618,50 +1629,6 @@
    "source": "i.ifeng.com",
    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "2f8beb6f82ae21af",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "转：全球抗生素原料药生产商汇总（居然没有把科伦统计在内） - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPek1WVm9mT2RfTjFMRmlfRW5tWUd1Y0V1aFRnZ2RmbC1jVUk2UzhidGJyVzRZeHc5WnJjRW14WGpmV0pNS2tzYXpGdGw5a0U?oc=5",
-   "source": "雪球",
-   "published": "Tue, 25 Jul 2017 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "ef47807a3167110d",
-   "query": "aurobindo",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Aurobindo Pharma to commence production of its Pen G facility in Andhra in Q1FY25- Official - health.economictimes.indiatimes.com",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaUpHVXIxeno4MFpKZXJCM0F2UlR2QTJGUEw4ZVczSUk3TXRCeUFWVVZqd3FlQVFaemhKS1E0WGc4V1pnWUxxbTJQTTFCMjdCNUlrck5mendGUlRaVk9fUjlmSnJpa19qeTB6VGhLNlAzT19BRm9DeUphMEswZTI2YkM3TFRGbTZIZ1FzRXpUTHZUWHlqSk5fTmZRSFdXbjROZG56MWpSN0IwUjhpamtjcXVRYmlrTzlCVVowMnFmb1QyblpFTS0xWUNUblJQVi1GSXpKQ1BJN2lNNkU0RzlzVjVEM1dlYzlWenhkOU1lMzc3Zk93eFJrbk9rS2RqN2huWWc?oc=5",
-   "source": "health.economictimes.indiatimes.com",
-   "published": "Thu, 14 Mar 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "056a6db35390c244",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "号称能清肺解咳、缩小肺结节，华北制药压片糖果“擦边”宣传功效 - 新京报",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uaVlwWml4UEdCSHFVTWNtRGM1OTROUnNqQ0pTQ01ibl85T3EwNjRQZjNYSURfc3M0eDU4S2Q1TTF4MEhPdUQ4ZjNVWW9hdTBmZS0zR3BxV2kyMTVrRVNwQ2l3?oc=5",
-   "source": "新京报",
-   "published": "Sat, 12 Oct 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1edd56f701731033",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "复盘5月上旬合成生物的游资“战役”，万亿赛道“新故事”，有哪些资金吃肉了？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWW9CeGpBVGpzMEJrck5zaWR5QnFJZWJNY0Z4aDVFSWphTl9XeWJPT3RPVi1SOGFTanY1V3lYR2ZBalAzVU1FeFVCTER2V2FxMEhuYnk2dFNxakhKVk96U25pSzFpVG5NYW91NUVhUl9HWVpNc3FoOXJNay1HNGh1TUphWHRqMFp1Zm1MUExCRi0tY2w3UXlQQVlxdGZyTjEyOTl1ZWpOYWRtTmp1LVgwanIxeEJ6MWpJZW5oZDAwRTk2Y05xRnVKX2tVOVllMzRxUFlQX1JFY1NiZWdyVnFCdG5CcjFEVlp5WFFuR2F6M1JHU2VNZS11dmdzemJZREU5N0EtdHVIVzlJSmRLVVY3MnNhYlBRZkhySldvV0hCVEk1MG40VU1ZVlB3?oc=5",
-   "source": "新浪财经",
-   "published": "Mon, 13 May 2024 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -1669,12 +1636,11 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
-  "weiqida": 0,
+  "weiqida": 1,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
