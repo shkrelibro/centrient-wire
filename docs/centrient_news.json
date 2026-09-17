@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T21:27:14Z",
+ "generated_at": "2026-09-17T22:26:17Z",
  "window_hours": 36,
  "items": [
   {
@@ -1684,53 +1684,19 @@
    "source": "finance.sina.com.cn",
    "published": "Wed, 01 Apr 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "5275f044ea327884",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "f0dd221a7f7095ce",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物净利大增270%，欲布局合成生物打造新增长点 | 看财报 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTF94eTI4a25qQmlJZkoxMmNmUnowZkY1TzhsbkU4ZHNFTHItWmFOZERJT29oNzRHcVNoazA2NXlCUHRodmJuRC0tdmp3WTJJNzVWeXZYZEdoT0xjTkRWYlhhcDRpYXdHTEFHdV9mUDR5YmtWMkpGSTBBN0hOVDlvQmh3aGxpTDBZ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Mon, 13 Mar 2023 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3b48785c0bb1734e",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "“医药反腐”持续发酵，影响几何？陇神戎发、川宁生物等多家上市公司回应来了 - jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90RXBMZ3MweU9ET2w5NlhsX2VWaXh2cG16WDE3SmVvMVBKUUdNdUZEYy1kWk1BN3Jhc2Nfeml3V196am4waVlJR2FZTDRHbHo1ampBMA?oc=5",
-   "source": "jiemian.com",
-   "published": "Thu, 10 Aug 2023 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient": 0,
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 1,
+  "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
-  "sandoz": 2,
-  "weiqida": 1,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -1738,18 +1704,17 @@
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
-  "policy_eu": 0,
   "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "unchanged",
-  "reg_fda_ia_6678": "unchanged",
+  "reg_fda_ia_6640": "skipped (rotation)",
+  "reg_fda_ia_6678": "skipped (rotation)",
   "reg_edqm_ceps": "skipped (rotation)",
-  "reg_dgft": "CHANGED [JS shell — if hash never changes, treat as broken and rely on policy_mip news query]",
+  "reg_dgft": "skipped (rotation)",
   "reg_ema_news": "skipped (rotation)",
   "reg_mhra_alerts": "skipped (rotation)",
-  "reg_pib": "ok (0 new)",
+  "reg_pib": "skipped (rotation)",
   "reg_fedreg": "skipped (rotation)",
   "reg_gacc_monthly": "skipped (rotation)",
   "reg_nhsa": "skipped (rotation)",
