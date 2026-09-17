@@ -1,7 +1,51 @@
 {
- "generated_at": "2026-09-17T07:30:29Z",
+ "generated_at": "2026-09-17T08:31:07Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "4feadce182120598",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "Shionogi, l'alleato giapponese per combattere una nuova emergenza sanitaria - Corriere della Sera",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV0U2R1ExMV82dkRXb25Sd3NPcEt2VElxeHRmMHdaTEY3NlBmZHZveDlzVmd0UjJmNXdDY1haU0R4OU9NUWV6NHA5RUxVNENWMzVVWUZ5VEUtM1M1akprT0tlUkxVc2pzNldJcEtRZTdSai1qV2dZVmhzMk5FY1ZJS1BqbmUtVXNkR0xNdUFzTEdXRDBNRE81aFJZRWRMWmxpUnVZdWFtM2RmNWxMVzFfZnA5Wkg0c3hfcS11eGhoclJzNFJJdTJnXzRSZjVGOVBUWk5idGUyRUlLZXFQQzk0SFhaZC1IN2RVY0lmaXFSbWtUN3NBRVF6aml5QVhXTmlmR2tFaXItc0dKb1pkREphaFFNWjI1Z3PSAZwCQVVfeXFMT0NJSTZVMGdiTExqOWh4ZmFpOVJzLWF2R1FNWjItVEV4U3FpMWRlR2N6bEZBM3BwZDl1RC15a1RUeS05TmYzcmp0TlY4NllfSnRreXZFcTh4bEN2UVI1VmJnYUMxVUtTT1drXzNxTm1YcjZBQkhZWnZWN0E5Tzh6WTVUdE04ODdzN3l2eEw0S29zNmhMcUNyRmxELWVxbVI4SnBqREFvSUk3SkVQS0dXQlE2M3VBd1B0R3Y1SlhkTHRFS0ppall4cDh6RFBmanQtQWp5YWR1TENfRS1yTE13YkVqV3pxMFl0cEN1MnpibWJ4OFAzZDE2WUJNUERtaGxHMG1kZ2lETC1Xamh0ZDY5LWxnZVlqczYydU1SMUg?oc=5",
+   "source": "Corriere della Sera",
+   "published": "Tue, 17 Sep 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "610c6d353106ea41",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国药现代4亿元“接盘”大股东亏损资产 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sOGJ4bDNaYVkwUVlvVTVUc19YbGJLOGp0RVphLUV1YU5JcVE1dTB0a3pHZkMzM2ctTFlvUEhzcTByd2h1el9YLV9zMkU4RExJWkptenliX0ZGck1XcUFGWG11ODJSM2ZvdkU5YWJfOVJfYklCZkhNdg?oc=5",
+   "source": "新浪财经",
+   "published": "Sun, 30 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "221f49383e8aa0b2",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjJhVi1sMElSQTlWeGtWRTBESk1ZMmJHVWY1eE1GQzJ0WjFyQ05UcUd6QkN0VHVtQnNsRFJHVU5sUGlhQUprY0tYWkdPNFJsYlBKdWtHaGkyM0x0dFU3aGpuN29lQmhZbnFoM1hZMHh4TGxHbDB2Wm9VclpvYXpYV2FiOTY?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
+   "trip": false
+  },
+  {
+   "id": "a0da3e6aaf1749f0",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "科伦·川宁生物与ACTIVON(韩国)达成战略合作，助力功效原料全球化布局！ - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZTFER3JYMzU0WktWcnhLWWZWYUYwZS16SnF5b0ZYMTBialNzNTA4d29CdjNVM0tmWnJtRkJzZGQ3Y0hoVzY3Q0JoUlVtWUF6?oc=5",
+   "source": "Sohu",
+   "published": "Sat, 10 May 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "ae9c7d583b6c2e3c",
    "query": "ncpc",
@@ -1541,29 +1585,19 @@
    "source": "东方财富",
    "published": "Fri, 15 May 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "4a0437f0138575f6",
-   "query": "acsdobfar",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Latham Advises BC Partners on Its investment in InfoRLife in Partnership With ACS Dobfar - legaldesire.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEJmSGd2clpCTEpvZXNLNlRTUGpJNXRyUEtic1RrWVRrOGxEaU9pODM1UURnUWJqeVVCZ0RrN21URndOaU9IRFRWeGxOT0UxdGxGbXRlNHBQTEcyTnFLYzZuUVREQTJOWThmd05rRFc5eW8tM2hScFAwdlV4SDJ3YTVjR3RUZTQ3NTMwQm1xSmhMVDAzWWhNbWd3MWFCR1RJNmVmWTFQdVNUM1Zrd3pEQlp0TQ?oc=5",
-   "source": "legaldesire.com",
-   "published": "Thu, 30 Jul 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 2,
+  "ncpc": 1,
   "aurobindo": 0,
-  "weiqida": 0,
+  "weiqida": 1,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
