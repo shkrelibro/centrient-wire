@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-17T22:26:17Z",
+ "generated_at": "2026-09-17T23:24:31Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "2e3d1dfd9812b601",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEdNZ1Q3b3RMZ1JQN0RjY2ZnZWZhdnZlcHRyZnkxQjFOdlNTTjFldkp0Sm9UNEdiMWdKR2pEelBXSUhxeURZN2xOODcybW5aODhmRUJjYWw5dUhIM1hNcktPdUM4emdGbW5FU3dydWhJcER1amg5N2ZfeDdJMTBsdzR3YU4?oc=5",
+   "source": "新浪财经",
+   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
+   "trip": false
+  },
   {
    "id": "70d5ec57a0f91042",
    "query": "reg_dgft",
@@ -1563,127 +1574,6 @@
    "source": "finance.sina.com.cn",
    "published": "Fri, 07 Mar 2014 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "8b263c0637b16be7",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药集团：SYS 6010获纳入突破性治疗品种 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQjVaWXh3XzVXenZqYU1MRkpBRng3NkVnN0FoSTZLZG5TT0RsZXJrZkU1WWY1V21fWmQ1YUxnYU9xT0FtMFV3QXEzSWdjUjlSamVXZXJJQlZBTHA1Q0poSlUwRU5uUk5yYmZ6V2gzdw?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Tue, 15 Sep 2026 10:06:34 GMT",
-   "trip": false
-  },
-  {
-   "id": "379b9b3032cec388",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "BD改命撬动460倍暴增，石药创新“盲盒”悬念 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHRpTHVMTXA1d01KVW9rdDNNQ0hGbjRtTElzNWlXNFFVU2RkUTRwNDg4OVBYMHRTRWd6MW02V3ZjYmltVlBTTjBub28zSmlKYTNodm93OUI2eDVEVnZCOTJhTjJBT1JmN3lMZkdRdG9ranBmRW94eVpUT1FIMGw1bTE5cm9SN3RLMWNN?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "245f641eb6665930",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国药现代：公司抗生素中间体价格受市场供需、成本等因素影响呈现动态波动 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByZDlIWllqaUZ5NDNLaUdleGtPdEg2UjJOVTdQcS1RS3AwTWNPWlFHakNfNmFZZTN3NGdZeU5tbHh5Z21acURQMG83RGN6aUlabzZ6OVVSb2RzZncxc0otdU1JQXlMaUZHX1hRRWtn?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "0b6704177b822af4",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国药现代：坚持合法合规稳健经营 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CeXpKQWdjMGJ2Q0ZnbVVNN0E1MmcwZWhhZzJrYThidUxWbDhDV0VXcVYtdjhkcHFITW9QTFpJLUNxRDh5cUhRaHZnTnA4NVJWUl9IY252d0h3UGhIcGhaVkY3Rl93Y3F4SUJMLV9jV3lUZENCSFV6NzBSN0w?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Fri, 04 Sep 2026 10:30:44 GMT",
-   "trip": false
-  },
-  {
-   "id": "c87eabf678777ce0",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "肝素板块9月16日跌0.07%，华北制药领跌，主力资金净流出2789.23万元 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0tZVkxkVHpIRzZjbmJBY0lpZFVJS1oyWkRlM183cDhNbVJrVjJSSjJPNU5pSHBwcW95akxsa0xKTHNVUDAyS0lMeDV6OXRNTXR4Y0RiMEJHWU93LXRodTVrMGh2Snp2M0VCQ01KWXlSUmRiUzJjRF9JUHJyNVBicDV2aHRCdHgwQXYzdw?oc=5",
-   "source": "Sohu",
-   "published": "Wed, 16 Sep 2026 09:24:05 GMT",
-   "trip": false
-  },
-  {
-   "id": "bc14327cc609237c",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药80个品种（150个品规）入选 《国家基本药物目录（2026 年版）》 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZNF9iZ0g4Slphb0VNZHFFbUFHQUlMeE5ka2plVGNBUHNYZXF3aFJQekFHamVlTEpxYUY5Smg5VmlCRHUtdjhHampSYWhrTGRHR2tLQ00tSXZGZE91S0R0RmFkZFNBZmYzc1kxREJ5dzNlQW96RHJKZkJldG1FZw?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Fri, 11 Sep 2026 07:03:30 GMT",
-   "trip": false
-  },
-  {
-   "id": "867af4264eea742f",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSYklIdGhPcEVRMlBSMEV2QmsybzcxZXQ5VWhKUDhxMF9Ua0VsOG9DTEJ4M2hUUmNLS1FFWUk4a3ZMXzhkMl83Nm00QmpCNnhVNDY4b1dfN3F4UEsxRDN4RV9CX0pIRW5iSG9haF9aV0Rnd2YxXzJacG9TQW5WUQ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
-   "trip": false
-  },
-  {
-   "id": "e3a42d4d10bce803",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "河北日报：抗生素生产，实现全流程重构！华北制药与清华大学联合攻关微反应器技术 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSlVWSDNwbHRjM3VkY1N2b3dtNnh3VkhjLWdndEVUZS1MOExJTzkxNm1VS3F1R043U1F5ekdhQlZXZWc1TFFZaUY0VFlLeUk0UWJPelR5SExQSTg4aW1SM0lLX0d6aVNQS2gwdWFZMlN2WTg5eGpEUEZ0aGZVQQ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Fri, 04 Sep 2026 13:13:08 GMT",
-   "trip": false
-  },
-  {
-   "id": "036bfbccdb9b04ba",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7.7亿元合作终止 昂利康转型再添变数 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4aDk2Wms0b1piM1VfY1NHbEFNVnltLTMzY2hjR0N0UlRJdFFxNzhBTmx1OWs0MVFWdlc4SWtWT3JOZUdUaXFkbEpVNmtmckU2bFRMOEg5bGh2TXdHdm4wenpWVmU1TmlBTFdhY1hIRnVmekxsUkZ4VElWUHI4UQ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Tue, 08 Sep 2026 16:22:13 GMT",
-   "trip": false
-  },
-  {
-   "id": "debd511c69976825",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "转型阵痛的昂利康：传统业务增长失速，豪赌创新药前景未明 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBidmJCSDQzV01HTXdyS2Q1eXBNc2xDdUtZVlFaUHRoWjlhN3JGZnBIbDVWZFVvVFBXdklqTnZ3Y3lfMFFxdUUyc2hsNFZtUWV6b0JMRmJPV1FYdFNRWnQya050cVAweW5OUHlyU3ZrYTNCZzVmZVo0MVZRQzA?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Mon, 07 Sep 2026 12:09:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "ba890e3f6a1ad0cc",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物2025年 研发投入激增合成生物学与AI技术双线突破 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa19UUHVvVlp5R0U2TVNxNlJ6RFRCQnlhbWlFMU12TVVWNjhoYWpFNzVlZ2J4dF91c0w1WHFKNXNwTmNvTnNnNk1aNlBnUmlWaTFBcUNkT1dLd29hWVpFaDBmOEJyNnl3OUpxZzAwcTdjYS1SZEZaWFBvZTRZY1dKR05NYVk?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -1691,12 +1581,11 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
