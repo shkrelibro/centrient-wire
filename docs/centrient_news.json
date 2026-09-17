@@ -1,7 +1,51 @@
 {
- "generated_at": "2026-09-17T13:29:52Z",
+ "generated_at": "2026-09-17T14:30:59Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "ab309b4dbda975ed",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "ACS Dobfar si affida a Newton per l'evento celebrativo dei suoi 46 anni di attività. Coinvolti quasi 1000 ospiti - ADC Group",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPb1ZLczVPcjZBZUhCRVNmTVRybVFGTmlTLVJkRTE3X0Roc21VRHFjNVN1cW8zbzFCdjE1SEpHc2FCaUFoWFJuNE0tV2d1VzAyNE9NbkxqQjNhZ1RYX2RpdkR3VktjQUZTc0xMcnRGV1ZKa1ZtMTE0VWF1VEdnOXRBMF9yd2tmSmYzTFRVdjQzLTBHaGxjSFVxN3dCODQwMV81SjZiS2ctVHlhcXJGeC1lVE9QakEzUFpjT0dhMnlHQ1poYmVKQmlmWVVSVFp2YmlocmkxRVpTU0ljaEh2Uld2Tmh5Wms2RkhsdFpvb0dhUFpzeWtUZml5OHJVc04tb1VaMlA0cXRsQnZsRFJJN3NwSlRWem00d05mQ1FCMVBzTkxvTjloVy0zY1R0N3lOM2ExdlE4?oc=5",
+   "source": "ADC Group",
+   "published": "Thu, 07 Nov 2019 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "489bb3fac69e4c12",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）9月17日主力资金净卖出182.01万元 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTJLcnhkcE1MUml4ZDdHTWI1UnljNzBNSmNBdnl4V3pQUVJMUjF5ajJUZTdNS2hqVlk1U0hnZXRUanlxQUljb0JqaFdZYzdNcGFsUVhRTzVKMWd5Vy03a0NfNTJIOHQ2UU1hOFFQLW1FOEtyN0pRZF90bEVqbzdVa3hIOUFnbURVT0swdA?oc=5",
+   "source": "Sohu",
+   "published": "Thu, 17 Sep 2026 13:40:26 GMT",
+   "trip": false
+  },
+  {
+   "id": "9558487143ca17cd",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "复盘5月上旬合成生物的游资“战役”，万亿赛道“新故事”，有哪些资金吃肉了？ - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWW9CeGpBVGpzMEJrck5zaWR5QnFJZWJNY0Z4aDVFSWphTl9XeWJPT3RPVi1SOGFTanY1V3lYR2ZBalAzVU1FeFVCTER2V2FxMEhuYnk2dFNxakhKVk96U25pSzFpVG5NYW91NUVhUl9HWVpNc3FoOXJNay1HNGh1TUphWHRqMFp1Zm1MUExCRi0tY2w3UXlQQVlxdGZyTjEyOTl1ZWpOYWRtTmp1LVgwanIxeEJ6MWpJZW5oZDAwRTk2Y05xRnVKX2tVOVllMzRxUFlQX1JFY1NiZWdyVnFCdG5CcjFEVlp5WFFuR2F6M1JHU2VNZS11dmdzemJZREU5N0EtdHVIVzlJSmRLVVY3MnNhYlBRZkhySldvV0hCVEk1MG40VU1ZVlB3?oc=5",
+   "source": "新浪网",
+   "published": "Mon, 13 May 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "1a2f43dfdb2d196b",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "减重药公司联邦制药股价大涨，跨国巨头纷纷入局中国减重药资产 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BLW80MkZKUDBtZXdKV0toWkpKdzNaYWVQa05VSTlDS25XNWszSFhvZXRvZFo2cHNJQVhMLUUzQWNZZVdmOVZtbjkwY3M1dTZnUWJFRDFrVElfSlNxNkQyem16eVJqdjBNeUQ3Z3ZuMHRwV0ZIaU00cA?oc=5",
+   "source": "新浪网",
+   "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "853d1e6222ca3f9c",
    "query": "weiqida",
@@ -1431,51 +1475,19 @@
    "source": "finance.sina.com.cn",
    "published": "Thu, 15 May 2025 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "3c9bc3c44f2bff4a",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "“AI老法师”上岗记：当大模型接管工厂，让“制造”像生命一样进化 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JYUZVN1hxRzZjaWRuZ1NPUmxudEpnTElSY0N0QnJrZDd2a2NPRks1bzFiQ09VRmlOblhlWEVHbm5zVjNROC03aQ?oc=5",
-   "source": "财联社",
-   "published": "Sun, 26 Apr 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "815f698d94b54534",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "未来产业 赢领明天丨“合成生物”和“规模发酵”双轮驱动，且看行业“新秀”如何一举夺魁 - 人民网-上海频道",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81NjlXNlp6YmFaemFHLVc3THJscE0tbWdlcHM3R1VjZ084YXJ1bjRQdzVoNTE2NHRvNnJDNXRhWktkMVZaZG1ybF8zZ09mTXg4dTRFcXcyRDB6LVpuaWZQSlZyazJzdTBwNGc?oc=5",
-   "source": "人民网-上海频道",
-   "published": "Tue, 28 Nov 2023 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "69f7e2c487f42b93",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "科伦药业引爆这个赛道 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVktNZVcydDdkTm5GTXBYZjZSLVFILUF2b1o0WGlRMmhtVm9kakttY05BSTdWbTU0QzkwNWFqMkhTcUNxQXFMZF9MTzhQaFZOMHAzYmpTUmdsQ2xZczRaQS1HTW1QWlB1UDBBNjB3bkRiYldtYlAxbjd1dWEwdzVxc0p0aXNLSjE0?oc=5",
-   "source": "新浪财经",
-   "published": "Thu, 15 May 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
-  "chuanning": 0,
+  "tul": 1,
+  "chuanning": 2,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
-  "weiqida": 1,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
