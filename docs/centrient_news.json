@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T01:26:51Z",
+ "generated_at": "2026-09-18T02:30:06Z",
  "window_hours": 36,
  "items": [
   {
@@ -1409,77 +1409,11 @@
    "source": "larena.it",
    "published": "Mon, 11 Mar 2024 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "5ae325ddcbb25b43",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药股份有限公司关于下属公司获得《药品补充申请批准通知书》的公告 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zWU1LUzd1LWNXWV82WF83SG53dktXNm4zTG90S3h4eFZwSmlpczRDZUhmT2J2VElseUlzUmhtTEJsU3M5Tmpmdm1nNmFUcnVVWmpaQmVwZTBTUWJieWpKQ1VBYi1rWVYzSC1oUnFkMDFWY1FlT3kyMA?oc=5",
-   "source": "新浪财经",
-   "published": "Fri, 17 May 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "acaa8bba24f4eeb8",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物20cm涨停，医疗创新ETF(516820)涨近1%冲击3连涨，港股医药ETF(159718)盘中震荡 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR29oeERlV01UekVBbENaNFBLZk9wYTNzZThGR3NRWDdtX3RYblhDdEYzX21VREk2LThrMzExcnNSYUFpU1Q4a0c3ZEozOVJkNElObGpuczhpXy1OdHE5YVN3cmhIZ0JPVU1TSmxORQ?oc=5",
-   "source": "新浪财经",
-   "published": "Thu, 15 May 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "95efe64359495ff8",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "科伦系“技术教父”刘革新：第四次创业为何押注科伦药业川宁生物 5月15日 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1SlBzVk5fX25ENEhRUkNEXzhnSkFXd3YybmdKRFd2M3JIM1dYLVN0c2Q0R3lJalAtSVZvRjZSbHBIZkZNMUlVQWVwamRLWFhZ?oc=5",
-   "source": "雪球",
-   "published": "Thu, 15 May 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "56b39281838457d8",
-   "query": "centrient_core",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Bain Is Said to Explore €1 Billion Sale of Centrient Pharma - Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGlmWHk2V0VXSEY2dUlFTjJMRVF0dXczY2daYVo1TVhodEpqMUt1UWw4ZlUxRDZEdU1FMklrZElnMmptSWxOZmR5YkMwZW55WVdWYXdmZ05odlpmSnN1QzV0TWRUZTFxM2duSDJRNzV5QUNmNXNpbzVSb0RUU0w4T3pYanF1TXMydEdTVzJJUFRrQ3pZWTExQjIxVlRWaVBYRHluOUFBcGxKR28wWlE?oc=5",
-   "source": "Bloomberg",
-   "published": "Wed, 03 Jan 2024 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "05a0b3dfba241de9",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药集团：SYS 6010获纳入突破性治疗品种 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQjVaWXh3XzVXenZqYU1MRkpBRng3NkVnN0FoSTZLZG5TT0RsZXJrZkU1WWY1V21fWmQ1YUxnYU9xT0FtMFV3QXEzSWdjUjlSamVXZXJJQlZBTHA1Q0poSlUwRU5uUk5yYmZ6V2gzdw?oc=5",
-   "source": "新浪财经",
-   "published": "Tue, 15 Sep 2026 10:06:34 GMT",
-   "trip": false
-  },
-  {
-   "id": "d06d72031af6ad00",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "肝素板块9月16日跌0.07%，华北制药领跌，主力资金净流出2789.23万元 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxT0hTYU5nMTN4ZnJ2ZjZOMmhkRmk0YnBSWmw5ZUtSMC01dzBPSjdlOE5OZENHSzZVcVhOWmxwNVBwVmpGd1JLTm9vcjhJZ1NuazYtcHd3?oc=5",
-   "source": "Sohu",
-   "published": "Wed, 16 Sep 2026 09:24:05 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
+  "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
   "ncpc": 0,
@@ -1487,6 +1421,7 @@
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
