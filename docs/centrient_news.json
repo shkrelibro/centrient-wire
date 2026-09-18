@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T04:28:44Z",
+ "generated_at": "2026-09-18T05:27:04Z",
  "window_hours": 36,
  "items": [
   {
@@ -1442,17 +1442,6 @@
    "source": "新浪财经",
    "published": "Sat, 25 Apr 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "335e9dd595681f15",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康（002940）9月10日主力资金净卖出2014.52万元 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BdGxyczlhWk14eHJoLXdUbzRvTGs5VVVsRFJqZGJTT2Nmd3dTRmlnUFJ6bmJhTzFWcEhsbEs2S2MxbDJlQW9EUDJyTDRZQm9LMHpPZHY2YlI3YVZYNWFiempQZjNKTkU?oc=5",
-   "source": "Sohu",
-   "published": "Thu, 10 Sep 2026 07:36:03 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -1460,14 +1449,13 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
-  "weiqida": 1,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
-  "chain_6apa": 1,
-  "chain_pensalt": 1,
+  "chain_6apa": 0,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
