@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-18T10:28:41Z",
+ "generated_at": "2026-09-18T11:27:52Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "6c04ea658792bbd7",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "石家庄：让人才和城市一同成长 - he.people.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhUVlVNVU1SWxtZFg0VUtJLWtJTkg2c3dsYWJGUkFITGVGcU1ibHdpLXlJUF9IRWtILVRTWEV2MXNLTUFCcUZUZXhtd0ZSS3ZqSnJqMVhlc2NHMEZJSUNObEE2aGl5R3c4OUE?oc=5",
+   "source": "he.people.com.cn",
+   "published": "Fri, 07 Nov 2025 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "d345d108c4954ef4",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：甲苯磺酸艾多沙班片获得药品注册证书 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDRzhkakZqR3JkRDk3Q2NINUZpM3drTXUwWGVWa1I0LTdONzhqTkpiX1FmU0ViRUZsSVo3R2p0Z2FNNkF6TWd3dU14TGdBZ05Cb3ItMFU5bzk5bGlVLUlOTWtLRXJNUjRVejZTWmdJWQ?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "e6a3a396752fa2b5",
    "query": "tul",
@@ -1431,74 +1453,18 @@
    "source": "expressen.se",
    "published": "Thu, 12 Mar 2020 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "b7f6e2cdcbf41bd6",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Penicillin G Acylase Market Size to Hit USD 257.77 Million by 2034 - Precedence Research",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeTl1OU5DQi1sMlIteFpfRjN5UHkxbDRMb3hqdGg3aXk1Rk92ZFkwZzlFVGxRU2l5UVVPelpnaUdhZWVJNHhTWjlpendaOU05c1NEQ1lNcURqYV9NdS1fVEdvMldrS3RrMUJEZDhzbw?oc=5",
-   "source": "Precedence Research",
-   "published": "Fri, 22 Aug 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "5a59c105560652c9",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "河北日报：抗生素生产，实现全流程重构！华北制药与清华大学联合攻关微反应器技术 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vS1hqSFpnYV91Q2ZVUjdOSmRaSU5yVEFORXpBTnJCcHB0eXRVOFQwQ0dXeklONnpMeFBQQzRlUWxCV0V3ZUNldFRXeHZrUGV6Umt6dnRlcFY5ZEM0N2V0elZ6ZFZYSzdZZ191X2hEM1V3bWl5WGV5dw?oc=5",
-   "source": "新浪财经",
-   "published": "Fri, 04 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "57f2a21d4f683a16",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药及子公司共计8款药品拟中选集中采购 - cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBURkRCWTVQNXczUDhuN2VobkhZVFAyb0xVcEJRbUVRV3JzdmdjcWQwUnF5QzVMcUFVMGRqaDFPV09qTWh4M1dEamFfZkJFb2g1Zml1cENFakpvbXV2Y2pWYXdFcExPV1JhNUU2alhncw?oc=5",
-   "source": "cj.sina.cn",
-   "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "708578ce51f37dbe",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物20cm涨停，医疗创新ETF(516820)涨近1%冲击3连涨，港股医药ETF(159718)盘中震荡 - cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YR29oeERlV01UekVBbENaNFBLZk9wYTNzZThGR3NRWDdtX3RYblhDdEYzX21VREk2LThrMzExcnNSYUFpU1Q4a0c3ZEozOVJkNElObGpuczhpXy1OdHE5YVN3cmhIZ0JPVU1TSmxORQ?oc=5",
-   "source": "cj.sina.cn",
-   "published": "Thu, 15 May 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "aaf6259c0b5e6ae4",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "复盘5月上旬合成生物的游资“战役”，万亿赛道“新故事”，有哪些资金吃肉了？ - finance.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWW9CeGpBVGpzMEJrck5zaWR5QnFJZWJNY0Z4aDVFSWphTl9XeWJPT3RPVi1SOGFTanY1V3lYR2ZBalAzVU1FeFVCTER2V2FxMEhuYnk2dFNxakhKVk96U25pSzFpVG5NYW91NUVhUl9HWVpNc3FoOXJNay1HNGh1TUphWHRqMFp1Zm1MUExCRi0tY2w3UXlQQVlxdGZyTjEyOTl1ZWpOYWRtTmp1LVgwanIxeEJ6MWpJZW5oZDAwRTk2Y05xRnVKX2tVOVllMzRxUFlQX1JFY1NiZWdyVnFCdG5CcjFEVlp5WFFuR2F6M1JHU2VNZS11dmdzemJZREU5N0EtdHVIVzlJSmRLVVY3MnNhYlBRZkhySldvV0hCVEk1MG40VU1ZVlB3?oc=5",
-   "source": "finance.sina.cn",
-   "published": "Mon, 13 May 2024 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
+  "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
-  "acsdobfar": 0,
+  "cspc": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
