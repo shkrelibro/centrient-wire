@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-18T07:28:40Z",
+ "generated_at": "2026-09-18T08:29:54Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "a29ee84ff92d9a30",
+   "query": "chain_6apa",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "高盛：对联邦制药明年价格趋势有更正面预期 目标价升至10.25港元 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEk2aElPNWtiTUhXZ3NnbzN6dm00MXA3WnpnRkp0MTU0OEY5a3c2ZlZGNXpvT2xITzdtRnpRbVNYZGxNRmZsTGFjaDdxOVhTZ0pfeEg3LXlqbWRrRlRtbXdfM1V3eDU1TFVySjlXRDgwTFlNZFBrTlJsWUFSMElma2UxNkdpWkhXSFNB?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Wed, 11 Dec 2024 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "143e8de60e1f5908",
    "query": "reg_dgft",
@@ -1476,7 +1487,8 @@
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "chain_6apa": 0,
+  "acsdobfar": 0,
+  "chain_6apa": 1,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
