@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-18T19:26:13Z",
+ "generated_at": "2026-09-18T20:27:46Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "cc26b1a6ec391c1f",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康依托考昔片获药品注册证书 - eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Sl9HQ3ltSkdHY0RhaG9iU0tVY3FraHUzbHBCNEVWbFdYa3pIX2JpcDRldHhEMll5allmY1pmb09wU2JDUF9fQVhkbFVLdlZ6eDV6T1piVm1JdDVROUpmVg?oc=5",
+   "source": "eastmoney.com",
+   "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "99a4999e0dd008fa",
    "query": "reg_ema_news",
@@ -1365,40 +1376,19 @@
    "source": "Sohu",
    "published": "Sat, 10 May 2025 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "ae9c7d583b6c2e3c",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmY3BOamc4SjQ2YWtLbzZjWGRIZTlKWXE3WDZ2R0FrUXpBd1B6YlNBRjJXV3RISVRGTTRUbzZiaHdybTBUaFBrREJKaklFSUliVkF1WVFmeFVBU3J1a2VJYVNJS2JONUZjUURxQWlnRktiMUhhWGYyZDNUd3dGUQ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
-   "trip": false
-  },
-  {
-   "id": "c37a4ba3ccc1b4b3",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药(600812.SH)：2026年一季报净利润为3547.28万元、同比较去年同期下降38.30% - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVlVTbU9KTWtEZmg5SWxEaV9qUDNLSTF2QU1haEVpM0RDZDV3TC1SaDBUcEQ2dHo4NExZY2R6cnV5WHNWU0lwU3FEMk5qenpiVXUzWUJxZEEzQkRkYmFBU19qUTh6U3pzZjQ4WC1GTQ?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Sat, 25 Apr 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 0,
+  "anglikang": 1,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
