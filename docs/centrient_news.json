@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-09-18T22:27:07Z",
+ "generated_at": "2026-09-18T23:26:51Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "b437a86c9d44654a",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjJhVi1sMElSQTlWeGtWRTBESk1ZMmJHVWY1eE1GQzJ0WjFyQ05UcUd6QkN0VHVtQnNsRFJHVU5sUGlhQUprY0tYWkdPNFJsYlBKdWtHaGkyM0x0dFU3aGpuN29lQmhZbnFoM1hZMHh4TGxHbDB2Wm9VclpvYXpYV2FiOTY?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
+   "trip": false
+  },
+  {
+   "id": "183ed2cae0895c90",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药股份有限公司关于下属公司获得《药品补充申请批准通知书》的公告 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zWU1LUzd1LWNXWV82WF83SG53dktXNm4zTG90S3h4eFZwSmlpczRDZUhmT2J2VElseUlzUmhtTEJsU3M5Tmpmdm1nNmFUcnVVWmpaQmVwZTBTUWJieWpKQ1VBYi1rWVYzSC1oUnFkMDFWY1FlT3kyMA?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Fri, 17 May 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "9dc465d7aa937f8e",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康终止《战略合作协议之授权许可协议》 - news.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rVXYxbEV4aHB4TFZic19XWXRzOE13NFZLY190cVhTdFNZZjQ5TUQzQUNBaGJDbjZXSWpiSzRmZ1ZxNkp6bUZlUFc2Nk9FVUMzaXpreHhR?oc=5",
+   "source": "news.qq.com",
+   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "4a5a17424f2fecac",
    "query": "anglikang",
@@ -1321,41 +1354,18 @@
    "source": "finance.sina.com.cn",
    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "32bc29048ff77e70",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "India imposes anti-dumping duty on certain APIs from China - thepharmaletter.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTh2dmliNE1sQ2g0dzZZMkJPNWFheXIwTUJuM2pHeGt1ZzFUVDVaVWxSVnprT19hZExLYkhTam94dS1BVEZmWmw0ZmhiSHZGTTdaTHh1MURXYXRaTlhqRDhreHIxcEJ2RDFaOTZYclJENkFrcVJHTnJqVHhsUkZ5SDhXWmJ6OVNybFctOHJMdkE0Q3B5eHZaY2pCWTVMcTBqdG11cF9NOA?oc=5",
-   "source": "thepharmaletter.com",
-   "published": "Tue, 30 Aug 2022 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "671bb597bd1f2e8b",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国药现代4亿元“接盘”大股东亏损资产 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sOGJ4bDNaYVkwUVlvVTVUc19YbGJLOGp0RVphLUV1YU5JcVE1dTB0a3pHZkMzM2ctTFlvUEhzcTByd2h1el9YLV9zMkU4RExJWkptenliX0ZGck1XcUFGWG11ODJSM2ZvdkU5YWJfOVJfYklCZkhNdg?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Sun, 30 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
+  "tul": 0,
   "chuanning": 0,
-  "anglikang": 2,
-  "ncpc": 0,
+  "anglikang": 1,
+  "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
