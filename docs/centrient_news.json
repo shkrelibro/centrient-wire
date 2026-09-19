@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-19T20:27:13Z",
+ "generated_at": "2026-09-19T21:26:23Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "9dbff117f88f414d",
+   "query": "reg_dgft",
+   "route": "page",
+   "lang": "en",
+   "title": "DGFT notifications (MIP watch): page updated",
+   "url": "https://www.dgft.gov.in/CP/?opt=notification",
+   "source": "DGFT notifications (MIP watch)",
+   "published": "",
+   "trip": true
+  },
+  {
+   "id": "3207d5f41dbbd06c",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物（301301）9月16日主力资金净卖出883.57万元 - mt.sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DckcwYVc4NmtKS1ZxbWZGNnlKM0E4TjlBYzlvaFMxM3BtOFJEQWd5SmhXNWZ2eEFJYnZadHNvZHRhUmxtN2ROUHloZUFRbnlZ?oc=5",
+   "source": "mt.sohu.com",
+   "published": "Thu, 17 Sep 2026 01:17:21 GMT",
+   "trip": false
+  },
   {
    "id": "0a5df12686c76b17",
    "query": "centrient_core",
@@ -848,30 +870,20 @@
    "source": "companies.caixin.com",
    "published": "Mon, 17 Aug 2015 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "a29ee84ff92d9a30",
-   "query": "chain_6apa",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "高盛：对联邦制药明年价格趋势有更正面预期 目标价升至10.25港元 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEk2aElPNWtiTUhXZ3NnbzN6dm00MXA3WnpnRkp0MTU0OEY5a3c2ZlZGNXpvT2xITzdtRnpRbVNYZGxNRmZsTGFjaDdxOVhTZ0pfeEg3LXlqbWRrRlRtbXdfM1V3eDU1TFVySjlXRDgwTFlNZFBrTlJsWUFSMElma2UxNkdpWkhXSFNB?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Wed, 11 Dec 2024 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
+  "centrient": 0,
+  "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 1,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
+  "sandoz": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -879,17 +891,18 @@
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
+  "policy_eu": 0,
   "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "skipped (rotation)",
-  "reg_fda_ia_6678": "skipped (rotation)",
+  "reg_fda_ia_6640": "unchanged",
+  "reg_fda_ia_6678": "unchanged",
   "reg_edqm_ceps": "skipped (rotation)",
-  "reg_dgft": "skipped (rotation)",
+  "reg_dgft": "CHANGED [JS shell — if hash never changes, treat as broken and rely on policy_mip news query]",
   "reg_ema_news": "skipped (rotation)",
   "reg_mhra_alerts": "skipped (rotation)",
-  "reg_pib": "skipped (rotation)",
+  "reg_pib": "ok (0 new)",
   "reg_fedreg": "skipped (rotation)",
   "reg_gacc_monthly": "skipped (rotation)",
   "reg_nhsa": "skipped (rotation)",
