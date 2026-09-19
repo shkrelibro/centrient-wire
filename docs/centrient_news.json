@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-19T13:26:56Z",
+ "generated_at": "2026-09-19T14:26:38Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "276393fd34081b0f",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "哈尔滨三联药业帕拉米韦注射液上市申请获受理，10亿抗流感药市场再添竞争者！ - 摩熵医药",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Z1RnQ2E2cEtabXhiSmZlYXBLb2c3OHNGSkUzRUJqS3ZZOV90eUJhWHVWMnBzVXpjdlJ5SnRORGNLQi0zZG5KTEI4NVEyUzdKS2FDZm53?oc=5",
+   "source": "摩熵医药",
+   "published": "Mon, 08 Sep 2025 06:38:29 GMT",
+   "trip": false
+  },
+  {
+   "id": "6e23e0c07da4c04b",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "东方财富资讯 - eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYVJhaHBFWGJNTmhYcHY5c0s1eTlJQ1Iwa0tid3Y5MEUxckpPa0JucF8zbjItU2dxQUdoTlBoTmN5Mk5vZDRERHN0SkVKYmN0QXVWZmdIdHU2eHVqdWtvdA?oc=5",
+   "source": "eastmoney.com",
+   "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "9b3c948dfd38f54f",
    "query": "ncpc",
@@ -897,13 +919,14 @@
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
+  "cspc": 1,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
