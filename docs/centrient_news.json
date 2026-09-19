@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-19T04:28:07Z",
+ "generated_at": "2026-09-19T05:26:40Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "ba2e2ca75d519045",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "科伦药业：2家子公司股价大涨240%、190%！ - pharnexcloud.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hcEV3MXR4YWJLX3l3OW10Z1Rrczc2MTVDUjNlUjBjZE9RLW9vUzE0YUo5Z2toWlY3SjZnUnl6LVphaDhNOUpEQlZ2WUpxaFZ1S1dRbg?oc=5",
+   "source": "pharnexcloud.com",
+   "published": "Fri, 24 May 2024 07:01:24 GMT",
+   "trip": false
+  },
   {
    "id": "3267861837a30dae",
    "query": "reg_dgft",
@@ -1079,30 +1090,18 @@
    "source": "finance.sina.com.cn",
    "published": "Tue, 01 Sep 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "95a2bdffa84422c1",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药重组破伤风疫苗项目启动Ⅰ期临床试验 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjJhVi1sMElSQTlWeGtWRTBESk1ZMmJHVWY1eE1GQzJ0WjFyQ05UcUd6QkN0VHVtQnNsRFJHVU5sUGlhQUprY0tYWkdPNFJsYlBKdWtHaGkyM0x0dFU3aGpuN29lQmhZbnFoM1hZMHh4TGxHbDB2Wm9VclpvYXpYV2FiOTY?oc=5",
-   "source": "新浪网",
-   "published": "Mon, 14 Sep 2026 13:53:19 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 1,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
