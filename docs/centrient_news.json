@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-19T22:26:20Z",
+ "generated_at": "2026-09-19T23:25:17Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "4b51a9ae421d128b",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物：8月24日获融资买入1595.05万元，融资余额连续4天增加，市场人气旺盛属强势市场 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGt2blI4NV93ZDJKV3hNampnejVKMC0zcDBKZ0ktMXBRX2RwUlhTRTZIZEdrLTNoS2tXTEpOOFN4WjhyZkNSaWtmbnhDVVJDVXdpY2R6Qi1rSFRyZ3k0VmFlQjRLR05kRjlPZUxZdGFPWWE3TFJZaWE4ZEZNZl9zZjE4LXBiaDRx?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "21c595e8d37c7199",
    "query": "ncpc",
@@ -837,17 +848,6 @@
    "source": "新浪财经_金融信息服务商",
    "published": "Tue, 23 Jun 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "e6a3a396752fa2b5",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "United Laboratories Begins Phase III Dosing of Obesity Drug UBT251 in China - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW5PV1FvME1OWGVkcm82TU5EaExYdE9zQnUzOWU4QjA0clJ5TVFYR0VfQzB6SkRhTlI4Y25aMjlPVVVYbjllaU41OHlXRlpFT05weTVxd202bGJDMkhrRWMtenk2R3p4WlRqbGtiQ3FadHBCM002S2RkSWtvaWlJNk5mXzEtOC1hNXpUR3JZOFRGb2h4ZndwSElJX1FqMFVidEVjV0tfcWQ0YjllWGVVa05XOVMtV0xVUS1RTUxrWWhWaTdLZWc?oc=5",
-   "source": "TipRanks",
-   "published": "Fri, 04 Sep 2026 11:21:41 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -855,12 +855,11 @@
   "tul": 0,
   "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
