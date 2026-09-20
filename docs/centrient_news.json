@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-09-20T19:25:17Z",
+ "generated_at": "2026-09-20T20:27:13Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "13d178cb2b713c38",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "蔡东晨七年棋局，石药创新完成蜕变？ - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHcxWlVodjZscEMtN1JxMzdjWmplUERENnNGb3lIaWxOQnpxdGtOaE1xN2Z4aEdNNE9LeGhfb01CZ0JVSE9QSmNLQm1DYzNsekFFbUp0NHFoNnp1NWdjcTR3d0JmbTlGdUsxaU1ZYmtQVzFXX1Z0TXlnUGQ0b0pMcF84c0dNUlc3RHlr?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "d721cb9b42c97370",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "石药创新净利暴增430倍背后，隐现蔡东晨家族的资本腾挪术 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcXUzQTRsQ3NTQU8xWExBdEl4aWdZMm5md0ZiaVJaX3BUTVlDSVc3dlc4czIxb0Y5di1pNjZSTTc1eElnQlpnZWxKdE5HdnRHWW8xZ3cwSGZOVWR6WnNkN3NWVE9nM19LNkpkcENVTGE3Ri1yZVE?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "2dc746663f3fc695",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：9月17日获融资买入506.60万元，融资余额2.24亿元占流通市值比例2.89%，低于近一年20%分位水平 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUEswZkdjeDNBTV9DOFl5bVA4NXc2aGFEQTdEeTQtM0lxakhpb3Y0V3B3VUZMZ1pPZ21UMGFnbXJZc3NrdVNGNXpscmNna3NZOEVpS2pDQ1ptdld2S1laTEpvQnV3TkFlRU9fX0cybUpkZTBwMXhyV1FBa2VsWkZaMnQ0OVMxWjZTdFE?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Fri, 18 Sep 2026 00:03:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "5f3484519daf7ee2",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物：8月24日获融资买入1595.05万元，融资余额连续4天增加，市场人气旺盛属强势市场 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGt2blI4NV93ZDJKV3hNampnejVKMC0zcDBKZ0ktMXBRX2RwUlhTRTZIZEdrLTNoS2tXTEpOOFN4WjhyZkNSaWtmbnhDVVJDVXdpY2R6Qi1rSFRyZ3k0VmFlQjRLR05kRjlPZUxZdGFPWWE3TFJZaWE4ZEZNZl9zZjE4LXBiaDRx?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "e57fd0b33e6118b0",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物：流转6-7万亩土地全部用于农业种植 90%以上为玉米 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vM1h5RHNwZndQSjVyOUtiRk5Jdk9LelU5enpOR1R4QkhsWWU2UW1wV3M1LWp0RnAwMm1YRjVuLUx3SWt3SDRZQzVIS29PWHF6V1UwajVfZEhxdEJIQV83WFhucjRyUGM4dTg0b3dn?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "7a2b83b3fb386479",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物单季韧性凸显 合成生物学业务迎经营拐点 - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1Z3WWY1VlpBdVA5Tmt6b2lmdS04SXo0dmtuUDJvcFFuR1JiWjdsVS1PRXlKdnFLZnhFN1NxTG9nV1ZoS3dfakZNYWFZWVNjbXZXU3NZYzVPUFRGVzVzaDNxeExEMmFzb0tXLVA5S2FRemN1SEdSREZFbFBVcF9UdzdlUTBPZEFXZHc?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "0964047ee5eea029",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物上半年归母净利润2.78亿元，同比下降39% - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lbGQ1R1V2dDJnNjNEdklZaXBIaGZHRnRsYjFmTjlyU25XMnFCYjVxb3hFMUhDVEpnZlgzSk5vOHlqNDd6emxOekMzZUtNU3pYOTVKVHk5WDVibmZNS1UwYVc5ai1Za1NMOUFPd1UwUQ?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "1126482930972aae",
    "query": "cspc",
@@ -897,13 +974,14 @@
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 1,
+  "chuanning": 4,
   "anglikang": 0,
-  "ncpc": 2,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 2,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
