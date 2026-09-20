@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-20T13:27:07Z",
+ "generated_at": "2026-09-20T14:27:14Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "aadc6a95849bcf15",
+   "query": "centrient_core",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Centrient Pharmaceuticals to Acquire Astral SteriTech - Contract Pharma",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUlVbm95Mko1ZlAxRUFrakprd2hSTGpKWnUtSDB3WUZJcklFYnYtc2VETjhoQTdYTXRuQ0lfMzZ1Z1dFMHZueVpQanZOcER1ejRxTE5fOG1PU0xrTVZ4MTduQmh0eE4zR2ZMSU1hVG1lTHdUNG1NWEdDNEpCTTRwWWtzMkxQRERKbnN4aWo0bFVlc1lLSnpVcjhsWmlGTEpB?oc=5",
+   "source": "Contract Pharma",
+   "published": "Wed, 17 Feb 2021 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "703d9e2aacdeaf40",
    "query": "ncpc",
@@ -760,62 +771,19 @@
    "source": "finance.china.com",
    "published": "Thu, 30 Jul 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "52abc3b799215559",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国药现代4亿元“接盘”大股东亏损资产 - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kazdzMzlKX0UxNFJHQWo5WUlpV1NQTnlRR2VWbEhuTHB0NXNUTnpxa01hb2c2Mlo1T2RxOHliT0VreXVpUUJaTmVFbW51ZXlmZEk2dllhRlFSd25sYXYzV3h4dFFzMDU3Zy1pVy1xMy1rR25udDNPbQ?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Mon, 31 Aug 2026 04:05:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1dc4a0dca834c6f0",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "河北日报：抗生素生产，实现全流程重构！华北制药与清华大学联合攻关微反应器技术 - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBSlVWSDNwbHRjM3VkY1N2b3dtNnh3VkhjLWdndEVUZS1MOExJTzkxNm1VS3F1R043U1F5ekdhQlZXZWc1TFFZaUY0VFlLeUk0UWJPelR5SExQSTg4aW1SM0lLX0d6aVNQS2gwdWFZMlN2WTg5eGpEUEZ0aGZVQQ?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Fri, 04 Sep 2026 13:13:08 GMT",
-   "trip": false
-  },
-  {
-   "id": "115b556afd3fbee8",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药80个品种入选《国家基本药物目录》 - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sdG1JRDFBQ0dLbHBQamxXUGZTLW9reGJ2ZDFyMWJ6Yy1DUWhqeFJuRG5TOWxvQTFOUE9xeUZvbG1CS2lzd2oyQkMtbW53N1g0dXcwTDNhcGhLOXZ0UUN5Tjg0RGI5eHpXakJzMzdCd0xnTXVUblg4cGgzOTJXUQ?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Thu, 10 Sep 2026 13:53:01 GMT",
-   "trip": false
-  },
-  {
-   "id": "d4ebb200f1cbb12c",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物：9月16日融券卖出5300股，融资融券余额4.3亿元 - sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEJtSzNXWEE1Ty1oZ2hSVkpHZnFpbG1TU0UyZkJoQmQ5OWZoQU1QZjI1OC00aHR3MXpmbzJ1Qy0zcDE5RXBXNGdBZHBiZXZJdVlsN1N2NW51YXJ1MGFlQWpFcGp2aXg1RlBFbi1RVF85YmJlaEJxOGt3Q00wa0dMMmltZnBocGVLQy1JVnctUnJjLW5LQVNEeS1zY3M?oc=5",
-   "source": "sohu.com",
-   "published": "Thu, 17 Sep 2026 03:56:21 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 0,
+  "centrient_core": 1,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
