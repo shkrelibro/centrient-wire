@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-20T01:27:14Z",
+ "generated_at": "2026-09-20T02:28:11Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "2831dc5532c2f7e3",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物：流转6-7万亩土地全部用于农业种植 90%以上为玉米 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vM1h5RHNwZndQSjVyOUtiRk5Jdk9LelU5enpOR1R4QkhsWWU2UW1wV3M1LWp0RnAwMm1YRjVuLUx3SWt3SDRZQzVIS29PWHF6V1UwajVfZEhxdEJIQV83WFhucjRyUGM4dTg0b3dn?oc=5",
+   "source": "新浪财经",
+   "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "4a95d94ae2a79026",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物上半年营收与净利润双降 多项突破能否托举全年业绩同比转正？|财报解读 - news.futunn.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTkdXNGZYMkJTRFY5aExyeDNRY1RqSzNxelplWWQyU0hxbUpYT0FVMy03VXJHUWxDSUlyMU1OYW5QUkhRS2Y2ZFVGNnJJNjBCQ2NDZ2REVWhfaTduWWx0ellZQ3FTTTEwRjU3YlNpQk5yeXJIY25IaUF0RkwtSHRpRGZJZFNJbjlTT1Q4ZDBiSkV0QU1SajAtS25JYlNPOUk?oc=5",
+   "source": "news.futunn.com",
+   "published": "Mon, 24 Aug 2026 14:56:09 GMT",
+   "trip": false
+  },
   {
    "id": "566cdc643e20b85f",
    "query": "reg_dgft",
@@ -804,51 +826,19 @@
    "source": "新浪财经_金融信息服务商",
    "published": "Tue, 09 Jun 2026 19:54:39 GMT",
    "trip": false
-  },
-  {
-   "id": "d8910e5619051804",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药创新净利暴增430倍背后，隐现蔡东晨家族的资本腾挪术 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcXUzQTRsQ3NTQU8xWExBdEl4aWdZMm5md0ZiaVJaX3BUTVlDSVc3dlc4czIxb0Y5di1pNjZSTTc1eElnQlpnZWxKdE5HdnRHWW8xZ3cwSGZOVWR6WnNkN3NWVE9nM19LNkpkcENVTGE3Ri1yZVE?oc=5",
-   "source": "新浪财经",
-   "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "85acd4fec2ccfae9",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药（600812）2026年一季报简析：净利润同比下降38.3%，短期债务压力上升 - qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZGprLUdEYXlRWjhmbkdHZm94ZGYxVDh6NmlJQWhhdzJQbHJBUk5RYmQtalJMcG5WR1Nfb0FLaVZqb0lZeVBpTGgwZk5HQVgzeF81MFVn?oc=5",
-   "source": "qq.com",
-   "published": "Sun, 26 Apr 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "db6d1c982a74bd9d",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物（301301）9月16日主力资金净卖出883.57万元 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Ub1VvVzF4UWlYemNqZE1KcXA0UkJ6Wjk2SGY2QVJ6V1VsMU1ZNVRHWlZ2SUZhS2hrRE40dEZkV1dKX2NZa0JkUmU4dW1GdXNacmc?oc=5",
-   "source": "Sohu",
-   "published": "Thu, 17 Sep 2026 01:17:21 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 2,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
