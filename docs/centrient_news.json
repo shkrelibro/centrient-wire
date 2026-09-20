@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-20T07:26:55Z",
+ "generated_at": "2026-09-20T08:28:43Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "7535249ea47f8d9c",
+   "query": "lukang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "“限抗令”升级 抗生素药企承压加剧寻求转型 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5aTAtT0JHLVdNZzdLX01JcEc5ZGRJWUpucTlWOGE2cjducm1TUlRyMWJWUUZ4WEtGdEZFSmsxcklvb01hZEEyOWFRQXJ6SHV0Rnc?oc=5",
+   "source": "凤凰网",
+   "published": "Tue, 28 Nov 2017 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "76c3bb51e0282b16",
    "query": "cspc",
@@ -804,17 +815,6 @@
    "source": "DGFT notifications (MIP watch)",
    "published": "",
    "trip": true
-  },
-  {
-   "id": "cc26b1a6ec391c1f",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康依托考昔片获药品注册证书 - eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Sl9HQ3ltSkdHY0RhaG9iU0tVY3FraHUzbHBCNEVWbFdYa3pIX2JpcDRldHhEMll5allmY1pmb09wU2JDUF9fQVhkbFVLdlZ6eDV6T1piVm1JdDVROUpmVg?oc=5",
-   "source": "eastmoney.com",
-   "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -825,8 +825,9 @@
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
-  "lukang": 0,
-  "cspc": 1,
+  "lukang": 1,
+  "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
