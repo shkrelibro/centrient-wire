@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T10:26:59Z",
+ "generated_at": "2026-09-20T11:26:42Z",
  "window_hours": 36,
  "items": [
   {
@@ -826,39 +826,6 @@
    "source": "news.qq.com",
    "published": "Sun, 06 Sep 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "4a5a17424f2fecac",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7.7亿元合作终止 昂利康转型再添变数 - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4aDk2Wms0b1piM1VfY1NHbEFNVnltLTMzY2hjR0N0UlRJdFFxNzhBTmx1OWs0MVFWdlc4SWtWT3JOZUdUaXFkbEpVNmtmckU2bFRMOEg5bGh2TXdHdm4wenpWVmU1TmlBTFdhY1hIRnVmekxsUkZ4VElWUHI4UQ?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e24569ed2d96d98d",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康终止《战略合作协议之授权许可协议》 - QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rVXYxbEV4aHB4TFZic19XWXRzOE13NFZLY190cVhTdFNZZjQ5TUQzQUNBaGJDbjZXSWpiSzRmZ1ZxNkp6bUZlUFc2Nk9FVUMzaXpreHhR?oc=5",
-   "source": "QQ News",
-   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "2f375b5304a5d04e",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "港股异动丨折价配股筹资，联邦制药放量下跌超7% - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DNHdZSFk3Mk10T2pNa3d3QVFjVHVNSHByamYyVTlld1ZkN0dCbUNzUTQ2RnZmVXpmUkE4YTViWVRSandGd0VHSE9SOGIzLVpqREplMzJKZEJBUXdVcG5EcXFHbl9IRDM3WTgzTFJ0bw?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Fri, 18 Jul 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -871,12 +838,11 @@
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 1,
+  "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
