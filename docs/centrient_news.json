@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T21:28:03Z",
+ "generated_at": "2026-09-21T22:28:16Z",
  "window_hours": 36,
  "items": [
   {
@@ -1101,53 +1101,19 @@
    "source": "DGFT notifications (MIP watch)",
    "published": "",
    "trip": true
-  },
-  {
-   "id": "4a618026017eebe0",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Penicillin G Acylase Market Size to Hit USD 257.77 Million by 2034 - precedenceresearch.com",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeTl1OU5DQi1sMlIteFpfRjN5UHkxbDRMb3hqdGg3aXk1Rk92ZFkwZzlFVGxRU2l5UVVPelpnaUdhZWVJNHhTWjlpendaOU05c1NEQ1lNcURqYV9NdS1fVEdvMldrS3RrMUJEZDhzbw?oc=5",
-   "source": "precedenceresearch.com",
-   "published": "Fri, 22 Aug 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "186f2677609f39ea",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "76d47057f3665eb2",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "关注环保变量和供求关系 - wallstreetcn.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaF9ydzloSUhUczdDc3dqU051Y2E0UmxMSV9WSGtpNXBYNUFaSnBGcUZzN0pRU2xvMXlMdURZd2dWOEFPc0piaDlGTzA1MUE4VkQw?oc=5",
-   "source": "wallstreetcn.com",
-   "published": "Tue, 09 Apr 2019 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient": 0,
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
+  "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
-  "sandoz": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -1155,18 +1121,17 @@
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
-  "policy_eu": 0,
   "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "CHANGED",
-  "reg_fda_ia_6678": "unchanged",
+  "reg_fda_ia_6640": "skipped (rotation)",
+  "reg_fda_ia_6678": "skipped (rotation)",
   "reg_edqm_ceps": "skipped (rotation)",
-  "reg_dgft": "CHANGED [JS shell — if hash never changes, treat as broken and rely on policy_mip news query]",
+  "reg_dgft": "skipped (rotation)",
   "reg_ema_news": "skipped (rotation)",
   "reg_mhra_alerts": "skipped (rotation)",
-  "reg_pib": "ok (0 new)",
+  "reg_pib": "skipped (rotation)",
   "reg_fedreg": "skipped (rotation)",
   "reg_gacc_monthly": "skipped (rotation)",
   "reg_nhsa": "skipped (rotation)",
