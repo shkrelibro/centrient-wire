@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-21T01:28:43Z",
+ "generated_at": "2026-09-21T02:29:24Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "15ea2a525bed409d",
+   "query": "chuanning",
+   "route": "google:en",
+   "lang": "en",
+   "title": "600664 Stock Price and Chart — SSE:600664 - tradingview.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYWlOdmtONUU3aWI3WDdkaklHcnVLamJVaFh3Vl82ZGtoQ2dWZWdhQkJnVGV4d3JSNEFhY3pidkVMYVp4OXdYY0NPVDhGZWc3QmxaZEFFTkxjQ1E?oc=5",
+   "source": "tradingview.com",
+   "published": "Tue, 04 Feb 2020 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "84c9dbbedbbac6fd",
+   "query": "tul",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Novo Nordisk, TUL advance triple agonist after Phase II data - The Pharma Letter",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUh1V0pLakRsOTdQMlY0WjFNeEEwUzJoNmtlcS04U040bEhLeE1FcURLaXlZQ1dpWGtic256UEZndlg0cWhmaTRYd1pfNndMS05DNXVZVjctTnV1MDE2eTZnSWtlSmFZUmRPelU3SGxnaTNEVGlwTmlIQURDTUU2QXpzV2x1algzNGNfamprUXVfdHVfcWZxeTBVNjktVlpRQ1psbU53?oc=5",
+   "source": "The Pharma Letter",
+   "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "a9c0f276ea3d81cc",
    "query": "reg_dgft",
@@ -903,40 +925,19 @@
    "source": "obalaplus.si",
    "published": "Mon, 01 Jun 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "276393fd34081b0f",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "哈尔滨三联药业帕拉米韦注射液上市申请获受理，10亿抗流感药市场再添竞争者！ - 摩熵医药",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Z1RnQ2E2cEtabXhiSmZlYXBLb2c3OHNGSkUzRUJqS3ZZOV90eUJhWHVWMnBzVXpjdlJ5SnRORGNLQi0zZG5KTEI4NVEyUzdKS2FDZm53?oc=5",
-   "source": "摩熵医药",
-   "published": "Mon, 08 Sep 2025 06:38:29 GMT",
-   "trip": false
-  },
-  {
-   "id": "6e23e0c07da4c04b",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "东方财富资讯 - eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYVJhaHBFWGJNTmhYcHY5c0s1eTlJQ1Iwa0tid3Y5MEUxckpPa0JucF8zbjItU2dxQUdoTlBoTmN5Mk5vZDRERHN0SkVKYmN0QXVWZmdIdHU2eHVqdWtvdA?oc=5",
-   "source": "eastmoney.com",
-   "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
-  "chuanning": 0,
+  "tul": 1,
+  "chuanning": 1,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
