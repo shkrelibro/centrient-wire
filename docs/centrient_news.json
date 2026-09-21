@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-09-21T07:30:54Z",
+ "generated_at": "2026-09-21T08:30:49Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "2d4bdf624dabc32f",
+   "query": "chain_amoxi",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "美国严重依赖中国药品原材料 - 纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZVZuS1lwd1A4c3dmOE5rWUpGT3JtZUExTnZQcEkzc2hjc2lSWHFmOWZfdkZkZU1FbE53OUxfbmhHOFJyUGJXTGRNck5GS0FSUzNaNnBZUV9kSjY5TTdfZmdyci1qVldfV3dYMkIybw?oc=5",
+   "source": "纽约时报中文网",
+   "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "582429eb9e5f08ff",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "病例增长12倍！日本梅毒感染快速扩散，美国辉瑞供给药品紧缺，A股青霉素概念爆发，华北制药、川宁生物等集体异动 - i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUOG95Y2NtSThTbVljSHZaMXJROEdhTC1xZU12cE4wWTYyOHVCLUluaHZ2UHp5NndUUnUxTnVqYjBPUlM3QlpVeA?oc=5",
+   "source": "i.ifeng.com",
+   "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "f2c812a8d56faeb1",
    "query": "reg_dgft",
@@ -1035,17 +1057,6 @@
    "source": "mt.sohu.com",
    "published": "Thu, 17 Sep 2026 01:17:21 GMT",
    "trip": false
-  },
-  {
-   "id": "0a5df12686c76b17",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Delfts farmabedrijf weerstaat Chinese concurrentie, met moeite - fd.nl",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3VleEs2X25xbURJX2NrXzdSbUFrbWVKM0g3ajlTUW5JU3NKcUQ0RHlsSF9VZXpGN0MtWXZmNzI2aDRUVFNFV1pLNGJSalRBV1UycWdSWVN4T0t0b3VKTk1iY1lLXzZEQS1TTGl4RVVoTFZSSEU2TWtoYmxDVDFIdTFqMmI1WlFvT0VEQnRtcDc1ZXgyZnhZT1pJNlRhQQ?oc=5",
-   "source": "fd.nl",
-   "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -1053,15 +1064,16 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
-  "chain_amoxi": 0,
+  "chain_amoxi": 1,
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
