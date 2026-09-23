@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-09-23T11:42:25Z",
+ "generated_at": "2026-09-23T17:05:53Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "120dfb669d2d7ff6",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "千亿石药集团“二代接班”！砸4.5亿“押注”减重赛道 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXlJY2N0eXJpZkVWR1k4TnU1cmF1YnpXaklqYlhTdXVmdnJuVW9UNThuaE91NG9MbzR0eTJBMFNqSjBSeHhGbTRndzBQcEROWjRDSW11MFBtVVVzWlZtT2FQdjBiWW5neS12eUlFbW93bG9GdUlsMDkycjV2SmtLMExUNEJkREE?oc=5",
+   "source": "新浪财经",
+   "published": "Wed, 24 Dec 2025 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "f186887952afa193",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "沉默的基因，百亿的战争：小核酸技术破壁敲开药物新世界大门丨黄金眼 - 证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xVE8yRUtpc0JyeE5zZDM0dmQ1R3VZM3RWc2ZnUDZpcjdfVzhvR2o3Q2Z3dXFyb0g3VVV5bXAxc2FkazZyLU1RYjVJbEYzNUVfSWk5cFg5RnZteU93?oc=5",
+   "source": "证券时报网",
+   "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "6b657a542c2dd37b",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "降价压力继续侵蚀国药现代业绩 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVUt6Ry1Za0NCcHVPdWdhRFRBT2hja1VfN1dTcGhGRnhPdmV2SXZlWHVsM08yWjk5N19PSzh2OXhYbVc2Yzd2NTUyU2dUQnFsZUJiZFlKa09DcEk0dnliang0QzgtZlBicjV1bmdkZ29keHA3SDlUSA?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+   "trip": true
+  },
+  {
+   "id": "858911c1337a48d6",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "浙江昂利康制药股份有限公司关于第四届董事会第二十二次会议决议的公告 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kLVVmNFhxT0Y1dHp5ZS15Mk1jYVNETnVxeDVwcGVuX3J4MXd0NFRzbU9QZUlUZm5PdDJlVGJHSGZlR01YbEpVM0otMngtTEQ3ZFFuSkJSdlQxbWp1cGRqWDNYUi1rQmJiMWE3UFM4RnZtREwtZ3pJdg?oc=5",
+   "source": "新浪财经",
+   "published": "Wed, 23 Sep 2026 00:54:49 GMT",
+   "trip": false
+  },
+  {
+   "id": "59a97a9969b588c3",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康：关于第四届董事会第二十二次会议决议的公告 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04QlpNZjRRQ3lXUlFDN0h1c29FVURLdXhXUGNQSlZKTHlOSEtUSGJfcGpmUldhZTVQR0h2QzdoVDduYWpqRGFIbUl5ZjZINng2QVJFUHRUUDREUzBuRVd1NA?oc=5",
+   "source": "东方财富",
+   "published": "Tue, 22 Sep 2026 23:04:02 GMT",
+   "trip": false
+  },
+  {
+   "id": "5d84beb9b5296f5f",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）9月23日主力资金净卖出259.86万元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXpMNFVtMzlMNEtWcTZHanBKbVU3a1NjTDBTRjBPMHZVTFpxU3NlSmV6Q0hfdmZLU09EUndVMEVmLUZLSXV1M0J2VzBVMVVoVFM5aGhRSTdMVWJ3d3FSSXlPVGZSZVBwZVRKU01GNlFaVU41Q2MzLXpVRUlGaE0wZ1Z5UFpvb0xCMWpHOA?oc=5",
+   "source": "搜狐网",
+   "published": "Wed, 23 Sep 2026 13:17:10 GMT",
+   "trip": false
+  },
+  {
+   "id": "0461bdd0f3d657f9",
+   "query": "tul",
+   "route": "google:en",
+   "lang": "en",
+   "title": "The United Laboratories International Holdings Limited (3933.HK) stock price, news, quote and history - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50cjJLRk9yd1NVZi13dU9rQzY1NkZkRC1Qa3NpdHJuZHBoODh3SG9UR3BvMjE2dHpXSlMzcDVUZThldXU2ZnNHMU9qS05RRHJWS0NEM2V3?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "Fri, 14 Jul 2017 19:10:56 GMT",
+   "trip": false
+  },
   {
    "id": "62863e4dfabb3a15",
    "query": "chain_pensalt",
@@ -573,67 +650,12 @@
    "source": "FNV",
    "published": "Wed, 05 Jul 2023 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "e73c37ad2f635d77",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "美智库报告：美国医药供应链对华依赖构成国家安全风险 - 虎嗅网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UR1JUWWZrRXJ0d3luSVVIeHM0RkxSeXJCQ2gwOG5wa0FydW0xS2N0SkpZek1BOTM3ZkhUMl9wZ2dEV1FqUy1ZbHNQbjQ1Y0JjLXVNVg?oc=5",
-   "source": "虎嗅网",
-   "published": "Fri, 12 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "d7a984a20733910a",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "资讯 - 2024胡润中国医疗新势力企业/2024胡润中国医疗青年企业家 - 胡润百富",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GZnoyWHBVRm9HRGFNYkdQdmZOcExhWVROcjQ2S0dmRWszRWc0ZkN3ejJsYVBBY2VPMExyUWs3REhtNWlPMUlZUmFFUmFpNGRjRkFUZ1BMV2xwWHEzZHgteTBoYXhVZWM?oc=5",
-   "source": "胡润百富",
-   "published": "Thu, 05 Dec 2024 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1713894988dba5b6",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "恒生指数上涨0.76%，民营医院板块涨幅居前｜港股收评 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUVEUkpwV2FzNEQxOHFCdW15UUc4VVY4aUVoVDNXdklISXR1RDVFdnI0bDdUU1ZNQzZIdmpneWtFaDRoZjEwUVhEYVBLb1I5WjBOdHhoVktQX1hxUEg0V01vSUNoOGhRdTZtdGJYYzFBMXZWY2o0cE9hc0RWc2xaZkdTSEp1bnRxck5OYg?oc=5",
-   "source": "21财经",
-   "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "30e92afd22268dfd",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康：关于终止《战略合作协议之授权许可协议》的公告 - eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpd3hPVkJkQUtBdkhzVGVSc05qNTRDYkxXRllpVl9HS01mekI3NXVURjRmeTBqUUJhbjdsMU9MQnRlV2htaVkwWXBOTDFBdy04VUxZQmp3Z1JQN2JUdlFUcQ?oc=5",
-   "source": "eastmoney.com",
-   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "06b5f8566c05e706",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "转型阵痛的昂利康：传统业务增长失速，豪赌创新药前景未明 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXJ1M2xUTVc3eVRZNHVZWlRtS21PY3B3R3hlY0VXTkM4LWF1ZnhGUDhnNlQwaTJTdWpEVWFxdXFOaVFUWTk3NTU5T3JFVWNpQ2JYeXF0UldRbjU0UzVzY1BTV1JCYkhLUGpobmRtSWk1c1YtaFpIRXQ5YmxSZ0JZVUtETVdlMDc5?oc=5",
-   "source": "搜狐网",
-   "published": "Fri, 04 Sep 2026 09:56:30 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
-  "chuanning": 0,
+  "tul": 1,
+  "chuanning": 1,
   "anglikang": 2,
   "ncpc": 0,
   "aurobindo": 0,
@@ -641,7 +663,7 @@
   "lukang": 0,
   "cspc": 2,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
