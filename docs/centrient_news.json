@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-09-26T22:54:27Z",
+ "generated_at": "2026-09-27T01:30:23Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "f0d0ec4113a77141",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "中美维C垄断案落幕：华北制药胜诉！历时十六年，多次反转 - mp.oeeee.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CbFlFOXFhT05IaGd4WWw2RkFxUXpvQXRma205b1FLdFBSaDJNMW5GaU5mSTRjaXpJXzJxaTVhZWRtZUZpYi1mMjVTbWtUZG9nVU5SRkMyemJySllvRHJ5RF9oUVE?oc=5",
+   "source": "mp.oeeee.com",
+   "published": "Sat, 21 Aug 2021 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "bcec0aac6bd65226",
    "query": "ncpc",
@@ -684,7 +695,6 @@
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
