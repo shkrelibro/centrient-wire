@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-09-28T22:04:34Z",
+ "generated_at": "2026-09-29T02:00:32Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "5317668eb882dca8",
+   "query": "chain_amoxi",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "你常吃的阿莫西林， 正在引起一场灾难 - huxiu.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5URDlsT2Vrck1GT1BfZ2dUVW4tWS1sdlgtVmFvd3FxeTRXcGtUYUlIOE5xc3pzZnNObDV6b0xhLTcxQ2Y4LWp4ZEdNUG0weElu?oc=5",
+   "source": "huxiu.com",
+   "published": "Sun, 31 May 2020 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "32cc7326878dbccd",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "IBI Lorenzini passa ad ACS Dobfar. Gli advisor coinvolti - Financecommunity",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KNUszT3lmVDRtY3hoVXpQazJrTGlhTWE1b0x4VkNFUmFRN0Z6WlVYbUVoTkQ2NnlMYXA3TjFQZnU4WUZMUnJaRW9tclVFaDhYbnpGSHVjY1EtRkNCdWRtRXVZRVVycUY4Uk43VDNrWFZULXdjY3JBWWExalNSazA?oc=5",
+   "source": "Financecommunity",
+   "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "2c1d309dc01ffa09",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "4亿收购亏损药企、16天闪电换帅，国药现代在下一盘什么棋？ - 粉体网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UNlZjcVhCNHlGX0o4cXgyUEVqSjhGNDJVaGFKNlNmQmdIY055N0lzWFUzX3I3SU1LRFZLZkZMSnMwVC1lNWhfU003WEozdE1C?oc=5",
+   "source": "粉体网",
+   "published": "Mon, 28 Sep 2026 04:51:03 GMT",
+   "trip": false
+  },
+  {
+   "id": "72779400167405b8",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "首例断供集采，五年四换董事长，“医药长子”华北制药还好吗 - finance.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BalNrWFRDMkZRMV9EWVRmdGdVXzAxZUE1M2hzZ3pUZEtSZEtxeUR1ai1Pb05wYTZwZ2o0YjZOOWZESk9YQzM3enRaOHVJdkFs?oc=5",
+   "source": "finance.ifeng.com",
+   "published": "Sun, 22 Aug 2021 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "78a4bff30c6633da",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源华北制药金坦公司：把生态文明写进企业基因 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YMlRHbVlmcUx3c3lUYWZORUJ2QU5tUmlHVUxxVVhmRzgzb3QzVUtyUHc3bERMekIzTmpGc2x6OWw3cU5KVVFPeVpBZEJpakpRdHhEc1JaemJLUHl1aExPQzk0YTAwcGJPSHVCV0t3LXpnN1hMOEhXOQ?oc=5",
+   "source": "新浪财经",
+   "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "e15761e9baeeda2e",
    "query": "chain_amoxi",
@@ -587,16 +642,16 @@
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
+  "centrient_core": 0,
   "tul": 0,
-  "chuanning": 1,
+  "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 4,
+  "ncpc": 2,
   "aurobindo": 0,
-  "weiqida": 0,
+  "weiqida": 1,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
