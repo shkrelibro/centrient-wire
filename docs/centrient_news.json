@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-10-01T19:34:11Z",
+ "generated_at": "2026-10-01T23:54:50Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "a3cfd02e26494341",
+   "query": "chuanning",
+   "route": "google:en",
+   "lang": "en",
+   "title": "UB-Mesh: a Hierarchically Localized nD-FullMesh Datacenter Network Architecture - alphaXiv",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4Y1J5NUlFZlZXWHZ6XzRPSDA5ZEVPQUpNNFNsbm4yZFU1SzhMWVJpSlkybnVIYm11czZLQkFsMmtWeDZ0YmF3Mjc3aFJycFFH?oc=5",
+   "source": "alphaXiv",
+   "published": "Sat, 17 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "f2db30239b8aaed1",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）9月28日主力资金净买入220.15万元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56Z1ZDYWFUSDA2OEwtTUF5dkVEM1RNYUpXM0JsOWJyeHdPaUktZnJtUEQ2c0poSXJSbkE2RTlacnJRYWh5OUMwclhYYlFZNS1DV21mb2xn?oc=5",
+   "source": "搜狐网",
+   "published": "Mon, 28 Sep 2026 14:24:21 GMT",
+   "trip": false
+  },
   {
    "id": "9630700575312cd4",
    "query": "chain_7adca",
@@ -401,8 +423,8 @@
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
-  "chuanning": 0,
+  "tul": 0,
+  "chuanning": 2,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
@@ -411,7 +433,7 @@
   "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
-  "chain_7adca": 1,
+  "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
   "conduct_cn": 0,
