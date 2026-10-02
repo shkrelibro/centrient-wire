@@ -1,7 +1,51 @@
 {
- "generated_at": "2026-10-01T23:54:50Z",
+ "generated_at": "2026-10-02T05:43:02Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "4665a8876dc92aec",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：融资净买入10.69万元，融资余额2.26亿元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYXBBYmxvR3ZwVXNScW11MFlrenFocmhXRkRPVFloOWh2ZElKcm96aWpEdnJfck9NMmhGWmJaNVRQSjFzZVNsY0NZRnU5SURjalpCZU1QbTJpbzZNRzVvMw?oc=5",
+   "source": "东方财富",
+   "published": "Fri, 25 Sep 2026 14:03:16 GMT",
+   "trip": false
+  },
+  {
+   "id": "d2661495eb693ef4",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：上半年净利同比预增72%左右 - yicai.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UdVdJTm44VE1TNl9xYW1nWWU1OGllN2o5ZWk1MndydTAxVFBoU1RkQ3otOGoyeFpRbnRfWkE5b2xYM3pRWXI3bnloOHg4VkN0MUQw?oc=5",
+   "source": "yicai.com",
+   "published": "Thu, 10 Jul 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "3f22402eb4a6c2da",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "七旬“输液大王”刘革新“赤膊上阵”卖保健品，传统药企面临什么挑战？ - yicai.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBITHl2d1gteG42SXRSaHdKTkJzcUYxVUpiOGhBSEJPemlVWEIxZkhkNERqWlY3b3cyYWo2WUpOLW9sNDlkc2R2a0dhZXN4cFVhZ1A0?oc=5",
+   "source": "yicai.com",
+   "published": "Mon, 12 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "27c3318894218ccc",
+   "query": "tul",
+   "route": "google:en",
+   "lang": "en",
+   "title": "The United Laboratories International Holdings Limited (3933.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT2lURENEWG1IVXl1cE5zbXFSVlNsV29wOHBkd3J4OFdMSWdFV0wtSEU2ZFhHTi14Yk1ET05lWmlpSWpadjB3aGMtdnpZYlg1OURpeERn?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "published": "Fri, 04 Aug 2017 00:30:07 GMT",
+   "trip": false
+  },
   {
    "id": "a3cfd02e26494341",
    "query": "chuanning",
@@ -375,58 +419,14 @@
    "source": "simplywall.st",
    "published": "Wed, 30 Sep 2026 18:29:25 GMT",
    "trip": false
-  },
-  {
-   "id": "7d3c9b517254e17c",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Penicillin G Sodium Market Companies, Size & Trends 2026-2035 - Precedence Research",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZzdCWllVUldTSjlUTlV6SlYzU2NueWdlNVZkcG1EMFhkYjFONjV6dF9YU1ZSNEpxRlphdm0yX0dIbWREZmVrZjNlRnhqTW1Wa3dya3BJTDJ1RjU3TkFWZ3RwUm92Skc3RC11bFR3?oc=5",
-   "source": "Precedence Research",
-   "published": "Fri, 13 Feb 2026 13:56:16 GMT",
-   "trip": false
-  },
-  {
-   "id": "3f85db5fe4763b8d",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "印度对原产于或进口自中国的青霉素工业盐启动反倾销调查 - cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEOTV6cjNybzJrSlV6c1dqZ2pocXFhYTREWW4xNE1CQVhTWktnQU1GSUhFNDJzM3otM244QW1HWDA2UWM5Y2dqSVFkN0FnaXM?oc=5",
-   "source": "cj.sina.cn",
-   "published": "Tue, 29 Sep 2026 08:31:10 GMT",
-   "trip": false
-  },
-  {
-   "id": "6ed8d96c7e673cc7",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "鲁抗医药：公司产品出口80多个国家和地区，目前公司产销正常 - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yYVdsTlY3Z3NabThuWUYyOHVocHFaVXE2dGV5SVZWV1ZHMHlDTTdmWE5LUlZoSEVqcW1yLXptZzEzODRTckJGbE5RRXV6TmpiWU9aWmtwYWRtZ2ozd28zSlJPbFMtSk81anF0T1JTTQ?oc=5",
-   "source": "金融界",
-   "published": "Wed, 30 Sep 2026 07:44:44 GMT",
-   "trip": false
-  },
-  {
-   "id": "a3d297932352fc07",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Aurobindo eyes up to $200 Mn revenue from Biologics manufacturing from 2032 - ETPharma.com",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWRYOWNBZXJJOU5vazBUVU8yT1c1Q256WEZhaFNyb1Vtc09CaURFQ0ZoMTFsa19qTXNnaEhNUjJvei12bWZhVWpiQURmOUNkSXdiQlVMNzFMRm81WVRlUWZ5MC16QVFQVzMya2RTTFNGQlFoOGJYb0hWNjd3cW1od3JhTlJIVlpmWHozZ2ZKb0tTTXJTcjhhclBYY1hfODR3Um9wMFVvS0NETDExMEl3el92QW83VnBWUlFwWnRlTVNTc1NFbzdwMGs4Yzh0OE42WXF2dGVUVzhrNjduMW94MktVMNIB6AFBVV95cUxNRFh1emlTTmZpZFhiVkpsWHpWQ0pEYU1tOGlJZEFJbXB6RzE2MTZtUm16QXgycWJHcUpCcFVQOTFTcTFCMHZWTHRlS2ZYRWVaSzVpRjlCbDQ0STVvNHd3WWt3SmxicDhJYWFxT1FQZ3l2TVM4NE1vY2JKMUpDTmFvM3R3YzlFeFMwWHVlQi1EdDA2SnhGeXkwTFVZaklUUTRDRFVDRnJUVERqdkxVMlNlTmJsUEF0MW1JaG1JM0lvRi1zbng2UXpxWV9yQU9VcUtYUXY2WlU3LUpiVGQzWnhFaEpGb1BDXzNy?oc=5",
-   "source": "ETPharma.com",
-   "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
-  "chuanning": 2,
+  "tul": 1,
+  "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
