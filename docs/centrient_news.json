@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-02T22:59:53Z",
+ "generated_at": "2026-10-03T02:01:23Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "bbdb834a63bd8993",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康：向特定对象发行股票申请获深交所受理 - cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VMkZfZGJoWkxPNDBlNEUxYjFVTE9Yc2QtaElJNVkwdXl4UG8yQWxZY3A5ci1udTFVZk1ObjRRa0dKOE9JUkNLbVRZbw?oc=5",
+   "source": "cj.sina.cn",
+   "published": "Sun, 19 Apr 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "c3e6c7a2a17c6457",
    "query": "anglikang",
@@ -287,66 +298,11 @@
    "source": "Simply Wall Street",
    "published": "Fri, 01 Dec 2017 11:55:21 GMT",
    "trip": false
-  },
-  {
-   "id": "094fa6b243098158",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "金融时报：西方把药柜的钥匙交给了中国 - 加美财经",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNTNmVm1DV1Q1dnExcGpMc3k1QjEzQ1RISXd3NzRlUnJfZWhuLW5tUFB2Vm1MS3FQTEFyQXFHRXV2allGLWJNYTFEZF9ZUXUzYVVMVlZkWWRWUQ?oc=5",
-   "source": "加美财经",
-   "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "6d7722d19f78e019",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "第七批国家集采明日开标，流感药奥司他韦竞争格局面临生变 - cyol.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52WUJxY014RUdiUTQ0aFJDdmdoeTZXVmI2VVNJa0s3MVZMMGk5Q1ZjQUhsczlMcjVTaG9JbXlmemFmZGszUy1lZ0tiREZGckJvTDNxR3FkVENKamQ1V1dXVDg2TVkzNHpaOU5LQXA3YzA?oc=5",
-   "source": "cyol.com",
-   "published": "Mon, 11 Jul 2022 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "adaa4fbe86d55529",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "市场爆炒的昂利康创新药交易黄了 - jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBudmdiSWdpV256ZnB2aFFFbDMtZnd1NlVRTHVrZEdUMi11Y1ZGbG5UUkhtTkMxNDdOVG81VEY0M2xxYldydUxzeFJzMnVVc3RtbWZnWFprVTU?oc=5",
-   "source": "jiemian.com",
-   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "b0293d0ab5a2b8e7",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "United Laboratories International Holdings (SEHK:3933) Stock Confronts A Brutal Margin Squeeze - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNnZrYXJER0NIYUw4TTJwQVNlNjZ3YTJYQnR5cThQZVo0ME0ydTBXcGh6SE5tM1k1ZEhYZGUxaHpTclRBc212ZExvUlQyM2kxaXpLQlVDNWlidTJSSjVxdkNmbDVwNzhISjNaNjRTN3VNdWxISEhmVXdianE3WVR6aFNCd29STEJBaWZrSE5CaWpSM2ZaQVVtN3BDWFZDRUhBV1h0bkp1Wkt0RTNaUjlLUzZwVi1hTDVCRWN0aW5PX2dhS09rcllqZ3RZR2YwNFQzcktYNGFXMksxektzUG1TelFCOWg5OG02b3EtOWNnZHMyV1Q4SUp1VmoxbVpoaU55R3d6VUhMRGZkRG9s0gGSAkFVX3lxTE1zeEF3aWY4TXpaSHJianlyalVtaUEzUFRoWWxfRThyeExBWDFEVnNuN0JlZF8yT1NrNDRqb2p5cFJITnliMFVSRkRpX3JRUF9MUUNHU3MzV2JreGpsVnJHa1N1ZDZ5Ykp4eG9ySmVIQ0NhOXJQZmRscTBTS3d0d21uWkUtOVFaWmNHT2Jja0lUMnVUOGV4enFDX1FiOUdYM1ZBSkJNSFJQVENNLWdfS2RaU3RFaWxVVEVlV0Z3a1E3V1F0c1VuNUFRekFSR1BicHpobkFaakRjaFlQOW5pWllkdGRocXhrc1Rodm1vNE9BVFhuaktTbUtnNUNiVE5aWk4tOFFWNlpZWUVWZE5nUmRIRmc?oc=5",
-   "source": "Simply Wall Street",
-   "published": "Tue, 01 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3336f4c610f351c1",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "United Laboratories Stock and Its China Diabetes Drug Filing Means For Shareholders - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQOWktaUNJVHZRTWNfbEtjR3R5SGNHZ3dVVDNrd0hRMmMzSFAzLUJjdWpOME9XbExMWU8zdHdGQUpWYWtqREJkWVJQRzQzcllCLVd4U1JCbkZ1d3hLMVd4eTd1VTFtUzNqRmRQczBlUkl4M3J6S1RKc0NINDRHUHFLWGtpa2dUUE1hYms4ZHd2a1J3LTY3anJsSjQzdDJZYXRXTlBDSl8ydE5CU3JoN19TbWJSSXBQMUpMdEIyLUg2T1ZIZXlvcmVOZzdMYjJCSEdDdFN3N1VEanpIZXFLaVlqcDU1LUZ5TEd1T0I1dnFIS1dLbnlmM0h5Z3VkeS0tWHhSdmlsV2ZFTmo3MjZW0gGSAkFVX3lxTFAwRVFSS3hpM0dEaTZBZ0huUHVvOVc2alZ2VVRMYk9HazdRaDFBajJBRG84Y2ppNGdIRHVJelJ2TzNKMk15ZXY1MlNaeEF6QVV6Wm5waUNiZGQzQ0RxM05sZERjRWhxeHJmb1RabkZMeEZUUnNaeGZfWGlld3JkRzVnVXY0VG5lVFVuOUpneFB3aURPZkNhZnRFXzJYMWRQTzdJM1pXaVQzQjVFcFlzU3Nnc0pYMnRPV2ZvMmhJeHlONW1yUWNOSGVxNi03NWt6NEx6NjRsazlLTlRrakhCUlprUzZtQUNmeVNxZUJpUThCQTItMW9LaF9IcUE3aGQ5c3d6dG9vdTcxRmlOZ21SYkhreGc?oc=5",
-   "source": "Simply Wall Street",
-   "published": "Wed, 30 Sep 2026 18:29:25 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
+  "tul": 0,
   "chuanning": 0,
   "anglikang": 1,
   "ncpc": 0,
