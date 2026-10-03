@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-03T13:25:52Z",
+ "generated_at": "2026-10-03T17:58:46Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "75557d446f4cdbaf",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "疯涨停！又疯跌！2026医药第一妖股“失控” - mp.ofweek.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNnBQamw4OXNKOHd4VXk3RDJyRU1fNWp5akthYVQwUG0tX054bmJ6Wkpfc3htcmZ0TkZkY0JqSUNNWFJCUXdpV3UxaGdHakVDYWhFckJ3?oc=5",
+   "source": "mp.ofweek.com",
+   "published": "Wed, 27 May 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "0b378030bc6986fb",
    "query": "chain_pensalt",
@@ -386,64 +397,20 @@
    "source": "immedicohospitalario.es",
    "published": "Tue, 10 Oct 2023 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "4665a8876dc92aec",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：融资净买入10.69万元，融资余额2.26亿元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYXBBYmxvR3ZwVXNScW11MFlrenFocmhXRkRPVFloOWh2ZElKcm96aWpEdnJfck9NMmhGWmJaNVRQSjFzZVNsY0NZRnU5SURjalpCZU1QbTJpbzZNRzVvMw?oc=5",
-   "source": "东方财富",
-   "published": "Fri, 25 Sep 2026 14:03:16 GMT",
-   "trip": false
-  },
-  {
-   "id": "d2661495eb693ef4",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：上半年净利同比预增72%左右 - yicai.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UdVdJTm44VE1TNl9xYW1nWWU1OGllN2o5ZWk1MndydTAxVFBoU1RkQ3otOGoyeFpRbnRfWkE5b2xYM3pRWXI3bnloOHg4VkN0MUQw?oc=5",
-   "source": "yicai.com",
-   "published": "Thu, 10 Jul 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3f22402eb4a6c2da",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "七旬“输液大王”刘革新“赤膊上阵”卖保健品，传统药企面临什么挑战？ - yicai.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBITHl2d1gteG42SXRSaHdKTkJzcUYxVUpiOGhBSEJPemlVWEIxZkhkNERqWlY3b3cyYWo2WUpOLW9sNDlkc2R2a0dhZXN4cFVhZ1A0?oc=5",
-   "source": "yicai.com",
-   "published": "Mon, 12 May 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "27c3318894218ccc",
-   "query": "tul",
-   "route": "google:en",
-   "lang": "en",
-   "title": "The United Laboratories International Holdings Limited (3933.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtT2lURENEWG1IVXl1cE5zbXFSVlNsV29wOHBkd3J4OFdMSWdFV0wtSEU2ZFhHTi14Yk1ET05lWmlpSWpadjB3aGMtdnpZYlg1OURpeERn?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "published": "Fri, 04 Aug 2017 00:30:07 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
+  "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 0,
+  "anglikang": 1,
   "ncpc": 0,
-  "aurobindo": 1,
+  "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
