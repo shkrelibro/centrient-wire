@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-04T00:40:56Z",
+ "generated_at": "2026-10-04T06:58:41Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "b8af6e041374edbe",
+   "query": "reg_dgft",
+   "route": "page",
+   "lang": "en",
+   "title": "DGFT notifications (MIP watch): page updated",
+   "url": "https://www.dgft.gov.in/CP/?opt=notification",
+   "source": "DGFT notifications (MIP watch)",
+   "published": "",
+   "trip": true
+  },
   {
    "id": "72a3669eb60b349a",
    "query": "reg_whopq",
@@ -430,182 +441,6 @@
    "source": "Simply Wall Street",
    "published": "Mon, 21 Sep 2026 04:28:16 GMT",
    "trip": false
-  },
-  {
-   "id": "79a77e7f1ef1d812",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "4527dfd1e5cfa7c7",
-   "query": "sandoz",
-   "route": "google:ru",
-   "lang": "ru",
-   "title": "Пять крупнейших производителей дженериков в мире - gxpnews.net",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVp0aV96RDd5a0ZQZkgzRUdHdkwtcERwYXpCaWFFSGNEY0Jnck9jZ0JHV0RTQ3U0S09PSE5lV1kxR3I2SWZQblliaEVaNmJkbng0SGE1d2hWSG8wejJIc2xpRWxZajZ0dTRrZ2RTYUR5eDRUMjVvUG1nTlVmYXNfZ0xDNmdPUdIBhgFBVV95cUxPRVp0aV96RDd5a0ZQZkgzRUdHdkwtcERwYXpCaWFFSGNEY0Jnck9jZ0JHV0RTQ3U0S09PSE5lV1kxR3I2SWZQblliaEVaNmJkbng0SGE1d2hWSG8wejJIc2xpRWxZajZ0dTRrZ2RTYUR5eDRUMjVvUG1nTlVmYXNfZ0xDNmdPUQ?oc=5",
-   "source": "gxpnews.net",
-   "published": "Fri, 19 Jul 2019 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e538e626ace72530",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "7.7亿元合作终止，昂利康创新药转型再添变数 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VVDQwLU1ySF82V2tCQ2JZLWttYjJsWUhhZzJ4dHFJTFZvTjhtQmhueVpsMll0QkdJT0VrVEx0MmFULVJLX3FpTWwwbFRVck1YZzl3ckg0LWxnOW5uZDh0cl94ZTA2ZGs1Q1FYeXl5YkRjZw?oc=5",
-   "source": "中华网",
-   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "857de367a5ebbb55",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "伊犁川宁生物技术股份有限公司全资子公司锐康生物一期项目近日正式落地上海临港生命蓝湾，该项目旨在建成为高端特色API及... - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OY044ekdTOHFoUzBVZGF2X1JiSDN6S2xmMEt3LXRQUFBucDlyUXl5cUZ6dmg4UFoxOWZZcFVVS1RyODU5eVRjREpuOGVkZGZo?oc=5",
-   "source": "雪球",
-   "published": "Sat, 08 May 2021 00:40:26 GMT",
-   "trip": false
-  },
-  {
-   "id": "01234b9e40957ada",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药6APA价格为什么可以永远涨? - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hYjY3cEhZeElRcW9OT2lKWFdqbXF2VHQ3eHROXzhfSlN5VnR1X2djRFlwZGdNYnNZUTBVLWRXdXZjaDlUbWFOMzNTX19kM1Y0?oc=5",
-   "source": "雪球",
-   "published": "Tue, 28 Mar 2023 04:52:47 GMT",
-   "trip": false
-  },
-  {
-   "id": "79fad3e47cf51352",
-   "query": "reg_cbgmeb",
-   "route": "page",
-   "lang": "en",
-   "title": "CBG-MEB news (NL): page updated",
-   "url": "https://www.cbg-meb.nl/actueel",
-   "source": "CBG-MEB news (NL)",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "4e68448e8fae8d9c",
-   "query": "reg_mhra_alerts",
-   "route": "rss",
-   "lang": "en",
-   "title": "MHRA drug & device alerts: Class 4 Medicines Defect Notification: Neuraxpharm UK Limited, Levetiracetam Neuraxpharm granules for oral solution in sachet, EL(26)A/40",
-   "url": "https://www.gov.uk/drug-device-alerts/class-4-medicines-defect-notification-neuraxpharm-uk-limited-levetiracetam-neuraxpharm-granules-for-oral-solution-in-sachet-el-26-a-slash-40",
-   "source": "MHRA drug & device alerts",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "ee8edc6936f1fe86",
-   "query": "reg_ema_news",
-   "route": "page",
-   "lang": "en",
-   "title": "EMA news: page updated",
-   "url": "https://www.ema.europa.eu/en/news",
-   "source": "EMA news",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "c9859f1e82eb75df",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "d5011f152a84549a",
-   "query": "reg_fda_ia_6640",
-   "route": "page",
-   "lang": "en",
-   "title": "FDA Import Alert 66-40: page updated",
-   "url": "https://www.accessdata.fda.gov/cms_ia/importalert_189.html",
-   "source": "FDA Import Alert 66-40",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "75b28b3901c15d2e",
-   "query": "sandoz",
-   "route": "google:ru",
-   "lang": "ru",
-   "title": "Пять крупнейших производителей дженериков в мире - Новости GxP",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVp0aV96RDd5a0ZQZkgzRUdHdkwtcERwYXpCaWFFSGNEY0Jnck9jZ0JHV0RTQ3U0S09PSE5lV1kxR3I2SWZQblliaEVaNmJkbng0SGE1d2hWSG8wejJIc2xpRWxZajZ0dTRrZ2RTYUR5eDRUMjVvUG1nTlVmYXNfZ0xDNmdPUdIBhgFBVV95cUxPRVp0aV96RDd5a0ZQZkgzRUdHdkwtcERwYXpCaWFFSGNEY0Jnck9jZ0JHV0RTQ3U0S09PSE5lV1kxR3I2SWZQblliaEVaNmJkbng0SGE1d2hWSG8wejJIc2xpRWxZajZ0dTRrZ2RTYUR5eDRUMjVvUG1nTlVmYXNfZ0xDNmdPUQ?oc=5",
-   "source": "Новости GxP",
-   "published": "Fri, 19 Jul 2019 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1c0f2d81a3095b0b",
-   "query": "sandoz",
-   "route": "google:sr",
-   "lang": "sr",
-   "title": "Lijekovi Ceftiaxson i Genotropin dostupni u dovoljnim količinama - CdM",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2gyMDJFTHdnOXFwUmp3X29mRGFNSDR2NmxGTWRfcW1TODhGNDQ1QWt0blpqd1NmWUw3cVZVZngxX1ZVNUFCQXNmLVBIZzB0QVpfWWN5UURrc0swaGZjUEdnWTdHNTBmeFJtSXFaNDNfZzJRVjNZWGhXcXltZ0pqZVdUTDA3R0JDUDFvdEVnUDVvbU1pZ05Z?oc=5",
-   "source": "CdM",
-   "published": "Wed, 06 Nov 2024 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "b17175a425134b4e",
-   "query": "sandoz",
-   "route": "google:de",
-   "lang": "de",
-   "title": "Sandoz kämpft gegen China-Dumping bei Antibiotika - Nau.ch",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTm9TY1ZVdW5IZkExbUFHY19TRVNYdVM3eVcwMUhUNllfeHdJOThmR3hFeDFlcjJsN1M0UDd0MFRvRmlYY0I1MUJOZ1F4N05EVVQtMnh5NThuN19Cb21wd0twUVFmMEJnekhGOUJsV2tPMDVtWlRHZHZmUW4wWG1JVHcxZlBlV0xzcS1CNU5HRGROLWh4V3FsSg?oc=5",
-   "source": "Nau.ch",
-   "published": "Thu, 28 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3e3ff3b60ce39f43",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Minister Hermans bezoekt koploper Centrient in Delft - Duurzaam Ondernemen",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeHZZZ210MGNzajI5dUVHWW5PSW1makhsVndxSlYxWnJINmUzMS1VVmRLNEVqczhkOTR0NG9EaDdzc0xZSlVTdmR5b2YxRzFKc2szV05tRWhnaDVzR1AzYnFRbk9vTUxsNDNBbUZHbzJfbUNMaTBaMnByMnF2NHQyLTV0VWx4Mzl0ME1Pb2xERFZDdw?oc=5",
-   "source": "Duurzaam Ondernemen",
-   "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "3f13ed1aa8fa2ddc",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Mogelijke geluidsoverlast omgeving Biotech Campus Delft door sloopwerkzaamheden - Omroep Delft",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTZPVklRUzB3Z1AyZU1ITXhuTGdJN1NGaWZYbVQyd2dqMEV2X0FmSDJETkxjV2kwNXVIQU44V0FyTkZ6ajM2cW50MmJzYkExNkJsTXU2LTBTLTB4S3RVX0Y4TS1SNWhUTWRGZ204bTdMWnZWQndOcFh0TTBGV0V3cnMzV2l1U1JHeHVDZ1g5MWhfY1JKOXRodkZfQ1pQZldRckNUR3lqRzRjOGk1SEVBRzI4aGlDbnByN2diZktsblotSFU1dlE?oc=5",
-   "source": "Omroep Delft",
-   "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "fb39db23b20f9c0e",
-   "query": "centrient",
-   "route": "google:es",
-   "lang": "es",
-   "title": "Centrient Pharmaceuticals se une a Almirall - immedicohospitalario.es",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3NtUUhpeXY3bnppRS05R295aXVzWTRlUEJ2Z3Z3bWZrMTdURGJqYjd6RFR4SlFGMHJTQUVsdlVyeElhMUhnNm5mUkZJeWJUTkFTb1ZFOEFJUzJHNUxuRnVxbks0Y2dGRUg4RHJSdGlGdkVjUjRFYU9qUWF4WlhZcVZHdnJMSFVYWVVMMWhaU0cwWW1oOFBVdVlPUkJNcmvSAZoBQVVfeXFMTUdjX0ZsQlh3Qi03V1dBMExmZEVVT25EX00tRXlHMFkxc0NTSldyTmRXeGY0R2wyNDIxMWNaQm5ZUVQ4WmZnaEEydzZtX1I4dk1NOWFfYmZ2XzFENkcwblNUV2tTZHdaRndqUm5NZmVrUEVrRkE3bHRvcTdybHNrRG5FZEROQU8wQnRvM0M0c196ZE1fYVEwN2tfUQ?oc=5",
-   "source": "immedicohospitalario.es",
-   "published": "Tue, 10 Oct 2023 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -614,9 +449,9 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
-  "aurobindo": 1,
-  "sandoz": 2,
+  "ncpc": 0,
+  "aurobindo": 0,
+  "sandoz": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
@@ -642,11 +477,11 @@
   "reg_pib": "ok (0 new)",
   "reg_fedreg": "ok (0 new)",
   "reg_gacc_monthly": "unchanged",
-  "reg_nhsa": "error: ConnectTimeout",
-  "reg_mee": "unchanged",
-  "reg_cbgmeb": "unchanged",
-  "reg_cma_train": "unchanged",
-  "reg_whopq": "CHANGED"
+  "reg_nhsa": "skipped (rotation)",
+  "reg_mee": "skipped (rotation)",
+  "reg_cbgmeb": "skipped (rotation)",
+  "reg_cma_train": "skipped (rotation)",
+  "reg_whopq": "skipped (rotation)"
  },
  "manual_weekly": [
   {
