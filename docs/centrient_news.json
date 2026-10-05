@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-10-05T16:04:54Z",
+ "generated_at": "2026-10-05T22:40:12Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "a03dff9ed8a34b64",
+   "query": "reg_mhra_alerts",
+   "route": "rss",
+   "lang": "en",
+   "title": "MHRA drug & device alerts: Class 3 Medicines Recall: Norgine Limited, MOVICOL Plain 13.7g powder for oral solution, EL(26)A/41",
+   "url": "https://www.gov.uk/drug-device-alerts/class-3-medicines-recall-norgine-limited-movicol-plain-13-dot-7g-powder-for-oral-solution-el-26-a-slash-41",
+   "source": "MHRA drug & device alerts",
+   "published": "",
+   "trip": false
+  },
+  {
+   "id": "cd2b46f78d560bf9",
+   "query": "reg_dgft",
+   "route": "page",
+   "lang": "en",
+   "title": "DGFT notifications (MIP watch): page updated",
+   "url": "https://www.dgft.gov.in/CP/?opt=notification",
+   "source": "DGFT notifications (MIP watch)",
+   "published": "",
+   "trip": false
+  },
+  {
+   "id": "f3fe09662321fd11",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康：终止战略合作协议之授权许可协议 - mrjjxw.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42WkNMOHhteXFETUFvSmRUTjluQkpiTEV2eC13YTk1Zm0zRTIzcWU5ZWpJZDRZV3oxaDZoR2xXOHF6RlM1eWctV1NyMDdzb2FVdW5pcUFrNFpySGNPUEs2Ulpfd0NiZw?oc=5",
+   "source": "mrjjxw.com",
+   "published": "Sun, 06 Sep 2026 08:38:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "d7642791157d281e",
+   "query": "chuanning",
+   "route": "google:en",
+   "lang": "en",
+   "title": "301047 Stock Price and Chart — SZSE:301047 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50d1FrT25xNlJHYWlZQzBZTUtXajE3R1NHbUVtVUhXMnV0eG9ncGVZd3dEa0RQNzZQckNqaXlGU21URHdhYXRDOHcxT2NEbkhOSjZpd0hKSURFMEdF?oc=5",
+   "source": "TradingView",
+   "published": "Mon, 16 Aug 2021 11:33:18 GMT",
+   "trip": false
+  },
+  {
+   "id": "2215b173b9196925",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "北摩高科目标价涨幅超88%；广汇能源、川宁生物等评级被调低丨券商评级观察 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdW4xZ1ZnN29kbGFrSE1XZmFsaTRXbDFGVjZDRmZMMjRvMVlFYklRVGsyMDA3ZnRfRVBUdnVtS2V4U0YxMV9YWDd5SlJ0STI3NnNYUERzY19EZDhUQXZJWE9EbU1aTmR5aXhJLWs2N2NTdk5iR2tFdzhqTVY3RTVLRF9yVHJrVmRKT2RHeg?oc=5",
+   "source": "21财经",
+   "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "361f19da9a3d0e6a",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "黄敏硕 - 联邦制药前景看俏 | 开工前落盘/头条名家本周心水 - stheadline.com",
+   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcE1EMldEb0RZSmhJZkRfYnZva2d4OVd4VG80RExIV091VnhwdWV4RFRoX1RNcHhlWlpKSFBVOHQ5Q3ZGOW1jREJlTkhuUVprTk9FNWppako2Q2FaWEUwSE1rVzZZaW5neHVtYjMzUzctbmRrSHBIRk1WR1NMS3VCQVdRUXR5Z2JYYkhSczM0eG1kX2lGcTJQTGlVU1E1RGV6OEdDS2VSNDJndmpXc2N6UGZvTVFsdlVGUExCYzJOQ2ZKQmF5bXd3bjVxWWdrSGY4aUpzX0JlMUs5TXhBdkEzMTA4NXhiU3Z4dGlZLVg4WXdDcF9vd2dsNk5WN0E1amhhTzJ5Q1lrZU9IZVRFQWNwaUJUY1MxLUs2OU5oeWY0R2h6OUt1RFJCNTZQNWFYY0IwTVliSjl4eFhlR3FKLTBKTWtXU3YtVWRLaXVOTW5CS04yNVREV3VKUTZCMHRNLXhvQk1qVXpTdG9zejRPYWRUTUJLYWEtZlhCcjdDcEdlMGcxWUU?oc=5",
+   "source": "stheadline.com",
+   "published": "Mon, 19 Aug 2024 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "e430191f18143602",
    "query": "cspc",
@@ -386,29 +452,18 @@
    "source": "雪球",
    "published": "Mon, 07 Oct 2024 09:36:25 GMT",
    "trip": false
-  },
-  {
-   "id": "b8af6e041374edbe",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": true
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 1,
-  "chuanning": 0,
+  "chuanning": 2,
   "anglikang": 1,
-  "ncpc": 4,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 0,
   "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
@@ -421,20 +476,20 @@
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "skipped (rotation)",
-  "reg_fda_ia_6678": "skipped (rotation)",
-  "reg_edqm_ceps": "skipped (rotation)",
-  "reg_dgft": "skipped (rotation)",
-  "reg_ema_news": "skipped (rotation)",
-  "reg_mhra_alerts": "skipped (rotation)",
-  "reg_pib": "skipped (rotation)",
-  "reg_fedreg": "skipped (rotation)",
-  "reg_gacc_monthly": "skipped (rotation)",
-  "reg_nhsa": "skipped (rotation)",
-  "reg_mee": "skipped (rotation)",
-  "reg_cbgmeb": "skipped (rotation)",
-  "reg_cma_train": "skipped (rotation)",
-  "reg_whopq": "skipped (rotation)"
+  "reg_fda_ia_6640": "unchanged",
+  "reg_fda_ia_6678": "unchanged",
+  "reg_edqm_ceps": "unchanged",
+  "reg_dgft": "CHANGED [JS shell flaps the hash - demoted from trip Oct-26; MIP paging comes from the policy_mip news query]",
+  "reg_ema_news": "unchanged",
+  "reg_mhra_alerts": "ok (1 new)",
+  "reg_pib": "ok (0 new)",
+  "reg_fedreg": "ok (0 new)",
+  "reg_gacc_monthly": "unchanged",
+  "reg_nhsa": "unchanged [Chinese page; English mirror unreliable]",
+  "reg_mee": "unchanged",
+  "reg_cbgmeb": "unchanged",
+  "reg_cma_train": "unchanged",
+  "reg_whopq": "unchanged"
  },
  "manual_weekly": [
   {
