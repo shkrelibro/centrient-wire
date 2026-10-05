@@ -496,7 +496,7 @@
   "reg_pib": "ok (0 new)",
   "reg_fedreg": "ok (0 new)",
   "reg_gacc_monthly": "unchanged",
-  "reg_nhsa": "unchanged [Chinese page; English mirror unreliable]",
+  "reg_nhsa": "error: ConnectTimeout",
   "reg_mee": "unchanged",
   "reg_cbgmeb": "unchanged",
   "reg_cma_train": "unchanged",
