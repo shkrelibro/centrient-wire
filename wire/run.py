@@ -69,9 +69,27 @@ def main():
     now = dt.datetime.utcnow()
     universe = yaml.safe_load((ROOT / "config" / "universe.yaml").read_text(encoding="utf-8"))
     force = lambda k: os.environ.get(k, "").lower() == "true"
-    do_data = now.hour == 5 or force("FORCE_DATA") or force("FORCE_WEEKLY") or force("FORCE_MONTHLY")
-    do_weekly = (now.weekday() == 0 and do_data) or force("FORCE_WEEKLY")
-    do_monthly = (now.day >= 25 and do_data) or force("FORCE_MONTHLY")
+    forced = force("FORCE_DATA") or force("FORCE_WEEKLY") or force("FORCE_MONTHLY")
+
+    def _data_done_today():
+        """Delay-proof daily gate. GitHub cron slots slip or get dropped; a fixed hour==N gate
+        silently loses the whole day's data leg when that happens (observed: ~8 of 24 days landed
+        in Sep-26). This gate instead asks: has any daily-leg row been written today? The first
+        run at or after 04:00 UTC does the data leg, and every later hour retries until rows
+        actually land."""
+        try:
+            today = now.date().isoformat()
+            with open(HIST, encoding="utf-8") as f:
+                for row in csv.DictReader(f):
+                    if row["fetched_at"][:10] == today and row["series"].startswith(("cb_", "fx_", "dce_")):
+                        return True
+        except Exception:
+            pass
+        return False
+
+    do_data = forced or (now.hour >= 4 and not _data_done_today())
+    do_weekly = force("FORCE_WEEKLY") or (now.weekday() == 0 and do_data)
+    do_monthly = force("FORCE_MONTHLY") or (now.day >= 25 and do_data)
 
     DATA.mkdir(parents=True, exist_ok=True)
     DOCS.mkdir(parents=True, exist_ok=True)
