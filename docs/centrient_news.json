@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-05T22:40:12Z",
+ "generated_at": "2026-10-05T22:54:32Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "d11729f3d84a95ac",
+   "query": "reg_dgft",
+   "route": "page",
+   "lang": "en",
+   "title": "DGFT notifications (MIP watch): page updated",
+   "url": "https://www.dgft.gov.in/CP/?opt=notification",
+   "source": "DGFT notifications (MIP watch)",
+   "published": "",
+   "trip": false
+  },
   {
    "id": "a03dff9ed8a34b64",
    "query": "reg_mhra_alerts",
@@ -456,9 +467,9 @@
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 1,
-  "chuanning": 2,
-  "anglikang": 1,
+  "tul": 0,
+  "chuanning": 0,
+  "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
@@ -481,7 +492,7 @@
   "reg_edqm_ceps": "unchanged",
   "reg_dgft": "CHANGED [JS shell flaps the hash - demoted from trip Oct-26; MIP paging comes from the policy_mip news query]",
   "reg_ema_news": "unchanged",
-  "reg_mhra_alerts": "ok (1 new)",
+  "reg_mhra_alerts": "ok (0 new)",
   "reg_pib": "ok (0 new)",
   "reg_fedreg": "ok (0 new)",
   "reg_gacc_monthly": "unchanged",
