@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-05T00:58:16Z",
+ "generated_at": "2026-10-05T07:06:47Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "30a3e3c76c12e049",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "创新药研发加速落地 概念股短线拉升 迪哲医药涨超13% - sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTjZsZnZIZEU0dGNYZUtXTk45SkZUeV82a1NOTGFqTXBtX2g3a2RYckd2N0JnWTFBMlgxSjM3UGhfNllRWmhOQ1lEc1dzVjNoU1BzNTFn?oc=5",
+   "source": "sohu.com",
+   "published": "Thu, 21 May 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "7e3ba5f2bb5275c1",
    "query": "reg_dgft",
@@ -518,65 +529,18 @@
    "source": "sohu.com",
    "published": "Wed, 10 Aug 2022 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "75557d446f4cdbaf",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "疯涨停！又疯跌！2026医药第一妖股“失控” - mp.ofweek.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNnBQamw4OXNKOHd4VXk3RDJyRU1fNWp5akthYVQwUG0tX054bmJ6Wkpfc3htcmZ0TkZkY0JqSUNNWFJCUXdpV3UxaGdHakVDYWhFckJ3?oc=5",
-   "source": "mp.ofweek.com",
-   "published": "Wed, 27 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "0b378030bc6986fb",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "三星Galaxy Tab S12系列宣传图曝光延续纤薄设计|窄边框设计|手写笔|机身|机型|平板_手机新浪网 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPaWwzLVlqQzBZNHRMek5qOVp2TTZZQ3kzU2xYcnBBM2tRcERCQW9lWl9leDB4V0hwZHEwanRJWTJKNmtTWnJlai1hNndxaUltVW1NeVhFNXZDZG5XVWFMQjlDaEZPV29QS3RFV01rSFdGYkhtLWMxVExPSFJLS2dfWWV2UXNnVUw4RWhoeTFaZTVDR0JBQjl3cGJ1a1VxX0FZY3VBdWJTLWxtOE55V05UTjJRYUgxSVZuMGJaR1hLaVNMQ0EzOEItMEJac1hhS3BwQUxWNl8xR2U2cGQzbnZhZWxUSXJDVDN6Y2NkVzJtT3JzaHpiS29ZRVhZdjNnSjhadDI1ZFRMbzVUS09YcGl3cy1rWnBXbmlOWHpqYVhkUThVU3FJ?oc=5",
-   "source": "新浪财经",
-   "published": "Sun, 27 Sep 2026 07:56:56 GMT",
-   "trip": false
-  },
-  {
-   "id": "986ef524219493a8",
-   "query": "aurobindo",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Aurobindo Pharma commissions four manufacturing plants in Andhra Pradesh - Projects Today",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUVPei1YRUEwZGJNbVdaZGFXMUxOdEtYTHA2LVVBME1NSUxmeGhwbGgxREJiS3BPYVI5YmdxTjFHQUVDRVp3NlpIMkxpY3hEcExMOXdpUHBoS2xULTBlUkgwVjNqMGJ0amY0b0UyVV9xTG15LTgxSFF3by1INjFVSEwyQXZ1ZEg2NzJwaFRqdkljbkYxNS1YLW9SOTNaMXRIYXNLT3lVYVR4dw?oc=5",
-   "source": "Projects Today",
-   "published": "Tue, 02 Apr 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "7d70e09c7f1182fa",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Minister Hermans bezoekt koploper Centrient in Delft - duurzaam-ondernemen.nl",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeHZZZ210MGNzajI5dUVHWW5PSW1makhsVndxSlYxWnJINmUzMS1VVmRLNEVqczhkOTR0NG9EaDdzc0xZSlVTdmR5b2YxRzFKc2szV05tRWhnaDVzR1AzYnFRbk9vTUxsNDNBbUZHbzJfbUNMaTBaMnByMnF2NHQyLTV0VWx4Mzl0ME1Pb2xERFZDdw?oc=5",
-   "source": "duurzaam-ondernemen.nl",
-   "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient": 0,
-  "centrient_core": 1,
+  "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 1,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
-  "sandoz": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
-  "acsdobfar": 1,
+  "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -584,25 +548,24 @@
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
-  "policy_eu": 0,
   "credit": 0
  },
  "errors_this_run": [],
  "regulator_watch": {
-  "reg_fda_ia_6640": "unchanged",
-  "reg_fda_ia_6678": "unchanged",
-  "reg_edqm_ceps": "unchanged",
-  "reg_dgft": "CHANGED [JS shell — if hash never changes, treat as broken and rely on policy_mip news query]",
-  "reg_ema_news": "unchanged",
-  "reg_mhra_alerts": "ok (0 new)",
-  "reg_pib": "ok (0 new)",
-  "reg_fedreg": "ok (0 new)",
-  "reg_gacc_monthly": "unchanged",
-  "reg_nhsa": "unchanged [Chinese page; English mirror unreliable]",
-  "reg_mee": "unchanged",
-  "reg_cbgmeb": "unchanged",
-  "reg_cma_train": "unchanged",
-  "reg_whopq": "unchanged"
+  "reg_fda_ia_6640": "skipped (rotation)",
+  "reg_fda_ia_6678": "skipped (rotation)",
+  "reg_edqm_ceps": "skipped (rotation)",
+  "reg_dgft": "skipped (rotation)",
+  "reg_ema_news": "skipped (rotation)",
+  "reg_mhra_alerts": "skipped (rotation)",
+  "reg_pib": "skipped (rotation)",
+  "reg_fedreg": "skipped (rotation)",
+  "reg_gacc_monthly": "skipped (rotation)",
+  "reg_nhsa": "skipped (rotation)",
+  "reg_mee": "skipped (rotation)",
+  "reg_cbgmeb": "skipped (rotation)",
+  "reg_cma_train": "skipped (rotation)",
+  "reg_whopq": "skipped (rotation)"
  },
  "manual_weekly": [
   {
