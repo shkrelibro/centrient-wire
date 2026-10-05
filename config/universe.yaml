@@ -80,7 +80,7 @@ regulators:
   - {id: reg_fda_ia_6640,   name: "FDA Import Alert 66-40",            type: page, every: 3, trip: true,  url: "https://www.accessdata.fda.gov/cms_ia/importalert_189.html"}
   - {id: reg_fda_ia_6678,   name: "FDA Import Alert 66-78 (APIs)",     type: page, every: 3, trip: true,  url: "https://www.accessdata.fda.gov/cms_ia/importalert_1166.html"}
   - {id: reg_edqm_ceps,     name: "EDQM actions on CEPs",              type: page, every: 6, trip: true,  url: "https://www.edqm.eu/en/actions-on-ceps"}
-  - {id: reg_dgft,          name: "DGFT notifications (MIP watch)",    type: page, every: 3, trip: true,  url: "https://www.dgft.gov.in/CP/?opt=notification", note: "JS shell — if hash never changes, treat as broken and rely on policy_mip news query"}
+  - {id: reg_dgft,          name: "DGFT notifications (MIP watch)",    type: page, every: 6, trip: false, url: "https://www.dgft.gov.in/CP/?opt=notification", note: "JS shell flaps the hash - demoted from trip Oct-26; MIP paging comes from the policy_mip news query"}
   - {id: reg_ema_news,      name: "EMA news",                          type: page, every: 6, trip: false, url: "https://www.ema.europa.eu/en/news"}
   - {id: reg_mhra_alerts,   name: "MHRA drug & device alerts",         type: rss,  every: 6, trip: false, url: "https://www.gov.uk/drug-device-alerts.atom"}
   - {id: reg_pib,           name: "PIB India press RSS",               type: rss,  every: 3, trip: false, url: "https://www.pib.gov.in/ViewRss.aspx?reg=1&lang=1"}
