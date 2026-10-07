@@ -1,7 +1,51 @@
 {
- "generated_at": "2026-10-07T01:31:41Z",
+ "generated_at": "2026-10-07T08:37:29Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "3cd9a133add65225",
+   "query": "chain_pensalt",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "日本年轻人开始流行“梅毒妆”：身上点满红斑，假装自己感染了 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RcEtWNUxLR3cwWldnWFZOTm81QlV1aVF0eUZRZ2FQOEVYS3ZLWVZSb0pDWGhJdEsteWV6RFdLd1NvSVpTM0hpTkc4VUZaOXU4Uktz?oc=5",
+   "source": "Sohu",
+   "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "740ae8e2bbb8724d",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "医药全线大涨，发生了什么？ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tc0hKdFlwZkJ6TElQSTNiMDl3THhMdEEtSlFnRUVGUVlFUW5CN0tGM2UySGdENUhwSHJDMm84NlRsNFVNU2JwVHlMTjNkaFRwUk5J?oc=5",
+   "source": "华尔街见闻",
+   "published": "Tue, 01 Apr 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "cfabdb5c79e54f63",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "7大头孢药物集采后大跳水，83亿产品销售额大降43% - 中国医药创新促进会",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIQmxaZFhnMDAtemQ2c00tRXZDLUEzQXdCOHRhNXhOWkpDR3NXTnRqQ25oYWlYbDlZODJlWjJ4TGRHTXRrWGV0VTZkNldMTFRpcG4yM0Q1S0pKYWQ5aW1udks1LVJ0VlhvNGM1cFZ3WTFqdnBySnk3dTNR?oc=5",
+   "source": "中国医药创新促进会",
+   "published": "Thu, 18 Jul 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "f06dead093bd5287",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "中国工厂进行时｜创新，让一粒药惠及更多人- 财经 - 中工网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IUzdyTmhnY0s2OWp2XzRrcVZtMnBoWWV6d0RkZm1yY0g5MEhvb2NBRk1vZ0dhNWduQjJGc1NCSjRoV2RwdjFIMUxaUmVzanJlT2loMjR4eUxwYkpfd0Jv?oc=5",
+   "source": "中工网",
+   "published": "Fri, 19 Dec 2025 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "176817fc1998068d",
    "query": "chain_pensalt",
@@ -485,83 +529,6 @@
    "source": "stheadline.com",
    "published": "Mon, 19 Aug 2024 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "e430191f18143602",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "国产司美格鲁肽过剩?10家仿制上市申报，鼻喷剂遇阻片剂突围，产能扩张暗战正酣 - 摩熵医药",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZFdkNkVWWE1UQ0R4b2p6VmdwTmQ3WUF3TkpDdXh2WHdveEZ5TzNnbmZVRDlNRThXNURnUklKRG1ocW5vMXNXc2dqaDlrOEt1c09CSGlKdmVFQQ?oc=5",
-   "source": "摩熵医药",
-   "published": "Thu, 11 Dec 2025 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "568fccb71619e3fe",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "又炒“字典”！带这个字股票批量涨停 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1TlR0di1LTUlxWUdxaC1XMVRlOTkwLW1pQUFqWEVMS3pYYlB2NExicmo4OVhVQTYtWm9vQW93dHdWYVppb1NqYlY5MmdGeDY4b1VxYmNNYk5mSk1ncDNGbg?oc=5",
-   "source": "东方财富",
-   "published": "Mon, 21 Sep 2026 03:17:36 GMT",
-   "trip": false
-  },
-  {
-   "id": "620f476b76d7bc7a",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药回应维C 垄断案称已决定提起上诉 - 财新",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DOW96cVNGM0VkX01YaGt1aUp1RElKRjRRVEZ6NURFOFZUSmJqZjR2b2RZN1pLRER4YzhCX1VxNXU4dmdCSGZIdThQZzk1MnNzMW05TnVRT0ZtWkxGejFyNGNkbmM?oc=5",
-   "source": "财新",
-   "published": "Tue, 03 Dec 2013 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "ec7f6dac6f9a5d11",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "失落的“药都”，石家庄何以新生？ - 中国网新闻中心",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02MlI4YUNEQ0JGWjFZNDlqbWhib214ZUpLVG14ZGlqYjNRTGZ0bFNnZXBwQ0N0U2hTckI5akRfaXg5bU4wbnQtSWFadW84RGFyemdpc0dCSmdEUWJ1YnNtTEpvREVVWnc?oc=5",
-   "source": "中国网新闻中心",
-   "published": "Sun, 14 Nov 2021 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "a01e8378137ef2da",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "药品集采断供风波 - 财新周刊",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBLWozQUI2eG9sYmNDQmctZUZ4eGFRcTZYM0drQUpfd08zNTBGUTI5YVpwRUg0dU5veThHSUc1QlB2Q2I2R29zeDY5QmJLaTVxaWM0cU1DQ1N2RGhtQjd0bQ?oc=5",
-   "source": "财新周刊",
-   "published": "Mon, 13 Sep 2021 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "18a83bfa18c910fd",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康(002940.SZ)终止《战略合作协议之授权许可协议》 - stockstar.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6emUzck94Qno4cVNhdTBTLW50X3J0SGs1Ukx3WVNUcTFQeldHNHJUWWFwbGVqVXk0eEd4VmFscmJwSTcxdmktekR3VVJBRG01Z1ZNWGZ3bmV2Y0N3dmxWZQ?oc=5",
-   "source": "stockstar.com",
-   "published": "Sun, 06 Sep 2026 08:28:51 GMT",
-   "trip": false
-  },
-  {
-   "id": "17cfb913664da8e3",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "黄敏硕 - 联邦制药前景看俏 | 开工前落盘/头条名家本周心水 - 星島頭條",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcE1EMldEb0RZSmhJZkRfYnZva2d4OVd4VG80RExIV091VnhwdWV4RFRoX1RNcHhlWlpKSFBVOHQ5Q3ZGOW1jREJlTkhuUVprTk9FNWppako2Q2FaWEUwSE1rVzZZaW5neHVtYjMzUzctbmRrSHBIRk1WR1NMS3VCQVdRUXR5Z2JYYkhSczM0eG1kX2lGcTJQTGlVU1E1RGV6OEdDS2VSNDJndmpXc2N6UGZvTVFsdlVGUExCYzJOQ2ZKQmF5bXd3bjVxWWdrSGY4aUpzX0JlMUs5TXhBdkEzMTA4NXhiU3Z4dGlZLVg4WXdDcF9vd2dsNk5WN0E1amhhTzJ5Q1lrZU9IZVRFQWNwaUJUY1MxLUs2OU5oeWY0R2h6OUt1RFJCNTZQNWFYY0IwTVliSjl4eFhlR3FKLTBKTWtXU3YtVWRLaXVOTW5CS04yNVREV3VKUTZCMHRNLXhvQk1qVXpTdG9zejRPYWRUTUJLYWEtZlhCcjdDcEdlMGcxWUU?oc=5",
-   "source": "星島頭條",
-   "published": "Mon, 19 Aug 2024 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -569,11 +536,12 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
+  "cspc": 1,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 1,
   "chain_7adca": 0,
