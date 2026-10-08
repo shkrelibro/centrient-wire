@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-10-08T08:56:32Z",
+ "generated_at": "2026-10-08T16:27:27Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "34dabfde2eb7228d",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812)龙虎榜数据(10-08) - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Xbzdlb25OS0Z2a1k4anVscHhwNDBTM3AtR0J3c2s5OHV3Yjh1RkVyQ3plUkNPbWpnSHVZZGxLeFlBb2JORjZ2M05pQWdDNHAwbkdoVDdXVlNPNDVValhDY29KRzhnQQ?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 08 Oct 2026 09:07:50 GMT",
+   "trip": false
+  },
+  {
+   "id": "9c6f105c14e5961e",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "10月8日华北制药涨停：雄安新区，流感，肝素概念热股_个股掘金 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FdzJXUTRDMUFWRERNVGw4X3hZYldrRXNibjRIdnJiLXpya2ZncnFjNEVxVFdyNDd2UHBNYTU2UkR6cVlHQS1iZExpeXRRZ2tJaElRay1wQkw4SUczTzkwTU93?oc=5",
+   "source": "证券之星",
+   "published": "Thu, 08 Oct 2026 08:31:34 GMT",
+   "trip": false
+  },
+  {
+   "id": "de4d505dc8058e81",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药（600812）2026年中报简析：净利润同比下降48.3%，短期债务压力上升 - QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeUNMdVg2dDVROWZvNmpQVHJUeFhTRVpZQmVEdW40WG1Udnk0aWpSRW9sWmVkcDRqQzRDVERjX1BqQkNfQklJMXJLOV9OVl9qMm43YWNR?oc=5",
+   "source": "QQ News",
+   "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "8fae0facc3d94faf",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：子公司获得重组破伤风疫苗（大肠埃希菌）临床试验批准通知书 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kbHhOcjVSNnpiUmRJMnpQVnloaHptQVpRNG9PTXk1ZzBlQ0I2ZEJ4Y0hWX0U5NXZyVlpjZVFVRnhReVdaOEw5b1hmRzlVSHBBbkJ6NWx4eWU1TG9uRGNkUnZ1djNTZw?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 15 May 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "8047c732f782521a",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "——习近平总书记考察石家庄市国际生物医药园规划展馆回访 - 河北省纪委监委",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZG9rQjhWNk44VnlxaV94MmxjLWpaZ3E1TWRUY3k1ZWtmemNOc2xLT2ZUMTFLVWlzZVMybmJvS20yajdvc2RabkY4T3lrN1NnZU1tWXRGQUZVaXFNVm9mUGVOclhJZw?oc=5",
+   "source": "河北省纪委监委",
+   "published": "Sat, 13 May 2023 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "3e667eb1f419bd4d",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "合作方单飞、募投未达标，昂利康的转型故事还能讲多久？ - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kNHF5V3k3TXdsQU5zSE1fX3pSVGM2R3pNN09LZHRVUi1fVFdxT1JiREtYRFdsQThudldIR1pXR1dSTFlaM09JR1FhNnFhNjN6OUdfbTFtREZ0elRNV0djeHJiY2lWYjg0bldfRmg5YWNEZ3dkUlp2UA?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 08 Oct 2026 09:49:00 GMT",
+   "trip": false
+  },
   {
    "id": "55da6e06180195ae",
    "query": "ncpc",
@@ -254,156 +320,13 @@
    "source": "中工网",
    "published": "Fri, 19 Dec 2025 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "176817fc1998068d",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "董事长大秀肌肉难阻公司业绩收缩，科伦系“三驾马车”全面失速 - 蓝鲸财经",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DcVptSG5aSkQ4ZXhYQ2lDY1hvSmNTWjhuakVSNmNqT2RaX0k1RXE4ZGE5TEtVXzd4NDh2Wkc2SkZjMTNRd0RaUFhEc05abzNWT1hvQ1RJa21BZTA?oc=5",
-   "source": "蓝鲸财经",
-   "published": "Mon, 25 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "688a0af2f76d80b2",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "原料药产业再现产能过剩隐忧（上） - 中国食品药品网",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUjdISEFqZWVoYnFnQ1FLYjIybW04LWQwZFNmRjNzSEtoekVydnpYdlhYaW14T2hrQld1c3dWMjNiT2NjSnpmb0FXNTEwQ0tqcFZiMmhnSDFoNTdC?oc=5",
-   "source": "中国食品药品网",
-   "published": "Thu, 02 Sep 2021 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "a3813781d81e4eeb",
-   "query": "sandoz",
-   "route": "google:ch",
-   "lang": "ch",
-   "title": "Sandoz kämpft gegen China-Dumping bei Antibiotika - SWI swissinfo.ch",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGM4bjJsVm5HamJNV2taU2VWLUJYcUdxNTBtTVpJY0o1a2hrUHQzcGhJSnNJdWdHN2M3QUNyQ1hZaXNGaGxEVEVBYkZnb29UdkZTS2dHcWZKN0tyZlR1MDNlUXhtWC1mMkJ4NTRKaDRFSWctcHZpdFlMczZjb1hhQzFuRm1KcnZ2bjRQRXFXcEVyZ0pvVnVR?oc=5",
-   "source": "SWI swissinfo.ch",
-   "published": "Thu, 28 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "337c1e6046a5746f",
-   "query": "sandoz",
-   "route": "google:ch",
-   "lang": "ch",
-   "title": "Wie Europa sich von Asien lösen muss: Der Kampf um die Medikamentenversorgung - NZZ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEhPbDRSRTlEMEtSa0ZrT3lXQTNzLWZXazFCeDlhQWN3b1dEVWFTcnYxUS1NS3AyXy0wNmVEcl9zdFp3MjQ0aFEydXpncEFfT0ltRHRSRm41YV9EUGRIU2VTckttNmJfdUNXYjhiSVpEMWFTSXJUM1U1Wm5LMnJyQ2Z3M3NzT1BWczZCb3NJV0dob2FIdl9Hay1HTUFQNmJXUmc?oc=5",
-   "source": "NZZ",
-   "published": "Thu, 11 Dec 2025 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1f9ebf37315db964",
-   "query": "sandoz",
-   "route": "google:ru",
-   "lang": "ru",
-   "title": "Russian Pharma Awards® 2025 назвала препараты выбора врачами/Новости - АптекаМос",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkRObkFMRWFyZlE4dEdLTG5FSFhXVlVmb09jMEJpOExMRTZleUQxd3hVbkpDaW9NeXJ6RnRqOTlXejRHb1NVQTBTUUVvZWZhMTJUb3o4STg4TFZ5TVE5ZXFXUjNpNkE5bVVSeFZEOXBZVWZYSTJuNGVBMkNPUENOaw?oc=5",
-   "source": "АптекаМос",
-   "published": "Wed, 26 Nov 2025 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "c05c535b4ab9fc73",
-   "query": "sandoz",
-   "route": "google:uk",
-   "lang": "uk",
-   "title": "Novartis скасувала угоду по онкопрепарату вартістю $2,5 мільярди - the Pharma Media",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUTBNcFFUdks4Rk1wMGJ3Z0tqbDB1WWN6elJIbU1tY0xVY2M0Qk5ESHVrbmN6MnhzdkFQcHRzRFVLZlBnN3VxWW9acFY2TE82QWhmT3h0UWxjQTJGcmFTTlBkRDZ6SlpxZjIwWmZwZ3p5RDQzcmpCZHljT0FFa2J6VTV0UVg1eTFGcE8zSlpnV2d2bVpnLUNRTjBJbjJtT1VBMk1oV2NKZGdQYXpFSXVmZVFn0gG3AUFVX3lxTE9uaDhxR21ZWU5lSlVPVmloUjRzaUxJQkUwOEozNUVQUE1QdWpwX3NiYXlHbi0xY3RWZnBzZ1J0OFZaWTJaanFaMlBtbXRlczRoaGJPeUwtellpeXlHR2hGd3hfb0cwUEE3RURlZ3FsNERvRkdXb0lFSWdUZ3RaWHN5RUdLbFh6QUt5b29EZW1HUnVmRGZrVDZFWWkxZWc2TU12TGMtZ0thVnhaZUF4N3g5a3B6ZXRzRQ?oc=5",
-   "source": "the Pharma Media",
-   "published": "Thu, 11 Nov 2021 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "afadf766416ed409",
-   "query": "sandoz",
-   "route": "google:uk",
-   "lang": "uk",
-   "title": "Amgen виграла апеляцію з захисту патентів Otezla - The Pharma Media",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFZoYmhNUkR1Uk03VFVfTUJWdTJxRkRmdjZ4SUI4MmtQdW5zNW1HTXdLOTVGMVFQaGNQR052YkcxalNKM0NSN2FFenFlaFFKM21OLXMzZnFBUHQ0UGQ0MThIeWVfLUhoUzVvSVVUaklYcjI5WTZCV1RQU1RzQ0dYLTk3RWJ5cGllcXBxZmhoLW1vQmtjaHRj0gGcAUFVX3lxTE9IMnBqZTVUZWIwcWhnaU5wMzJzMUpNSXRlbWdwcmxQUkVPa2JQeFBzTFVXZlhQS1pDeVFzZ1FQLUFVM2NYUHZ1MjhXaGdGbGdkRjFxT1ZkTUw3X1RMTXZSTjlKcy1JaE1vbGVaYzQzTmUzU2ZCeU5zMnBUcmpMZEJtMVp0YXpmejJKVWlhS0lWUVYyTTB0c01vVHZpYw?oc=5",
-   "source": "The Pharma Media",
-   "published": "Fri, 21 Apr 2023 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1397589e13d1e489",
-   "query": "sandoz",
-   "route": "google:sv",
-   "lang": "sv",
-   "title": "Dyrare hormonplåster ska öka Sveriges konkurrenskraft - Dagens Medicin",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVJNTlZoc1gyTWxBUDJtaEMzWDZDVzRUMHZMVzIyRTByUEFuUjN6S2VhZjJOSXpudkJ6bjZ2MURyMERWcm1UZXJ1YXl4eGdqQkJoblROS1dRb2tHSk8wNkFqaHBLczBsdlpPWmNyVnhqQ2RMdWV5eVY0N0V3NXhmRjdEX1dhREM2UGpzSUtnSG1BRXAzRko4ek5YaWZYOS1NOUFiXzE5LUJ3dw?oc=5",
-   "source": "Dagens Medicin",
-   "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "efe04a0522300d4d",
-   "query": "sandoz",
-   "route": "google:sv",
-   "lang": "sv",
-   "title": "Läkemedelsbrist från 15 oktober – kan slå mot patienter - Nyheter24",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUERmaUhjdU03akEweTAyU2xvZlk5SEpPaGZEd2ZfZ1hScFVCVkhoQUJMQnpJdFJTMkZlUDV4eUR3bGhsMXBXLWhYOVRsYl9JaVhWcTd5cFRJZXBuaGdSaGltQ0d0b1h3WVhERXhWSkpIM2I5TVRKclVvTmZlOE1MYWRBNjZaN3c2Q2xvdUZfU20tNUk4emRkc1ZzeWNJbkE?oc=5",
-   "source": "Nyheter24",
-   "published": "Mon, 05 Oct 2026 09:24:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "58f54187d852fe7e",
-   "query": "sandoz",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Sweden's push to produce its own antibiotics comes with a catch - EURACTIV",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEJad0FvdXEwbmN3M1c2ZkFJWEJIX0pCclBKRnJxY2tXdDJ4UVh6V1FXQ3VGV2JybldIWV9MVGJPTXJJVGdGcW5IcmxNOU5xVm5fMWFiNm5yU0FCNDg3VlNsQzhsbHRQS0lFWDdybTRZTTItRDhiWDFmSDdsRHZZZy1GVllMaW5aSzdKYlFFZ3hpYkszVF9Ieg?oc=5",
-   "source": "EURACTIV",
-   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "69d4afc164724a0a",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "质效新视界|华药国际制剂新品种成功出海泰国 - ByDrug",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVGpiRTlGT0Mxam0xalMtMEtJWnc1YS0zVEp6NVNQV3p6QWVaTzE4VndEN0JTM1JVa2lpY2tLaUxreGp6ZzFsLTZLNFJKWTMtVWVBU0UzZzhNODVtT3pOUkhPUHgzNXUxcVFvN3VhN2Q2Yl81RDZBLXJaU0c5QQ?oc=5",
-   "source": "ByDrug",
-   "published": "Thu, 12 Jun 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "139119d3d6ba369c",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药取得注射用头孢唑肟钠药品注册批件 - 中国医药创新促进会",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SQTA0b2U0cHRIUHJVQUZCN2Z1cHJHTGpLLTU0NlRkcWVka21fcnRXYUR0QkZST3BxS21tSXJvSmN2N1l5ZXM3S1I1YlE3eFdfZ2tz?oc=5",
-   "source": "中国医药创新促进会",
-   "published": "Tue, 19 Nov 2019 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1127cff609fc58a3",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "75岁百亿富豪，“赤膊上阵”背后 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vcjNSTGxJNzlBUTl2aXF5VHNDbkdKbVBuczljaU95UEQ2NUNuRndGX0tKUWtLNnozUVRzTExPNmt4d2pLOVB6TVVIVVNlNjhy?oc=5",
-   "source": "搜狐网",
-   "published": "Tue, 13 May 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 0,
+  "anglikang": 1,
   "ncpc": 5,
   "aurobindo": 0,
   "weiqida": 0,
