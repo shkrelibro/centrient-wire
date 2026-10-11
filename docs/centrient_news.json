@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-10-10T22:30:38Z",
+ "generated_at": "2026-10-11T01:51:58Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "ad9fe37ffc8b88d9",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：股票交易异常波动 链霉素产品收入规模小 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wNlM0Sk1OcTlhd3dHNWttOXVjT3VZQW5qYmZfeFR0V1pPY0w1LWFjbVFfRVpPY050X3FwdkRYRHhoWWwyRDdMWUw4cXRIQmV1Q05mMkhnSnd4bk9FbWVuNlRyMkRBZkJtcmc?oc=5",
+   "source": "TradingView",
+   "published": "Fri, 09 Oct 2026 11:01:12 GMT",
+   "trip": false
+  },
+  {
+   "id": "069bf089c64a6627",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "一则尚未得到证实的境外鼠疫传闻，引发多只医药股异动…… - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUhLbXJCUUNHclFEQmFZX0RxUjlqWl9ROEdpWG1YOEMzSV9kbU82Tl9VbmNMV0hMdmtJaVF0X1JycTRoSXZBVmpFeEw1dFl5QzFKU2xSME1XZ0xQeU01bHNNVDlDM3U2dU04d3B5NVhHX1B3aWdIaUdreExjYlA0czNzaFVTY3BL?oc=5",
+   "source": "搜狐",
+   "published": "Sat, 10 Oct 2026 09:48:42 GMT",
+   "trip": false
+  },
   {
    "id": "f8f9d0f9dd442c25",
    "query": "acsdobfar",
@@ -535,13 +557,12 @@
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
+  "anglikang": 0,
   "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
-  "acsdobfar": 1,
+  "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
