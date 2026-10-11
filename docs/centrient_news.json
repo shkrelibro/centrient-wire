@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-10-11T20:15:08Z",
+ "generated_at": "2026-10-11T23:41:06Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "6c9386003237f4dc",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "药二代密集接班，千亿权杖交给95后 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xcEprTUhyYVVjMVVZQl9VbmxhMlVTTTVWZWw1ZGFJeGZncC1UNlBWYUpWenkxNjJkV0M4RzQyTGRXaFo3U2VSdWZQbElSZw?oc=5",
+   "source": "36Kr",
+   "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "e29fcda69b094fdc",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药探底之价由坤地线牢牢地支撑住只能搞涨了又涨的活动了！ - 虎扑体育",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MbDZBd3dTazNNWFEwd09pa2QxbDhTWlBJcWxzVW9nVzVTYUtLWVNTdjc3TGFid3RxRUt6YkhPMkVQMWpBd25EQjhOTWdmQQ?oc=5",
+   "source": "虎扑体育",
+   "published": "Sun, 11 Oct 2026 21:55:32 GMT",
+   "trip": false
+  },
+  {
+   "id": "afd393980d641fcf",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药“2连板”后提示： 注射用硫酸链霉素收入占比小 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YUxkdlhPYUpWT0VYcGJMNGFPaFRQMXpES21pdGFCeTJUOW1EWWp5Q1RKVG52ZlFRN1dHT2JfSkcxSUVudVg4ZV9YaTJCMVBteTFxcUZBN3gtTk9fcHJyY1hQRk91Zw?oc=5",
+   "source": "东方财富",
+   "published": "Fri, 09 Oct 2026 21:11:58 GMT",
+   "trip": false
+  },
+  {
+   "id": "2a364315e69e9011",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "10.12日盘前个股资讯：华北制药、国芳集团、襄阳轴承 - 虎扑体育",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wQmpfT05SX1NFTGlnN3hOemRxZ3RvaXRGUGlMQ0FGN0t4T3QybVhEQlN4b1dkbUJuNHRZbVR3YVRjbkZEZW9Ha1dwTG5qZw?oc=5",
+   "source": "虎扑体育",
+   "published": "Sun, 11 Oct 2026 21:48:33 GMT",
+   "trip": false
+  },
+  {
+   "id": "81d9f2a4af16e448",
+   "query": "centrient_core",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Centrient Pharma announces 100 per cent compliance for clean manufacturing of its oral antibiotic products - Express Pharma",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeWk3UHF2TmVmVE9QelFQTnRoXzh5MkhuQWlGSFgwV0dHUUwwVUdPUU5BTXBXOXp5THdqZ0pzVkxkb0wxTTh3QmlWeFNMZjhta2E0NUdQekpKUWdkOTg5NXo3OVZlQUF2MXptSVBiOEYxSXN6d0VTUndVWEZQVGNONGlsc2l2cXQ3cGgxc3NKcHFueS1RSE1GUnBfN0NnX1Y5OW9hYzNhMVRBY19wdHh0WnE5Ny1CRGMzYVhiOC1CdkZ6WmdNaV96T2lZSG5rVkdIR3c?oc=5",
+   "source": "Express Pharma",
+   "published": "Fri, 20 May 2022 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "0a7896feac6bb6f1",
    "query": "chain_amoxi",
@@ -301,20 +356,19 @@
   }
  ],
  "counts_this_run": {
-  "centrient_core": 0,
+  "centrient_core": 1,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 3,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
-  "acsdobfar": 0,
+  "cspc": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
-  "chain_amoxi": 1,
+  "chain_amoxi": 0,
   "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
