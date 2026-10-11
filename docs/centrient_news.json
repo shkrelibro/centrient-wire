@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-10-11T01:51:58Z",
+ "generated_at": "2026-10-11T08:48:04Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "47f042f90ee31a28",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药“2连板”后提示： 注射用硫酸链霉素收入占比小 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hYWludVo3cC1fM21jeFNsYnBiV2VvaDlCMjlxUFlaOVZVOC1BYlEySjFETEV3djBIQzJ4S1NtS2lNVklqbk1fWGtMejRRbF8yMVZ3VDlHWlhNelBQVzBMYjZmTnN5eG95M21sLXVPRkpkeE95WWs4eQ?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 09 Oct 2026 23:06:32 GMT",
+   "trip": false
+  },
+  {
+   "id": "62aee8f6ebb4867f",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "鼠疫概念股躁动：多家公司回应称无直接关联 华北制药提示市盈率风险 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51a3VfaEdNYk16eWMtLTdPbWVONHZwOGVTc0kxV3JabUFnTTgtUEloSjhoby1Kb29tbjRIcHl3cmpUdGhObmdxOFp1bUNNOVRvOEF5aEdWZzU1TF92dks4MVFpRlQ1dw?oc=5",
+   "source": "东方财富",
+   "published": "Sat, 10 Oct 2026 06:19:38 GMT",
+   "trip": false
+  },
+  {
+   "id": "64eafb5a981e5568",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：注射用硫酸链霉素销售收入规模较小 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIeVVQdnVSRExvMlltc3l2emlPT041XzZ1WWl1QjhXR0luM0NGZXRwVUQ0Rk5SUWVVYUR5Z0dlWGxPSzItQjFxaGpmZmJPWE83dnU2d0RuQjk5cmhpajJhTlQ1cVpIUQ?oc=5",
+   "source": "东方财富",
+   "published": "Fri, 09 Oct 2026 13:28:07 GMT",
+   "trip": false
+  },
+  {
+   "id": "23bc156938098d9c",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "俄罗斯“不明肺炎”疑云发酵 流感抗疫概念集体走强 华北制药等多股涨停， - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0Q0bmFZVDdRMjNvUGJTRlpoZmFJWWhBYU55NC15TVJGX284SmdvY1d1Q0lWT3Q0a1dLMFcyajYxLUdCbGhUYlk2UEN3SDZLTVV3aEFTc2VfT2VBUEMtNU9nTWktZno5YlJNaHdWQmRpb29hVm5jSTZ5eVdpX2JvVEFvN2hQNF9iUUtWUA?oc=5",
+   "source": "搜狐",
+   "published": "Thu, 08 Oct 2026 01:51:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "412186b05952f356",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康创新药引进项目告吹：授权合作折戟背后，主业承压研发布局遇变数|抗体|财报|管线|风险|临床 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EYU5TeXBjQ3Z2dzZneF9kNkYxUXlvRENna3E2a1R3cld5M1BFcU9TU3VUYTdZaXVKYy1qQ3BISFZDN3o0WENmX3RBQ1k5VnZkelI4dmRRUW55Q3hXVlU4OHF6a1NNNGJRc2NLdEdqTkFQQQ?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "ad9fe37ffc8b88d9",
    "query": "ncpc",
@@ -485,84 +540,19 @@
    "source": "摩熵医药",
    "published": "Wed, 26 Nov 2025 03:58:49 GMT",
    "trip": false
-  },
-  {
-   "id": "4911e7f89b03eb12",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：公司注射用硫酸链霉素2025年及2026年1—6月销售收入规模较小 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XSDJPT3YwVFMxS0JxZ2hVc3ZlS1hnUGZSRUJFX0lhNWFNN3ZpWklJeVhhYS1HR0NJNnRyU1JsWUlBajB6Z3FTdmhWRTFRLXV1YlNUMFJqMHZqWEkyT3pBenlGQzd0dw?oc=5",
-   "source": "东方财富",
-   "published": "Fri, 09 Oct 2026 11:42:44 GMT",
-   "trip": false
-  },
-  {
-   "id": "a82e37836b95a834",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：公司注射用硫酸链霉素2025年及2026年1—6月销售收入规模较小 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDdxZnRyVGc0bmRRNzJvVkVTdE9vbTNySENqX3RqZGhyZjRXNmVVTXQ0TVloQUtJMlUyUFdoRjRKc29VbUNaRER6V2ZFSklhWkVJb1F2b2RoZ0RTYWFHQmZaT1pYUjVmTVpiNXJLdkZlVFgxcFdJWjg1c3VldWNGLWFEV3FucXdW?oc=5",
-   "source": "Sohu",
-   "published": "Fri, 09 Oct 2026 11:22:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "4a44993b8742863f",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "冀中能源集团华北制药华维公司斩获两项行业荣誉|中国经济|供应链|营养|持续|银发 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NQ1ROYmRpNzBBQ19ia25VdEpNaGlzMGZUd0lHbDNteU53aE5VTW9rMVlOZUVBaGU2QzJZNWpTRjliUzlHUGFlMEVvc0dpT3dtcHFnVExJS3BNNldLRnZrS2IwSzB6cnRRMld0RHdEVFFRbTY0YmphSw?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Thu, 08 Oct 2026 16:33:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "d3ccb93a39bce313",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：注射用硫酸链霉素销售收入规模较小 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bHMycTcyWjJyTXNQUjB0R1lGNkx2UVQ5NzR0X1prdFJWUk0tQzYxQnJjeWhDSnZfa2dvdVl6T2ZibjhzM2ctZktPaWlSTlprOHliN29sbWdpZnpNLUlWdFd6NHo?oc=5",
-   "source": "东方财富",
-   "published": "Fri, 09 Oct 2026 13:28:07 GMT",
-   "trip": false
-  },
-  {
-   "id": "46de6b206483b667",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药提示：注射用硫酸链霉素营收规模较小 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TaXNwOEdrQW1kcmd3Y082SEdDN1Z3YlpydWdPZDJ6S3JCN1BURXdtZGU0elM0VEZqNGFycm5YQ2ZZb0NISXQyblNRXzF0M2hySFk1aXBBY0xycEZDT3MyNDZqa0g4Zw?oc=5",
-   "source": "东方财富",
-   "published": "Fri, 09 Oct 2026 11:33:11 GMT",
-   "trip": false
-  },
-  {
-   "id": "7ad9e6297c44d00c",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物(301301.SZ)2026年中报净利润为2.78亿元、较去年同期下降38.99% - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53bmk1MkVxN0l1eExyaTB1VzZreE9XZzNkTVJnQVdSYTIzWE1VN0Z2SjlCQlQwX0pvM1NjdU12MHgzcEw1VHdDcW5nQjV1N3lxUXBnTXZjNUt0cDFydkNSZGlXXy02cmlvS0JjNmZ1MA?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 0,
-  "ncpc": 2,
+  "anglikang": 1,
+  "ncpc": 4,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
