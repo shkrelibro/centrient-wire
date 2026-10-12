@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-10-11T23:41:06Z",
+ "generated_at": "2026-10-12T05:54:32Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "0ee41262cc8d30b8",
+   "query": "chain_pensalt",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "东吴证券：联邦制药维持“买入”评级 主业筑底回升 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPamMtVXU5ckxFOGxLWjNyLXhhMHpwSWVwWVB2ay10enlLaFVyNWZaZW5kblI1M01nSjdHaWZLVC0xS1lVckpTSnU0cnJHLTVITWJpM194YTcwSmlhdm5zTkt4U2ItV0N2WnlnQ0U2QklWQU9POS1kZFFneTVtdDZGRTR3enBuanBESFRr?oc=5",
+   "source": "新浪财经",
+   "published": "Mon, 12 Oct 2026 04:55:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "941decf5e7c9a806",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药连收3个涨停板 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSmNEbzNNYTFySHZvV2VUR2hXSXJTcTVxUDl3VWNoZDgzM25oczEzaXZrWkFRSjZOYXZURVlJTGF5Z0JjcTEtbUlIVlVZZ01uVFEtUG9GeU5NbDdFcDNKVQ?oc=5",
+   "source": "证券之星",
+   "published": "Mon, 12 Oct 2026 01:43:52 GMT",
+   "trip": false
+  },
+  {
+   "id": "a626710a527b2810",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "生物疫苗板块高开，华北制药、莱美药业双双涨停 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PVkNTYy1kSDU5RVp5LUN3c0txYjFTNlg3RFRCSFhFa1dqZTgzWnR6czM0dHBtbzB5ZkxDRjFMNGhwVDBCZkZOOUdRNHQ4MVk?oc=5",
+   "source": "手机新浪网",
+   "published": "Mon, 12 Oct 2026 01:28:10 GMT",
+   "trip": false
+  },
+  {
+   "id": "088e181f9c22f954",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "异动快报：华北制药（600812）10月12日9点30分触及涨停板 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVYxUGlybDE3cXhUdkpPdU1FdFo2Y1VxQ0dIeUFPXzNDUERlYmFpV1g3eTNRaWlEd3FnY0I4YkZvR25ESzJrSU5qa1I4NEc0QzBINWNtLXdLMW5MYWtnTzdkREw3eTM3OW5LQjh2SFdSZ0ZITWpXbzVJOXRyM3BKVGZ6amRlQTEt?oc=5",
+   "source": "搜狐",
+   "published": "Mon, 12 Oct 2026 01:35:33 GMT",
+   "trip": false
+  },
+  {
+   "id": "0c52847f9e43ad52",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "今日十大热股：东百集团热度满分登顶，华北制药江淮汽车领衔，多股涨停获市场热炒 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMms5bXlscWQxdmFWN0cxa1d6NWdCakdUY3BmQzVOV3FVUjhMZWVSYmNwSElVbFBSTjVsaTN3UlRJSERYZG9Hcm5yemR3dThvTVpucW1DcUhxeWtWMkhHbGFnTFdNS0RwZEduMjlwYVZLYkpWSjRrYXc2RUxvTzZ2SVNXLTZXUkI0?oc=5",
+   "source": "搜狐",
+   "published": "Mon, 12 Oct 2026 01:25:33 GMT",
+   "trip": false
+  },
+  {
+   "id": "1cbedcca54591dc2",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "减重药公司联邦制药股价大涨，跨国巨头纷纷入局中国减重药资产 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFJOTS1ES2xvaDNJX3Y2TmdidzM0VXlIQUlPNXFwTGpuR2k0eDFfVXVtYkNVM3lFcXpaNXh6M2NzUjFIb29jem55NHBsYWJNb2FfUG1ZdFlzaVNLZzlVTnltTC0teTVEUGg2YzNveENwbi1LUkdYZ1pxUEJhQ2VWR0g1cldlWGNxTUQzR2lfMzNDQllP?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "6c9386003237f4dc",
    "query": "cspc",
@@ -342,31 +408,20 @@
    "source": "东方财富",
    "published": "Mon, 08 Jun 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "09cb304fc806ffd3",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "创新药研发加速落地 概念股短线拉升 迪哲医药涨超13% - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTjZsZnZIZEU0dGNYZUtXTk45SkZUeV82a1NOTGFqTXBtX2g3a2RYckd2N0JnWTFBMlgxSjM3UGhfNllRWmhOQ1lEc1dzVjNoU1BzNTFn?oc=5",
-   "source": "搜狐网",
-   "published": "Thu, 21 May 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
-  "tul": 0,
+  "centrient_core": 0,
+  "tul": 1,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 3,
+  "ncpc": 4,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 0,
+  "chain_pensalt": 1,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
