@@ -1,7 +1,62 @@
 {
- "generated_at": "2026-10-14T19:22:01Z",
+ "generated_at": "2026-10-14T23:12:56Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "08d7453a13226456",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国药现代：预计前三季度净利润同比下降59.30%到63.05%|格隆汇|抗生素|集采|美国|格隆 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREhJWnp3VkIzMFlkRnZ6ZXBJT2hQRE16NkRkNmpENWsxTm1vTnlIN2JULWZnZUhneUFZRnJ5dFRJOGUyM3poQVpVMmxMZVZlRElNdElhLWViTndnVWZIbWdmQ2N4UkVFTDJMN2dZWWF6UDNSc3R5TEFJdW1FYllRSzNsMC1WTHFJRjdqOVd4NTVvSVJI?oc=5",
+   "source": "新浪财经",
+   "published": "Wed, 14 Oct 2026 12:41:23 GMT",
+   "trip": false
+  },
+  {
+   "id": "362550c07d59206a",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国药现代：预计2026年前三季度净利润同比下降59.30%-63.05% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Sa2JqZ2I5WHhLLVQtSXpUOXdCTmoxbm9rNnlhUUVHRGxyQzRxa29tN1JfOWNLRXNIM25WTXlTZXY0SWo1bTFRN1JDa2tJdHJPV0pHUE1qVkJiY0kxZUZ4aw?oc=5",
+   "source": "东方财富",
+   "published": "Wed, 14 Oct 2026 13:06:18 GMT",
+   "trip": false
+  },
+  {
+   "id": "8ce8102373490c1b",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药股份有限公司关于股票交易风险提示性公告 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDdpVkllaE5DSG5DYXRlZ1dlQVVsRjFmWHZRYU90eUhrZkVTWnRIU1o0Z0RLVVlqY1ViZHM3SUFyRTJOb0R0NW1EaW1uNDgyT1VLVHl2RkhIVkhvMUZnS09ndkhVN0w1ZTd4ak01MFU4c1BHSVdvOXFieWsteTQxLWZlTmU5UQ?oc=5",
+   "source": "新浪财经",
+   "published": "Tue, 13 Oct 2026 18:04:58 GMT",
+   "trip": false
+  },
+  {
+   "id": "e3d905965c7cc78a",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "合作方单飞、募投未达标，昂利康的转型故事还能讲多久？ - 同花顺财经",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83RUE5N281Y3htSjc1SHA4S0FvT2NlRllQLThkczg5eG51UmprRW91YTd0ZVY0YkhYcXYxdUxCZkFpcXd2SGRfYkZ0UV9xQzFmNmxwMnhzNXg3UU9fTmVjM2VR?oc=5",
+   "source": "同花顺财经",
+   "published": "Thu, 08 Oct 2026 09:52:14 GMT",
+   "trip": false
+  },
+  {
+   "id": "c9d9328d3dd65057",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "全球首创CD47抗体药合作告吹：昂利康传统主业持续走弱，创新药转型高度依赖“独苗” 项目突围 - 时代在线",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HN05DZ0V0bk5wNUE3elU0d1V4M0Z4aENrUVJOcWpoc0NJXzhmWnBXY2dDMV80WnNQNDRMMEJudHVyaXk0YW1CZFdCQzBuTUJUbXo0bkIzS0FXUQ?oc=5",
+   "source": "时代在线",
+   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "3d8d48f825d618df",
    "query": "chain_en",
@@ -2146,78 +2201,23 @@
    "source": "The Tribune",
    "published": "Fri, 12 Sep 2025 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "73dbfd1673ea9e10",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Penicillin G and PLI Scheme - Drishti IAS",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcy1wTE9XbndNTjlUM3AzY2RMUEVIMEREU2pXMXlNQVNnT2FveGxRWFlYTWdFaTB4U0ppMzNacE53dEhiU1pPeXFDZUdOLWE2Wm5xMHRtMVlJdjhKRkphdDUzTGZpeHBhWlFOdko5TnFIYXpYVWs4NVZzanVpcHNvT0Y3TWY0aHZueHowRUpKLVdwZw?oc=5",
-   "source": "Drishti IAS",
-   "published": "Mon, 11 Mar 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e6784f8dd1a492b8",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "API Prices Tumble, Easing Cost Burden on Indian Pharma Sector - ChemAnalyst",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmdnUVJxWFhLWDdWSEhWbzk3Rml2TmEwT3FsakFHanJoaXJnc0tNMnVvSHNnQkNYempYbktPa0pNUV81U3JjX1dBT1dQRkhhMTRhR0NIdDlKVVRSNG5odDJKM1ZNZndvRnAzNXk3Zm54bFlpbzVpX194SzAzclhTWTNYeHFtRU1Ta2FqbTI1T2Z1MmotNFBoTi0tXy1lUmV6TzdEbWJnUUV6WnVfWUstb0tYaUdGMnprRlA4?oc=5",
-   "source": "ChemAnalyst",
-   "published": "Fri, 06 Jun 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "5918b5738247a1ca",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "从阿莫西林原料药争端看欧盟药品供应链保护：Sandoz 的投诉与企业应对指南（上篇） - Lexology",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnI0MEhVV2xOS3lWMmt5TjllcXFPUHJkdVBlaExsWUpocW9qNnBCN3ZmYkxQcUc5eW9qRVU1N0VxVkFfdFR5b0ZNbkcyTVJjN09TWFd5cmMwMzlreTJjdGRzTUxwTWsxVUFLek1IMHpGYXdtZGU2a0xfa2VIa3dfVTZYVEp3U3NlX1lv?oc=5",
-   "source": "Lexology",
-   "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e548ad6e1a40ab1d",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "印度给抗生素原料药划了一条价格红线：中国抗生素原料药企业在反倾销、反垄断和反内卷间进退维谷？ - Lexology",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2lSQzUtVzFjeUtwQlBESmFNRmdiX1BfQzY5Z1JvV2RURmdwaUhNSGtCeS03TDJONW9CVE9kOEFYRjdfbkVvZTNCVTE2ZnM4WlctU0RSTGl4SmtLUW9wSXJLVGZHZFdvLThhb0J6d0xnQmw2NVVsdmVRTC1vRnpsS3FOanRWNmZoczlB?oc=5",
-   "source": "Lexology",
-   "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-   "trip": true
-  },
-  {
-   "id": "9d6046ecf623f738",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "中、美两国对医药类供应链的互相依赖 - 中美印象",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0Q3J3THJpS3JZUEdZOTdabGJaNDJUeFRfZnVaVDltNXY0aHFLNHNyTFNiYTEtQ2hXaHhkdFlOUE1EcUw2OHpEbFZZYW1ncTFrUGhROElDTFZKaEUxZmYtTnFGR0NjQQ?oc=5",
-   "source": "中美印象",
-   "published": "Sat, 07 Jun 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
-  "ncpc": 0,
-  "aurobindo": 1,
-  "weiqida": 1,
+  "anglikang": 2,
+  "ncpc": 1,
+  "aurobindo": 0,
+  "weiqida": 2,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 1,
+  "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
