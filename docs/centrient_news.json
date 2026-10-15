@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-10-14T23:12:56Z",
+ "generated_at": "2026-10-15T01:28:16Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "647e96fab37329e3",
+   "query": "aurobindo",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Aurobindo Pharma commissions 4 manufacturing plants for PenicillinG, other products - Medical Dialogues",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXgwUndLSE54TXlDZFpyZkU0WjlvaDZua2hYTEJWNlNsWGgzQzlZYXNMYlB5TlZJak8ybEFxZ215TUVzMm90ZWJSbTRXQnZsbzhSUklFdmRkT2lNMW9OTy1ZSko5SDZqcHdnSzhiaFo2UFhMNGszWHEtbTE2cGc5V0ZjLWVEa2ktMDRrSG5qTjlsUTdlN21YY19rMmZmSWdmcmFZRldVVi1ZaWVFUVJzbmc0dUxiZUFNMi0xeXdRTTF3MlVPRG5yRFM1LVlKcEdNUVV5V9IB2gFBVV95cUxNcGNmcjJpV0NwUy15SzhQY0M4S1VtSTAyLWo4ZnBmdEM1N3FtMXFlX1BDV3d5UUQ0blpWMVZUMnJUd0Z3bkZwQTlrUUdPX0NJdlZPYzVlR1dwUkN6S0lQQkVTTGYyTC1vbFdpVFdCLWFpWUVnM3lud2YtV3RVUnhSUGV3X0pyQVRZRURHLTdoOF8xekx0eGhoaDJxV1Jtbzhuc0RUb045U2QxT1lzNUxEOFNtNnlJNk03RUN0ckY2WlE3eVVmSTZtLXBxVjhNM085UmdySHVpX256dw?oc=5",
+   "source": "Medical Dialogues",
+   "published": "Mon, 01 Apr 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "239459e490d8b03a",
+   "query": "aurobindo",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Aurobindo Pharma Commissions Four Manufacturing Plants In Andhra - PT Pulse - Projects Today",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcTJoQXl4V1M5NngtOTlPOUdYOWF4bmFEOU5PSGZWSWgwSXlLa1hYN1MzNlpNUVkzVkdtdzN3MHdhdTJsY3lFdk9rNDBuTjZEbWYzZjR3YkRGTExHTnQyZHNldEZXRTMzZWtUSldqeGlmWFEtWEpTdTJoNWNsbkJqRERxX29EaXpBdmZIRGV2cnNhSGcyVG82emQyY0J4dTRLb201Zkh5cGJ5aVJHT0dtZVZLdXE?oc=5",
+   "source": "Projects Today",
+   "published": "Tue, 02 Apr 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "58c5a0958e494d86",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "周四早评：宝鼎科技，大连圣亚，华北制药，东岳硅材，天融信，天顺风能，景旺电子，赛 - 虎扑体育",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MkYtNjQ5VHFrNm9GV0xrb2ZIS09uX2dsaDB5cExQOXp6R1pQaTNnRG5adjh1TVk0c3ZVSzZwMHBWbldWbUQ3Y1FlaVdQZw?oc=5",
+   "source": "虎扑体育",
+   "published": "Wed, 14 Oct 2026 21:45:27 GMT",
+   "trip": false
+  },
+  {
+   "id": "68b95db8dfaa53ff",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康拟5000万元增资晟睿康 创新药业务布局有望持续拓宽 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpQkxYMlNrZEh2V3BoeGJDZTV2WkdiQXB3SEF3dnV6WEh3bk10V0djUGNTM1NEbEZOMFlNQWtrSUNfOHpjT0lZVnhxZXhSNnVKYS04emRfNHpjdnVOY3ZSdg?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "b178dadc3bc3d37b",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "4款注射剂被举报国采投标价格异常，至少28家企业或被约谈 - 中青在线",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmeF8ycjJJX2FkZkF0c3JyR0Y2LVRsR2kxWmwwVDVaLXNkS2pWdXc3azRxOGFHSmJqSlprbkt2M3BpMXpnM0J6OVdUWi0wejNLTEhaUzJMMnptYlVfQ1BsWHBXZWpuY09Lb1kxMWJISXdZQQ?oc=5",
+   "source": "中青在线",
+   "published": "Thu, 18 Apr 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "3749553e1e603658",
+   "query": "centrient_core",
+   "route": "google:in",
+   "lang": "in",
+   "title": "From Manual to Smart: Pharma’s Make-or-Break Moment in Manufacturing - pharma.economictimes.indiatimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc3JsVnJtbndESEZEcGI5Q2VwN0puTjVNQnVMUG9DYU04OC1EZ0VFMTlnZmNfeE1aZ2J6bzRyekZUbmtYRkxYd0I3Y28zWVBKTDRXenR5NUp5UXc3emZ0enRjdWpQR0lTN3BJWTRfMjAzR3pxVEtNZlpXemRlUGdMX0R4S2hhSGdmX2xkNmlDcUo1QWhzR25yTHItMzYwSVRRbkVnTjFqTFF5SUMxYm5zSjhBTTFGc28weFZJZnMyT21IX3NrenkwUHl2QXB1YWlH0gHWAUFVX3lxTE42WHgtdzQ0M21mTmczQUk2ZS1wbFFfTWZ6am9MYVFRX0p6VkktUWo3N1pxc0ZBRldfZXNOdXVEdVlxWEpyTmhOcjY5TzdyS2RNOHV5TFFoM2h2YlY5QzV1U2U2ajdLWThER2xmTGs5N0VzOHlzcl91M3JVZ1AwOG9rLWZuRE8yNlhiTGlXLWVmLXNoaGZqTkJIeVBwN29qSkd3c0d1cnFncUJBdVpYQmxvaG9xU2p3WTkyN0pGMXpsUUpnLU1ETzBTdzBabzZZMWZhNzBRWXc?oc=5",
+   "source": "pharma.economictimes.indiatimes.com",
+   "published": "Wed, 23 Jul 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "08d7453a13226456",
    "query": "weiqida",
@@ -2135,82 +2201,16 @@
    "source": "Fortune Business Insights",
    "published": "Mon, 27 Oct 2025 04:16:13 GMT",
    "trip": false
-  },
-  {
-   "id": "c11fa9094a023907",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "China Now Producing Dozens of Drugs Below Market Price – Dumping Them Globally is Next Move - Coalition For A Prosperous America",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFBleUtzckJLMFY2Rk1pdndzRnplNm5oMDdWd2ttWmVqQURQOENhbzFTbFdYOEJxRTB5cE5ZaUJ3dFFMM3FVODJTSXZOeC1Ca1B2ZlJjb0k0UGk3bjg5dTk5UjgwOEtsZmZhOHNRbWNGNTNCLXUtaklFdld4OFk0cDl6OF9Za1N4MHRlLXhnUTh2NkNkY2d4QUs0S0E5Wk9RUDl4WVRFRlY5Szg2M0YtUXRCd0dNV2NlWDEyZA?oc=5",
-   "source": "Coalition For A Prosperous America",
-   "published": "Fri, 19 Sep 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "93e33d22697111fd",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "India to restart Penicillin G manufacture: why was it stopped, what changed now - The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFZTTDJfOWoxVHl4WC1UZTBpWVlIa0ZIYS1pNnpfcE1FYkJwZzJNcVk2X2IwZkpnLVBCQWRxdXZiQi1EdGg0aXhFTWR0cFNjUG5neVZ0MG5FRW1qZmhSMWEzbXJmTlVwVVdNbDN2azdDY0xCamoxNnQ5NjZfX1dzRDhaTW1YWVktaTZQei1qeC11N2hzOU5TNWRjRENDczhWbnU3clVUZnBLNjNvOEw2MWlNLWtDVDZtSV9QLUQzSl9uQm9I0gHLAUFVX3lxTE5PaTJsX2NQVGkwOXhPX2dYLUp4UUl1V2hoQ0ZUZEtPNnNnMWFnME5VR1YwVHk4OV9pNElWOExMbUkyMDhoQzJLaWNUbGpyV1Jvelk1TU8zRWlVYnFtX1pUU1V0QmYtM0FFYS1BWURlZzN0SGl0MVJjYUNxNkZzRFQyb2dhZEF0U3kweGtyel9nWTFpVEIxX1lScS1fSWhDa1RaREtsWlMtZ2EtN1ZKUTFxa3RtMkctV3h3YnRwY1RmdC1sUFRPaU9USWJZ?oc=5",
-   "source": "The Indian Express",
-   "published": "Thu, 07 Mar 2024 08:00:00 GMT",
-   "trip": true
-  },
-  {
-   "id": "e27b957bc237f6fc",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Why is the world suffering from a penicillin shortage? - Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDN4R3Y1RFJ1b2xsa1R3eU1Ca29HVGVnNThEMS1NbHRWU2tIeWs0T3hrRDF1a3E4OEFBSG9wSTVGd2RxcE5QVGVmUnJ0aGtOaG9tZ1VjZU5FOVhLWXBQVThhWUJlUnFXeG9ocnJYbjNPeTRablJDMzVfQ0tqb0Y4dmxLQ3drZ3hkNmVIMEFMX0E5RUxYcHdMSGVnUk9IdE3SAaQBQVVfeXFMTjdwakh5TUVLcVNUS2JESl90akg2UkdzNmlJQTlxQk42cUJKRVJUa0VBVzZtQ2RCTTdyWUlwSkJWUUpoVkdfbXJlb2dNTzREVVNmRlQxa0xxX0VDaEVrTVY5RFBpYy1XOXctUnN3dmp3WW9RTW1tTHEzVXQ2Skg5eEptTkVpRzE0YWJXMUFNb0JrYmFCaTUzV0N6Z3M2dVZ4Qlpyc24?oc=5",
-   "source": "Al Jazeera",
-   "published": "Sun, 21 May 2017 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "60db3e1105046c93",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "BDMA asks Centre to expedite implementation of MIP to counter Chinese predatory price cuts - pharma.economictimes.indiatimes.com",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMU04YnFfSmtkdUxHOFY4SmY1Slo3R3RXNHJvM2tBV3p1RG93T0FsN2lUMmlDM0tERVlJTjE5R0pXWjk0bVdGNTFQcGwzYUhHaDZ0cDZCZ3BVempCaTg0bWVBbmRjSndMRG9pa2lIcDd4bkFudkRXMHRUNU43Wm1ZZ241SW1IbmdhendFNzYxTzZ5N1hrdTF1bHdJMWZ1LXNiVVV6eVp3cGZrLVpTTldmSk1HVl9fTmNLTm5XTzRrR1owXzN5eWlqYTNjcFFaYS05NWhLR1YyNHk0enF0MDVYYjlRNV9jeS11YTN5ZEpsaDl3SHBFWGRJWtIB_gFBVV95cUxOcWxNVVd1eWNIRjlQVXRtZlczWW53WFg0aklQV3VnWkhJUGdIQmpHcWxxMWx4OUxOZXlIMVJicVpRcHdadDluX3Z5T1REczZUTjJsMnRUUnlnV2NCTXgzOWhrT25XWWY5LTZueTItMTBObEF6ZFNHVUlFSjJkOFpVdHBjUF9ldFNXQ2dZTkU1bnkxYmJyN2VjdEFlQ0FlM0s2WVItQnNEMEV2NFk3b2FKenhNTW5zLTE3eHpFeGt1WXN6WVZjbXdmQURkYTcycjVoTU10ZENsMHlZdXZjZklqSFhQTEtHZHF3Zk13Rk1yazJCLURjd1lleFV5Z2hTQQ?oc=5",
-   "source": "pharma.economictimes.indiatimes.com",
-   "published": "Wed, 17 Dec 2025 08:00:00 GMT",
-   "trip": true
-  },
-  {
-   "id": "dacabd9cda53bf60",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "India's import dependence on key pharma ingredients may reduce by half - Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGxFR3RfZTZWNUtWOUFmQk5MSVliMmtBc0NRTFY3bTIwSnR0YjF5WV82SFpuampzNzNHMVFybHgxdkV3SmtqX0puVjRjUk9CZ3VMNVF3dmV4SmFxMWxVVWZETTFJS0xFWGVQc05JNFJteGlWZ3htUC14SGRaSW9QQTFDd1JqYjJuamlUSFdJUENNaUVOcUFvVjNDdlg3aUV2dkYwZmk3YUdlajZQZnN0YVZ6R3Nqemo4MTNHZUNqZmtWYmxNVVJhaXRnVHNJbkVEOEFxadIB2gFBVV95cUxNSVVRUnZkWHlTeHR1aGl3RmlTRURIU18tSFJSLWNwalJiMnV1NGNwYmczWEJob1YxeVJfOWhGUVBBSUpRQm9FdUNfZVh4eTBVeFlJdVIxNW1DT2tCVDhmMzZDZ0lRZFBFN28xbXotUjZQZnFPRUpwMWVNTmE4aUxXMndwel96OUtUeXUxQ3VfV0hwTlBJWEdLSnNpU2Q5eVcyTVpGVXNNZG44Ynp6MVNwTDBIRGxqZnJMYXNvNElmaHRsSVdVY2FRaldNV09Ec0RJNEMwekxPUERWdw?oc=5",
-   "source": "Business Standard",
-   "published": "Wed, 13 Nov 2024 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e9323d7446863d8d",
-   "query": "chain_en",
-   "route": "google:en",
-   "lang": "en",
-   "title": "China’s price war hits Indian Active Pharmaceutical Ingredients industry - The Tribune",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEw2ZzhRM0x2SGpld3BYN05rUld6ZnJCUVZ3bE5adEVJbE8xdERfMXNwM1RlckFTUVhfVTZHMlBlcnFtU1oyVGg3QVhzX1U5MFYwN1BNU3VfTHVjLThZX0FUaGoyUkoxR0JpaDZlWTItS2F6S3FtSmNzNWhaRTJKM2hPQXVEcThQN1RXM1FqMEpUTW5EMW9ZUF9sX0ZsV3o5WHlOaUVubFpTTzM0MHpHOW1ZN3EzQdIBugFBVV95cUxQQ2FkcWxlRXNqOFhURG9wVnE0M1BsclFYSU03QzBweXJPcnBGVW9xQnVsa2c3U3p0azBVa1NEekRMT0JIV1lzWmZEZnkwZHhMQm5fNUpCMFdxeHUya3FPM1c2cndXR0hlcVBRYWdCRWZPODhKdFY3YXZ0V3ZyQUpRbjllN1Z0U2FjdktEUkdGcmk4dHI5WTZJd0tnSU1EaFNaQTZMWkQ3MlgyY1RRYXp5WTRFN3U2U3ZlTmc?oc=5",
-   "source": "The Tribune",
-   "published": "Fri, 12 Sep 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 0,
-  "tul": 0,
+  "centrient_core": 1,
+  "tul": 1,
   "chuanning": 0,
-  "anglikang": 2,
+  "anglikang": 1,
   "ncpc": 1,
-  "aurobindo": 0,
-  "weiqida": 2,
+  "aurobindo": 2,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
   "chain_6apa": 0,
