@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-10-16T19:56:57Z",
+ "generated_at": "2026-10-16T22:50:17Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "64cd99eb9bdf8b0b",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812)龙虎榜数据(10-13) - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hWlpET0lDS0xDYmZwZG9JSFhtOWxrbzFWdzUycjhDNjRwQjVDSjdhdXdWN255LWlsOEFxaFVzTkZvVVFITzlhMlp3Zl8tM2lfaC01Vy1XQ1hJWkxWcEJXdVdCZw?oc=5",
+   "source": "东方财富",
+   "published": "Tue, 13 Oct 2026 08:58:30 GMT",
+   "trip": false
+  },
+  {
+   "id": "8cc33db4c6e167e5",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "伊犁川宁生物技术股份有限公司首次公开发行股票并在创业板上市网上路演- 现场图片 - 中证网",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kZWhlN0VvaHFQVXlXcjB4US1nUF8zamVWeFQ0N1BTVkktUFZpNWxndW9FN2lRcTVKSkxUZnotRGYyT0FwLUNKdTFPUmd2ZE1kaDk5cTdxS2hmRHM?oc=5",
+   "source": "中证网",
+   "published": "Wed, 14 Dec 2022 09:54:58 GMT",
+   "trip": false
+  },
+  {
+   "id": "8f9a35e75b2383a0",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "20亿美元！联邦制药子公司（珠海横琴）GLP-1三靶点授权诺和诺德 - ByDrug",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ITzZ4QUFtY0VUTUpxcm9XRU1fWFBuaXBTNllub08zYXB6RTR1WDBQLVhnVHpGMEdfcTZiQjhyeG9zU0N0REd0VTVvTkxHaU8xWUl2Zm1OdWF6dnhLRDAzazUta29wdS1Edm1icDlHYlhfaV9GWWtMZ01BM3FzZw?oc=5",
+   "source": "ByDrug",
+   "published": "Mon, 24 Mar 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "1ee53ae5a1c49b28",
    "query": "chain_en",
@@ -753,19 +786,20 @@
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
+  "tul": 1,
   "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
+  "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 1,
+  "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
