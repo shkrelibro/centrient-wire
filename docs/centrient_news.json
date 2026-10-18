@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T17:21:57Z",
+ "generated_at": "2026-10-18T20:40:14Z",
  "window_hours": 36,
  "items": [
   {
@@ -485,127 +485,6 @@
    "source": "finance.sina.com.cn",
    "published": "Fri, 21 Jun 2024 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "eca2a76d6c56b10d",
-   "query": "reg_mhra_alerts",
-   "route": "rss",
-   "lang": "en",
-   "title": "MHRA drug & device alerts: Field Safety Notices: 27 to 31 January 2025",
-   "url": "https://www.gov.uk/drug-device-alerts/field-safety-notices-27-to-31-january-2025",
-   "source": "MHRA drug & device alerts",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "08e3349d1d30425b",
-   "query": "reg_ema_news",
-   "route": "page",
-   "lang": "en",
-   "title": "EMA news: page updated",
-   "url": "https://www.ema.europa.eu/en/news",
-   "source": "EMA news",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "3d6afd6a0c93c69b",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "d6daf6e62c49e256",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "病例增长12倍！日本梅毒感染快速扩散，美国辉瑞供给药品紧缺，A股青霉素概念爆发，华北制药、川宁生物等集体异动 - 腾讯新闻",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdVpNbGJSNGdyN2VnbHpJZTBMTExSRmdZQkkxUUZWNzlhMjNINGxVd0lCUnhOSndudm5VdlR6OWpVWXNtWGV3YlpTNFM2WWxLWEVEbU9B?oc=5",
-   "source": "腾讯新闻",
-   "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "a4b2bc4090b284b0",
-   "query": "sandoz",
-   "route": "google:tr",
-   "lang": "tr",
-   "title": "Sandoz Türkiye'de üst düzey atama: Hande Ereke, Reçeteli İlaçlar İş Birimi direktörü oldu - A24.com.tr",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1Z5d2xQazJIVGxUSnhIUnI3UjNmZEUtemduZV93bkhlLU5PekduOWJRVjlLMTljV0NMSHFOdlN5bnNwVTVNcFRqZWdvblB6Sjk4Sy0wTmNHdm5qM3pGOFhFZ1JOQzA0Qmk3TEhLQnFUVWplVmstbGQzamFCaEVqYUd2SVRjQVF6ZVVsS1V2a1VoV0hYNjdtcW92WGcxV3JqVUNfRWh6aC1yMm9FTGZDX05mdGRRS2VZMFl2NzVBdFdaZjRiZkJxRVc3bk8zQU5a0gHKAUFVX3lxTE5CZ2xOZERTNFNpVVp2bGFWS3RrRFhwbE0zS1RnV2Q5QktCNkxoVjRXWGhjUDFxUktZWkJKMVdNQU1peFFKZ0tWaTc1UFhlVHJISUMyV2VzSk90MUdWZzdNQkZJcldxZy03b2JlaDhXajdJdVNSMW52M19NVVpUdXA0MGV6czZYZDZJZEVMdDBfYVZmUy1FRVlYUFNwd0hqdEFkNWlCakUzREs5anBfTEZBV2EyZTB0N1NtTDlnb3FudHZ3Vm9aV0dKR3c?oc=5",
-   "source": "A24.com.tr",
-   "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1410258685295136",
-   "query": "sandoz",
-   "route": "google:bg",
-   "lang": "bg",
-   "title": "ЛинФорте - новият пробиотик лекарство вече е наличен в аптеките - Zdrave.net",
-   "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPZ3JscTJoc1RwdEpsanhpSUVsX1VLZ01JYnIxaVdzY2FBUVR4TGRpZVdQOGxTbG01TkpETktMZzFmUEU3bXlLX3p1NVU0UmVzT3VlblFPTG81NVM3Qi00M1M4ODVadFFldDhoeTFOTjR1NjFOWGgxUnl2NlQ3RXFZaHFLcnMtbUV1QTN5Zi1FcjVYRGMzVTZva1lla3VXZGo3SGNlTTZqeFExUWVyOGt6WEF5V1Z2cHZfYkVHYVBNZnZQTXBobmFqZ0gtSlBoWm5tMUp4OVJYU3pQOUhSaGJDMTB6azJHWTNMb0QyYjREbFRIVmZTVThnRFNON2NLQ3BMLTJQRU03VENsVWdFZDFYWGJaNEZNZTFxcnBULTR1SkZiVVZLVm9nVGdKMGpweGZ2RHRBcmdwRWVvWThOemJCWUlqdks3WExWZGNfOU5HNjVtX29tOERjUm1sLTNVbk0wUEliTnBHNmR3aGRJUW9PVmtPRkUwMGtQVzF0WWxLX3RuMGdSNF9TMkJVaGRKM3JMVC00VTctcUltYm4xWXpMdWYyTldMU3l1WVFQdG11eEN0NnotbXlZSkI5VkxrZnJmcHRsWTlEOUJuQTQxRS1FRy0xYkJLcnVfOHFsbkREOHBNdk1nTlY5WWlnZ1lRZ2ZpNDgwWC1EcDhNWVVkcFN1aVpQN2ZvWEI3YmVIT3gyREJqbUZhVl9LOVdVS0VXMS1HZFVNSnpTWTJ5ZXM?oc=5",
-   "source": "Zdrave.net",
-   "published": "Mon, 11 Dec 2023 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "be82200717c73a9a",
-   "query": "sandoz",
-   "route": "google:es",
-   "lang": "es",
-   "title": "Sandoz lanza Lansoprazol Flas Sandoz en sus presentaciones de 15 mg y 30mg - IM Médico",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFBzSkp3SUdFc21lc0diTkJfeVNSZGJxX056b3lHVktWTDZFbFQ0Z190RUw3Tm1sYmxFdUhsaHFHTnVreDAtUVBaeFBES2EyZHhsMFlCSjJQSzZPU3MxdEk0YXZyb1JfQVNjWDZzZHJnUDB5cE91Sk9vajRwdjFVUDRabGtMSnNpWFkxaUg1MkpTd2J5Ql93ZGFNS3R4aGVCQ1VXci1tTEs1c1hINUhBeFk5d0w1TzZhSVZaZFJ3VGVDcGpsaEFZ0gHCAUFVX3lxTE5keVlyOF9ETmlGc1NwWjNiS1g2RUhERnVZZXJsd3NrSVdXTTREdXE0MGdCdzB5Tm9UTWREcXhKbXBsckNscjVBNFI1bDNZbW82dWlCeDhYbk0yd0phUExGMlNYbkRaU3N1NXM4cU1EMHRvNjBrYXhnTlRoNnFvN0FWSHlvR2MtQnMxUkxfUkIzbzd3QzE4TVFtaEpaZEtQclE3Wm94NmtrYk9xRnR5Y0RiVldIcndYRk8xem0tcnZBR1NR?oc=5",
-   "source": "IM Médico",
-   "published": "Tue, 30 Jun 2020 23:45:30 GMT",
-   "trip": false
-  },
-  {
-   "id": "5da1e239c7a10b43",
-   "query": "sandoz",
-   "route": "google:de",
-   "lang": "de",
-   "title": "„Wenn nur das Billigste zählt, dann bekommen wir ein Problem“ - TARA24",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGtjRldrNG5OOXlJMWlBM3ozZlNSbjMzYjFRa3ZvOWRUWjZ1WWhUaE9BQU04amJhWFZYbkZTandEZmZUUXNndEkweWE2RWJCTV9sLVpaLXowOVZsTkFaTzZ3NzFLOFIzYjRNT0lJbXVlRnBBc2lKcl84Si10T3lLN3dqTWlmdWZoVm1VRnIwOEM5Zw?oc=5",
-   "source": "TARA24",
-   "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "fd3307d399ad9a13",
-   "query": "sandoz",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Beleggersagenda van dinsdag 8 september: beleggersdag Sandoz - De Tijd",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnltQ000ZWw0QWJrMDFtUTc2SGdBYlYzTHRIVDMteERERTdTUXVhUjRhS3V0QWZpYjJ2c3pQU3g1OUt6ZmtpLWtKVHRaeXRLUnVseVFjWGpHVDdZNENDcmljNURJZ3A1ZFlXUFNRSDhWUFlnTkc0UlJtMVc3eEhNQzBicXRrWjJUSERUZlVfTEFTQjVFRUdLOGctakVGVWthVng4YXczcTN5OTNJakVlZG83UENmYWpOTGdJNjd0Zw?oc=5",
-   "source": "De Tijd",
-   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "8cfc620204931b2c",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "创新药龙头，午后大跌 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uejVxOGh0bVBvMGNMdjJvb2xQY210aFpzMnN0Y2tKZnp1SmpUOTZqS3F4djdtYlhYdXZxdkp3OFc1aThGcWlTbjhwQUp3LXFZ?oc=5",
-   "source": "凤凰网",
-   "published": "Fri, 16 Oct 2026 06:02:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "d2273f2fc6866f73",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "市场爆炒的昂利康创新药交易黄了 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82VF9iZ0JIQ2o2blRVSDZ4d2VFSEhSbDZUM041U1huSnlYSWNwWU1LWm1LTS1LNHpiaURNUThKMmVONU90bS1JaGdwRmsyV1IzLVo4?oc=5",
-   "source": "搜狐网",
-   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -613,16 +492,17 @@
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 1,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 1,
+  "chain_en": 0,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
