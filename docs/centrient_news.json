@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-10-18T20:40:14Z",
+ "generated_at": "2026-10-18T23:10:08Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "41eb32a42e5a0bb3",
+   "query": "aurobindo",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Aurobindo Pharma commissions four plants in Andhra Pradesh including Pen-G facility - Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUFpVVnZPNWRna2VLRlZPYjhuQXZvWFpUTkRTZUszQ0Jtbk5udWFXTTltcEF4ckQ5MzlSX2Eta2hvMFFGWjRoTkpBVzdvTUtfVlp2MTcwSjZtZGRqY0tHWE9WVzRJeUNTUWs2dE5udVptR0JOOWtYVnJkQ1ZPVFFxTkE1eXVPQjRkdkNrWWcyU2FkZmNDbGEyLXRQaW9VQXNpbWczWGMxbjJvcHBLT2YxQk5Jd1FsNENfUFI0V1Q5cUhmejNLVXRaYnRZQVlrOExGbHhoMTNiMNIB3AFBVV95cUxPYUd2eDNMZkcwZGFReVJRc1VVZFAybkVacHMxbjM4SWJyTkpLSXJwMzFQaDExOTRCT0wtYXNTYlZrZTNpZHE3dGwzemM3U2tBbWFIVUREZ0VQSnlCbWpLdEdocVZZODJfR3MyMF9BX1B3Vjd0MTBIWTRqUHlZX2tlRll3MkJoVWJnT0c3WUNJdVZQYU5Wc09meU5nQm1abVlBSTV5czU3M0hteTh4Q3pnODdSVGFqTDhYSDE5RFJHdkpyVG5hUi1QclkzVVk0dDNEaXk1VGo4U1hyRldN?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "Mon, 01 Apr 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "bf258a0450f96fa3",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：10月15日融资净买入5167.66万元，当日排名第24 - 同花顺财经",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Md1c2QVpNZmZvNW5lV3c3a1NfWmdUZFdOelpTZ2U3b2NySk5EMDVNZEg4NGhmZDFtamc5SVRtY3BISXVkdVJQbW1FRVByZ0dELU03U05kODVWa3g2VkxMOHpB?oc=5",
+   "source": "同花顺财经",
+   "published": "Fri, 16 Oct 2026 00:55:55 GMT",
+   "trip": false
+  },
+  {
+   "id": "308958a15b73f3ef",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "全球首创CD47抗体药合作告吹：昂利康传统主业持续走弱，创新药转型高度依赖“独苗” 项目突围 - 时代财经",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkt6OEpzQURCVkNYYzRvcHVRM0hwZlNpWWZRSkZweXdMSGgydXJtbnB6d19VWHkzSXJRY0NOVXVyNUtEbWZtd25fcC1yQnNWOFNlbXpEM2hDOXZpdTdJOHk3MXZtM2F0QUJjNDJfR2JycWJPSXZCbmU5OVVCRnJOU0ZhdnNDZW42NUlpRWJ1TGs?oc=5",
+   "source": "时代财经",
+   "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "106a3ce1361e392c",
    "query": "chain_en",
@@ -491,13 +524,12 @@
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 0,
-  "ncpc": 0,
-  "aurobindo": 0,
+  "anglikang": 1,
+  "ncpc": 1,
+  "aurobindo": 1,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
-  "acsdobfar": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
