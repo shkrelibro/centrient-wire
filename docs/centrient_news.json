@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T23:10:08Z",
+ "generated_at": "2026-10-19T01:14:51Z",
  "window_hours": 36,
  "items": [
   {
@@ -496,37 +496,15 @@
    "source": "Jiemian.com",
    "published": "Thu, 10 Aug 2023 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "08130c880e4e90e3",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康：与亚飞生物及亲合力终止战略合作 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wYm0wYkg1V1B0V2xBWXZVQy10cE9GcUdFS095SUJwQXpycDc2U1dyemNtR1YzUV9TODRWLXU0LW53eFhqUWI2S09BTnBNeWQ5RU5TdmVMRFBsdzlxOXRjazJrOA?oc=5",
-   "source": "东方财富",
-   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "71edace32db7c1ff",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物：近年来经营稳健且持续业绩增长，2023年限制性股票激励计划第一个归属期条件已成就 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPQ1A5RDFnZHh3dEZJdU9ZbVFUSDVGRmpDdmI3REFNV3pic0JyNFE2bGlLMDZzTjRZNWI0NnFiczNDa3ZqNGNYLUU2dXNGTk1KMHlkUnVROGk1ZVlybGdwdlJBR09yUUgzaDIyaFhER0Fydm9iQmVZMVVYX3ljcEpjRTJFbXRBeDFwdENHcWhVTDZCWTVNWmwyOEtHdHBDekc0dzZKVkhhc3QyZmZiU0NBd016bFloemhZNHhPWG04Wmdyc1VpYTBWV3piZktDRThpSXpHQ2pNeDJjb3hIVzNMSzhNeHNkS0pnWUpBckt5dDNrWDNVOUk2N3F6bnlBQ2EwNVZQcE1veHJLQkpERElzbkp4dXl5NmlVRjFUVGVNbWFfdTBWb1dWakVQNEc?oc=5",
-   "source": "finance.sina.com.cn",
-   "published": "Fri, 21 Jun 2024 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
-  "ncpc": 1,
-  "aurobindo": 1,
+  "anglikang": 0,
+  "ncpc": 0,
+  "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
