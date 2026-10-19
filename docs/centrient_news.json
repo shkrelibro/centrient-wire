@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-10-19T13:18:09Z",
+ "generated_at": "2026-10-19T19:54:37Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "852f6be1fa132ca6",
+   "query": "credit",
+   "route": "google:de",
+   "lang": "de",
+   "title": "CENTRIENT H. 25/30 | Kurs, Chart, Analysen | XS3045391607 - n-tv.de",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ma0NTdWVSaUNuYVN5NEgyNlpCWlBhZGQ5SHI2OFZibjctbUVmNGpsZHh6bzdfa0xtcUg2SEFWUEQwUzhKYUI4NlN0a2xldVFKY01hYVdBX2JONTlkWm42Z1o1eEV2Q2dEeXBMbnZ0UTdIWXdxcW80?oc=5",
+   "source": "n-tv.de",
+   "published": "Mon, 19 Oct 2026 16:39:04 GMT",
+   "trip": false
+  },
+  {
+   "id": "5c72eba941f93b8c",
+   "query": "policy_mip",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Centre sets import floor price for key Antibiotic inputs - pharma.economictimes.indiatimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHhDdEJYN0RHLTRPdHJYd1A4MXJ6UTNESkRVZWNRUTlXVnhHX2ktaXFlVk5VazBINkJ2ZHg2SmFyVEkxcGc1Q1hMcEN2eVdKeldWamFXdFNHbjZKOHowWGpybGg2SVV1T2ZEXzE1VnVmaE9heEpXd1A0Z25CQmg4bXBialBHc2Y1QUpMNG53LXpVelRVcjBZOUpUOEZ2UjFJZ0RDbWtPVzVFVF9JR2VLQ1pKSWx1ZFJsVTZGQzhqU0hoRzJyZWx6U2F3MFlBNnBCRVY3U9IB2gFBVV95cUxPTGtIS3F6TzktTFdFT0JieWViLW9USjdNME14SDMxWnlRSU9WRnNXWURBUVVPcHNDZmo5dnBXd1YwbGk3OGl5U2JKelBCTVdCU0RtOTd5VEtJZXdEUElYYU5LQUpONVduQlVwUGJyQzZHeEEwVFJGb2pBRVd1RTF5ejZsTzdSOEktc1NUb0M1U2xTaFBwYWFSSXZSMEhWQ25faXMwU2NlSjNxUEI0QmEtT2NVaUtEMHVzR2ZXdDg2LVpuX0o1dEl5dDVVRVpMTi1SRjVENXUxWm8tdw?oc=5",
+   "source": "pharma.economictimes.indiatimes.com",
+   "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "8a5fbfa2e4657dcc",
+   "query": "chain_amoxi",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "西方国家抗生素依赖中国“堪比稀土” 或成地缘政治新筹码 - 香港01",
+   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaElKRktTQm0tSXRfVzBUdWtJWlp5RXdhSXlJZTJGLXdxdGJ3aWpGOXgtYUZnZ1llSHpOeWU2UGhhWUNXQ29yM1JaYWd0a3RkeHkzZ0tWbDhMUno4N01PeENteVZxZEFhWVk5bjA5VFRmMDE1bzE3d2JfcUxGSmc2aUlWQVJMSGlhc1ZFcnJLTkxONWlNR2lYcU8zZk13ZjE5eWlpYXQydFF0SUJCdHpZOUtKNXRVcXNiM0NSdVo4MjhBSmdFUm1hQThMcWkxYmVZU2t4YTFhOVlBZWpOb1RPNVVKWVV2QjM0VTlZMVAzU3VNMXVtdFJNVkt0NmlQT1ZKelI1T2ZMMDd6Z0E3VEZuSEdrUll0Y01TMjJxQXlQa2JNb0czUmp1eDh0UmhDWTlWOGtFVTJQSGNaMWI3WG5Zc212emZJWkpucWE5dnlTREtKc3FTYjlKajdVcW1wWDRYZEJNcjNLNEZaX1dWMUNQQ0JIdW8xY1Job0ZlQllrZE9Sajd5Z28tSU9CWm1aM0xrSzRhaHN3cFdOdTVU?oc=5",
+   "source": "香港01",
+   "published": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "d642f29463822aaa",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "石药集团授出合共7808.5万股受限制股份 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmVCdURxSDRyNmxMRzZ5WXpDSE1PdW5EaXRMVkwtUkFUb0Yzbm5BbHRrNkl6LVlrUlJPelJzT0pubkxPZ3dzMm9ETmJlX1JNY1JvTFJOaTN2aG11UFcwR0tSdzFvZURZN0JoY1JUeXp2bWstd2RtM2Z4R3laMmRjUGJVUkJUSktfVGxtRlVOdW1sWDZOQ1M1X25NVnhIbGROUkpTVWhpRkpHRFNSaVFsTE5QZ1YzMkVETkhRaloyTzJnSkJkUlNpaXFTYjVUdnRwaFNvZW02SWRJaEJ5cV9icTNoM2IxQQ?oc=5",
+   "source": "新浪财经",
+   "published": "Sun, 18 Oct 2026 12:09:32 GMT",
+   "trip": false
+  },
+  {
+   "id": "bab21cf308bd8f08",
+   "query": "lukang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "关注环保变量和供求关系 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaF9ydzloSUhUczdDc3dqU051Y2E0UmxMSV9WSGtpNXBYNUFaSnBGcUZzN0pRU2xvMXlMdURZd2dWOEFPc0piaDlGTzA1MUE4VkQw?oc=5",
+   "source": "华尔街见闻",
+   "published": "Tue, 09 Apr 2019 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "52de254c566db505",
+   "query": "chuanning",
+   "route": "google:en",
+   "lang": "en",
+   "title": "301080 Stock Price and Chart — SZSE:301080 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13RzRMcWpJQmwzSUJFbVdHVlBFTUVVbnYxTHN4WUFkX0pJNUFkSUd2SHg0azR1Z1VPNmxFaVBhNkdydHNRNTJJNDVaVnhkODBPVWRCa3piUHpuT2JM?oc=5",
+   "source": "TradingView",
+   "published": "Mon, 18 Oct 2021 08:34:12 GMT",
+   "trip": false
+  },
+  {
+   "id": "d2f5765546f1780e",
+   "query": "centrient_core",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Centrient Pharma boosts statins API manufacturing capacity in India - BioSpectrum Asia",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWNKeXhHSXE3b3h4X1ZaLVlwY0oyd29UdUJPZDhjVXdfQ3BtYkR5RE1rY1V6NS1nWENaQmhjZ3BIaUhmR21LbXpTNjF6RzIxa3BpUnFsTjNmT2F2UkhQYjhERVhLMDNyMXJCZTVvM245Z0FxS2dQamJ5Q3FNSFFFdkpVVjZ1bWpYZlVUQklJV3JNQnhISmdubnduNFROUWJtNjQ4OTFhSjFJMHBEd2ZBWmxiYTB4TWRpbHc?oc=5",
+   "source": "BioSpectrum Asia",
+   "published": "Mon, 21 Jun 2021 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "eebb34e30bbff76b",
    "query": "cspc",
@@ -320,81 +397,26 @@
    "source": "中华网财经",
    "published": "Tue, 08 Sep 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "79cd9a9922ee5167",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药集团2025年营收下滑10.4%，转型阵痛期持续 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STUU3RWl4Wm4tWFlQZ2xPaHR1alFYWWRjQndTbVN1azhmcFk1MThhb0ZjZFRJX3RRbjEteDJyODRhSDFRLUFsZVhiNmlCbVRyZDNQQw?oc=5",
-   "source": "虎嗅",
-   "published": "Fri, 10 Apr 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "6295b4c69a801a66",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "前瞻布局，融入全球药物创新网络 - 人民网－河北频道",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sazNvaGFHNnVQam0yRGpPcTEzU202T0N0ZVgtakkwVUNfamZJRlhCNzZVWmhiSEVubTJJOVlSaUhEN3lZUGdwbkxXNGRYSU4wODdnVHBaVmpqdDZFRW9mX3F4d3BvcGlYTnc?oc=5",
-   "source": "人民网－河北频道",
-   "published": "Sun, 20 Jul 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "f14c4892798322da",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康：与亚飞生物及亲合力终止战略合作 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6U05aaXhMb2tfTDlsMUNmdVhRSWJjVU5iUENJcUFhcTJnNXR6cUdxd0N0LU8zRXcxM3FVOTBQMW9CYzZNb2FRLVJhYXZCZmNfTC1Qc3dsUnlGV0NvaWU0Zg?oc=5",
-   "source": "东方财富",
-   "published": "Sun, 06 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "4e6571f4be554795",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康成立电子商贸公司 - QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzTm5DUmxLU1dsT0ZodFU0SVV6Y2RGWFNaNTlqMDYzSTdRaGxOanF4YXFFZkQtNkNUMENWUThPYTFPNEhhS1gyVkFZRVZXTVNrYW94RWhn?oc=5",
-   "source": "QQ News",
-   "published": "Thu, 21 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "fc2842d2007f01b2",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物9月9日回应合成生物学话题：聚焦高端化妆品及保健品原料，麦角硫因申报已提交卫健委 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Fb19ENllqbFZJajU4aFdmMW9lVXpIcC1ncHhZUkt2Vmt3QldqY3VJdUo3UkdrNnd3N0hhV3FFZ3dSUUpCS3Q0Y2JFTFZYeUEweG5vUWlObVE2SFFJbkRV?oc=5",
-   "source": "证券之星",
-   "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 0,
+  "centrient_core": 1,
   "tul": 0,
-  "chuanning": 4,
+  "chuanning": 1,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
-  "lukang": 0,
-  "cspc": 2,
+  "lukang": 1,
+  "cspc": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
-  "chain_amoxi": 0,
+  "chain_amoxi": 1,
   "chain_en": 0,
   "conduct_cn": 0,
-  "policy_mip": 0,
-  "credit": 0
+  "policy_mip": 1,
+  "credit": 1
  },
  "errors_this_run": [],
  "regulator_watch": {
