@@ -1,7 +1,84 @@
 {
- "generated_at": "2026-10-19T23:39:08Z",
+ "generated_at": "2026-10-20T04:47:44Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "defcb7ab510ed40f",
+   "query": "chain_pensalt",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "青霉素原料出口风险有望化解 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OQnliNFlLMGNOVHNFeWd0N3oyc2xNWjQyU3JydVVIWWFrNVhDZmlOTE9GdFdyRXFBbmVUMDk2WDBMZVJVYWhmdG04d05yVzZFMDBRSjI5bkZmM25INHJYeXdCMmhNQmZjZW1LR0ZyVmFGSmJ6MEcybFpBZmc?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 22 Oct 2004 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "e4b7fd46cdeff6d5",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "ACS Dobfar spa di Pomezia, la F.a.i.l.c. – Conf.a.i.l. si afferma come prima forza sindacale nelle elezioni delle RSU dell’azienda farmaceutica - news-24.it",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcmFFZjZSNmJqV0pGVzVndlFkNi1jTUZXZzhuM2FaUXJXOHpKZDVTTDZFYXpDUW5xRTVjbjVfYlk4WUFEeGdTZ0F5VFYtOXp0VFIwX2V0el9nYVpJLVBXbFB1OTVENzNuampzN05aU1FucGdOdXVpbENMUnVUYnJLZURIaFdheFdfcVI2ejNNemg3S0RiMTRNOGlLNVdRQnBUMjd4S0xDNkFxX0xWSktoVUN6MnZuOG9rSDFLVmUxUXBrdEN0dDFIaTRrek1iVE1NVnpWTGtYRDdmd2syLU9PRUlFNzA?oc=5",
+   "source": "news-24.it",
+   "published": "Tue, 07 Dec 2021 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "ab309b4dbda975ed",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "ACS Dobfar si affida a Newton per l'evento celebrativo dei suoi 46 anni di attività. Coinvolti quasi 1000 ospiti - ADC Group",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPb1ZLczVPcjZBZUhCRVNmTVRybVFGTmlTLVJkRTE3X0Roc21VRHFjNVN1cW8zbzFCdjE1SEpHc2FCaUFoWFJuNE0tV2d1VzAyNE9NbkxqQjNhZ1RYX2RpdkR3VktjQUZTc0xMcnRGV1ZKa1ZtMTE0VWF1VEdnOXRBMF9yd2tmSmYzTFRVdjQzLTBHaGxjSFVxN3dCODQwMV81SjZiS2ctVHlhcXJGeC1lVE9QakEzUFpjT0dhMnlHQ1poYmVKQmlmWVVSVFp2YmlocmkxRVpTU0ljaEh2Uld2Tmh5Wms2RkhsdFpvb0dhUFpzeWtUZml5OHJVc04tb1VaMlA0cXRsQnZsRFJJN3NwSlRWem00d05mQ1FCMVBzTkxvTjloVy0zY1R0N3lOM2ExdlE4?oc=5",
+   "source": "ADC Group",
+   "published": "Thu, 07 Nov 2019 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "301dde93c3660190",
+   "query": "acsdobfar",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Prior notification published: BC PARTNERS / ACS DOBFAR / INFORLIFE - EU Law Live",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFNpZFFVYmVKOGFZSk5Lb0FhWi1GZTdMbjNRSEVsR0FkbUlORUJtbmxiLUo4a0RKdlA2bWg3dWFhSjFHMG41WW81WmVMTzNJT3VJZzBuZk1hOWZHWERLWFhHT2F4LTB4LXhTSjVOcHNkSzN2LXJiTHhXakZqdGx4QnBZbm1mLWNyTV9rY0Vka1Y5SlZTd3RLWXN4ZUlhTGZ1RV9JQWpn?oc=5",
+   "source": "EU Law Live",
+   "published": "Mon, 19 Oct 2026 10:07:33 GMT",
+   "trip": false
+  },
+  {
+   "id": "016512389729f17c",
+   "query": "acsdobfar",
+   "route": "google:en",
+   "lang": "en",
+   "title": "BC Partners acquires co-control stake in Swiss CDMO InfoRLife - Leaders League",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc05oa0tlc2pTZjdRRkptUWxLUU8xWTJ0ZHQwaG95RjMxb1g3TVNwSzNCWFJTaHdqR3N2NnNwdkE2cGdEd3ZwNndvM3l0Z3BRSjYzVzhlMzRNTkdKTXdNZnNHZFowZGlaUGQ0X0V5ak1FdjR1ZmpGX1R2UnNoMW5PcG1XNmhvbUhreTBsWThVOGF2YXcxMll5TERGNnFwVXZlX3V3NnI2dVc?oc=5",
+   "source": "Leaders League",
+   "published": "Wed, 29 Jul 2026 17:01:31 GMT",
+   "trip": false
+  },
+  {
+   "id": "8230f0f8a7756654",
+   "query": "lukang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国内第三大抗生素基地，泰乐菌素龙头，前三季度业绩翻番，营收连续5年两位数增长：鲁抗医药要翻身？ - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjBUWVNWckJGR2lRc0RrTDhKVjNCTmJjamRWWTlNWWlHU0RVdGszVXBrem8talpLaVUxTFpQWk9KbEx0SUtKcnY5b0RJNy1OQUJ3M2o3QWxkalZfRFlOZ1gyZG5FZUthTGtfQW8ta2VzeDNoQ1JKal96VTVMRXdDT3pOakxpUms?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 02 Nov 2023 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "4d5a5fee0a5ab970",
+   "query": "weiqida",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "原料药拖累加剧，双主业冰火分化，国药现代Q3盈利持续承压 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15U1llNnpyb3BBempCdGhSZVlTRDZuc24yZTNvNTlLcFhOSjE3UTZLVXBBRzFqWHAzTlNNQXk0SmIwS3dLZ3RHUzlTaHhSZndNTnV1d0xodTgxSXlTY0VZVFpxeEZKQQ?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 15 Oct 2026 14:11:15 GMT",
+   "trip": false
+  },
   {
    "id": "ab3cf07926622e24",
    "query": "chain_pensalt",
@@ -419,40 +496,19 @@
    "source": "东方财富",
    "published": "Thu, 15 Oct 2026 01:51:17 GMT",
    "trip": false
-  },
-  {
-   "id": "c17440f517e7a49b",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "三连板，华北制药发布公告提示交易风险 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Lc00zWm1aME5pZHVscXQtS3JhS25RVTdOZ19NSHg3OFF5aExIaE5sSUY3ZHZZSWhQOW5DNVNBZ2tGSFlYUXJXdkQzU18yUXJPNWVXMHcxYkNVd3JtTzRTSkFOZEl1QQ?oc=5",
-   "source": "东方财富",
-   "published": "Mon, 12 Oct 2026 13:46:06 GMT",
-   "trip": false
-  },
-  {
-   "id": "26ac2613c401694a",
-   "query": "chuanning",
-   "route": "google:en",
-   "lang": "en",
-   "title": "'70s SoCal Pad Dishes Up Dreamy Canyon Views and Party-Ready Pool for $2.3M - Laredo Morning Times",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmdEMEs1VHhfTTlyQ0QwU1VpUWQtXzd4dGlHZVZzQWVaZi16TWFJMWwyVTZGb1ZfNlRzX0N4YlVTYXRmLXVJalVpc2JuckgzN29Hb2VxQXRKSlZDQk9PUDU3OS1rTDRCaTNscS1ITDVBMHNxOVh3M0dkRXlUQ3RqcE05aVdwdUotbHBUdU0zakFWQzdOTW1wUFdYa1E4eXpLcTVGd3JlX08?oc=5",
-   "source": "Laredo Morning Times",
-   "published": "Sun, 23 Apr 2023 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
+  "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
-  "ncpc": 2,
-  "aurobindo": 3,
-  "weiqida": 0,
-  "lukang": 0,
+  "ncpc": 0,
+  "aurobindo": 0,
+  "weiqida": 1,
+  "lukang": 1,
   "cspc": 0,
+  "acsdobfar": 4,
   "chain_6apa": 0,
   "chain_pensalt": 1,
   "chain_7adca": 0,
