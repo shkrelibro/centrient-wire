@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-10-20T22:18:51Z",
+ "generated_at": "2026-10-21T01:34:02Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "c15ab73097044aeb",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康投资基金变更管理人为苏州浚迈 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aUmQyVjdKa1NuSlcxY1VuSE1uOUdrQWw1ZlV0dDc4SVBIWkpMU2t3VU1sUTgyVHVoSWdSVjNwbFcwMlc5SWVRekxoLUxTUGtGUVNxS0p2NG9mNUFVMFJZNA?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 03 Jul 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "b3db5deada65f546",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）10月14日主力资金净卖出49.95万元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84QVIyOGRoWk42aGV5TGpOR0ppU1gyNGVXRWNtUmY2c2ttZVFxcWhabjNXRVNUbnR6ellqVkhjTGJHdTJ3eEdTMzY5YlgxUy1TR19wbTNB?oc=5",
+   "source": "搜狐网",
+   "published": "Wed, 14 Oct 2026 14:16:31 GMT",
+   "trip": false
+  },
   {
    "id": "6529ced3aa332e4b",
    "query": "acsdobfar",
@@ -507,85 +529,18 @@
    "source": "BioSpectrum Asia",
    "published": "Mon, 21 Jun 2021 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "eebb34e30bbff76b",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "新商学观察 | AI制药授权变现，机遇之下面临怎样的挑战？ - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96bGdubV82U3lVcnpUajJYQk9CZDF4Z3NVejB0WlViXzRoUTBMYjNYT2dVTkl0OEtJN0xmRGQ2T1h5bzRZTF9WLXBvT1lmZS12eVFhN01RcGlSNmxnNFJDR2tUcE1zSE9WaldCTWMtNV9Fbld0dXNlSFlmVGlwQQ?oc=5",
-   "source": "新浪网",
-   "published": "Mon, 19 Oct 2026 09:33:33 GMT",
-   "trip": false
-  },
-  {
-   "id": "3560bb25cc2afde3",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "“石家庄富豪”要签50亿美元大单，豪赌创新药成败几何？ - 野马财经",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93X00wNU9FY3VKa1lJSVJuRllmZXQtekJYQ0VxbjF5UDlaelpxenN3ZWcwaHhyOEhYSEpEX1RRRzJwbHFmZ25YMXJMRnhQbkpZaTNTS3RwcW9YTWZQcEFQYVVB?oc=5",
-   "source": "野马财经",
-   "published": "Tue, 03 Jun 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "43524f882a06790f",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物接受调研：满产之下谋第二曲线，甲醇蛋白申报引投资者关切 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKbnE0Y2hraHNfT29HckViVlNwRVFwRktpajRtYXhnMGZySi02b3dIUFpmYkJiUWlGUGkzR0pYdVlNVDlLdEtiS2JRWXptUTVxZm1RUVpjMU0tNEs5alMwTDlSZmlWdw?oc=5",
-   "source": "东方财富",
-   "published": "Mon, 19 Oct 2026 02:06:43 GMT",
-   "trip": false
-  },
-  {
-   "id": "3849daac88339ce5",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "股票行情快报：川宁生物（301301）10月19日主力资金净卖出546.38万元_主力研究 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nd29MOXBvNlphaFJXVkg2ZHY0bTg4VjFHLXAyeVNCdU9jYmhWZUVfckxGdG1ZNDE3Q3RMZ3E1d2JTQlBLWTdGQTBOZmFPTmh4WWh4UURKWkc1MnpJNGZNcGdR?oc=5",
-   "source": "证券之星",
-   "published": "Mon, 19 Oct 2026 12:38:48 GMT",
-   "trip": false
-  },
-  {
-   "id": "50ed2a66c1a9f33d",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物：完成发行2亿元2026年度第二期超短期融资券 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuNkpJdUxqVWtOc09BWVpFSTN0cmlJNmNHbHVwNDZMMjBKc1dRdTZnbnREbjFTTFE2WVpqWGF0Q1hfekFJTUpMWWhuMEhTbjB3OFh6em9oZHRhenFxQ0E1U3RiS2tRZHZ5UWc?oc=5",
-   "source": "TradingView",
-   "published": "Mon, 19 Oct 2026 03:44:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "42dfc3830b219dbc",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "川宁生物(301301):伊犁川宁生物技术股份有限公司2026年度第二期超短期融资券发行结果 - 中财网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xa1d4VHJjUXJmSDJFOFRpV0pXZ29kbEhSMTNWMFQ3Vk56d2xZWGJvM1lXblhXRC1IaTA2SlduSEFKSTloTk1ja09OZklDWEdDc2tJZDJn?oc=5",
-   "source": "中财网",
-   "published": "Mon, 19 Oct 2026 04:26:26 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 0,
+  "chuanning": 1,
   "anglikang": 1,
-  "ncpc": 3,
-  "aurobindo": 1,
+  "ncpc": 0,
+  "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 1,
-  "acsdobfar": 1,
+  "cspc": 0,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
