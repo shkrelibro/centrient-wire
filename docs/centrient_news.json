@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-10-21T01:34:02Z",
+ "generated_at": "2026-10-21T07:37:14Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "0735bc787f441ce3",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药华维公司斩获两项行业荣誉 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvcHlSbXUxMmNkMlVIdmNCMlMxNkhEMUFpcF91d3FvV3BfWEVjMmVWajNuVkNEQlhNTjByRl9CSWlWZS0wY2tZeXk1UFRPNEhFMGF0VWRmVXBGWnRYZ2RzTEdjZ2NDbE96aEN3X2RDdHAtX2tNcHVLVw?oc=5",
+   "source": "新浪财经",
+   "published": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a5afbe291b73ebb9",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）10月19日主力资金净卖出546.38万元 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WTNHM2xtUjNWeTVGS0dyd3NjSlRURDBsTnVqYVNHZzVRSzBzeHFoYUNTSTJQNE1RWmdIRF81QjVjMTRVaGUzdjBXM1dmODd1TU1Sb0lR?oc=5",
+   "source": "搜狐",
+   "published": "Mon, 19 Oct 2026 13:24:21 GMT",
+   "trip": false
+  },
+  {
+   "id": "165f544f8872b4b3",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "病例增长12倍！日本梅毒感染快速扩散，美国辉瑞供给药品紧缺，A股青霉素概念爆发，华北制药、川宁生物等集体异动 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUOG95Y2NtSThTbVljSHZaMXJROEdhTC1xZU12cE4wWTYyOHVCLUluaHZ2UHp5NndUUnUxTnVqYjBPUlM3QlpVeA?oc=5",
+   "source": "凤凰网",
+   "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "c15ab73097044aeb",
    "query": "anglikang",
@@ -534,9 +567,9 @@
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 1,
-  "anglikang": 1,
-  "ncpc": 0,
+  "chuanning": 2,
+  "anglikang": 0,
+  "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
