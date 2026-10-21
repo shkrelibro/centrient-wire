@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-10-21T07:37:14Z",
+ "generated_at": "2026-10-21T13:46:25Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "e3be7a234d33e5b6",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "冀中能源集团华北制药：锚定目标加压奋进 全力冲刺四季度 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQRTNQZlZtWWlUUE90Und1Tk1ZT1BKVC1acmw1ZktPU2NZdE0tNG5LbDVWOF9ReGF0cmxrZkpOZ3ViVmRhQzBSbXI5NnkzamQ2bTdTWjR4anRzRjI1ektrYnVWVmxSdnN0VUdUUDlfZUZNWHE1eXVNVUhmMTZSenoyYTBDQTl2RFVNT3VDamhsTTQ2Rk1qb1hzbWxTU2hIS3NENzlET1NrWDNzT3QxSExqMmd4Wl8zVUo4bTRYdDlsbDhWQkZkTFppV2VFYzBMZUdtaHBhcmt2RFZYSDRkeUJFZVZfMnNVTEdPeGlmbnNhaUlWck5CWHhMc2ZGS1A0aThaRXQ0aGNqSDVQeElHLS1tZ0F4MnU2a0NUeTBsaDE1UDZKSTk0Q0hvV0VPMzNHUUJLaEtKT1pLZ0Y4dHBMMG92dzFnVnYzRURMenQ2Tkc3NWpWVTRjYVdOQVRoU21fWDZzaU1XQ0FkdEZvLTlab0NJM2RUaF9OeFhndnU3M04wSHd5X0VHSzBMLTRVME9yXzZJcDJDMUtBSm1lQlhkZHU0c2VPWFJ1Y3plUExiUV9CZEpwXzBEVHlOLU1VRUhkN0hBZzJZZFc1UElFMmlVLThIbWxoTEV2aTFCMTdEWXdWR0xlQQ?oc=5",
+   "source": "finance.sina.com.cn",
+   "published": "Wed, 21 Oct 2026 04:09:43 GMT",
+   "trip": false
+  },
+  {
+   "id": "b44fbff96a0afa67",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "合作方单飞、募投未达标，昂利康的转型故事还能讲多久？ - 同花顺",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83RUE5N281Y3htSjc1SHA4S0FvT2NlRllQLThkczg5eG51UmprRW91YTd0ZVY0YkhYcXYxdUxCZkFpcXd2SGRfYkZ0UV9xQzFmNmxwMnhzNXg3UU9fTmVjM2VR?oc=5",
+   "source": "同花顺",
+   "published": "Thu, 08 Oct 2026 09:52:14 GMT",
+   "trip": false
+  },
+  {
+   "id": "64bf4385ed1e1be4",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "科伦·川宁生物与ACTIVON(韩国)达成战略合作，助力功效原料全球化布局！ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tZTFER3JYMzU0WktWcnhLWWZWYUYwZS16SnF5b0ZYMTBialNzNTA4d29CdjNVM0tmWnJtRkJzZGQ3Y0hoVzY3Q0JoUlVtWUF6?oc=5",
+   "source": "搜狐网",
+   "published": "Sat, 10 May 2025 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "0735bc787f441ce3",
    "query": "ncpc",
@@ -408,167 +441,13 @@
    "source": "东方财富",
    "published": "Thu, 15 Oct 2026 14:11:15 GMT",
    "trip": false
-  },
-  {
-   "id": "ab3cf07926622e24",
-   "query": "chain_pensalt",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "莫迪打出一手拧巴牌：一边喊中国老板去建厂，一边对华开12张罚单 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tMmlMUlJ4cjdzTXgxRmh3UmtjdVBFbVJ1RW5McEVvcmVTOTF3Y1pEMzlwXzBhZ2NKS1N3c3c2Z09LN243eVoyOUtTVV9aTmZMOE9LUWVn?oc=5",
-   "source": "搜狐网",
-   "published": "Tue, 13 Oct 2026 07:10:45 GMT",
-   "trip": false
-  },
-  {
-   "id": "c5532af979a95a3a",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Expects Pen-G production capacity to touch 10k metric tonnes in 12 months: Aurobindo Pharma - BusinessLine",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZnNyOFBKX09Hd2tRaDlmRFZJdGtWb281M1VCMmJqRWFtRm84V3h2NFdxNTJJekNpWi1XUF9aQ0RzNTBqTjQwZnpZNHRmQ29CU1BZLUJ5dEVHSjlZVTlwaXJ2NDVWVUZnb2FwcnJNR0ZiVU13eDU2di05V3pWaXV4M01LSGZxSFBESHRISjNRQUFBSGtKQ2RzU0VhWDA0VGZWa0pERjFEVkxISWJrSHhGbTkxaXBNRWlpNE5PekFDTkVhVUlST2NKcnRGcmt5a2pXNkNLdnkxV3dnMUEzeEFDbFdLV1RoRFh4dDUyMGV30gH0AUFVX3lxTE44VEtxTmhuNlR2azZURjNRYURHbW1zTG85NFBSQUtkV3pSTnBTSXBqMVJKSXA0NWVGOHlKYzcwNDgxMjgyOHpvY3FldFJxb19oUGE3UW4zT0R5cEdKZTZoVGFyTkhZZ0Z0T2FiZVpwajVNSGF6cFktTlNBb25SdWpfV19TNFo1aFVZcEE2b3VjUzBPU2ZCZDA0Z2dfcHA2VW5VRXM5bEdSOS1MbW5wNnFLRHdwbU5pbGNGY2RVT0xKN2FBRWYyVEIxcW5JOHFndDJfZWFkMzE2N3pONDNTdEx4MUdkWWVpSjdMQUY0TDZ0LUYtTmw?oc=5",
-   "source": "BusinessLine",
-   "published": "Sun, 22 Feb 2026 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "69b7e4ae91ee8a40",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Aurobindo Pharma to commence production of its Pen G facility in Andhra in Q1FY25- Official - ET HealthWorld",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaUpHVXIxeno4MFpKZXJCM0F2UlR2QTJGUEw4ZVczSUk3TXRCeUFWVVZqd3FlQVFaemhKS1E0WGc4V1pnWUxxbTJQTTFCMjdCNUlrck5mendGUlRaVk9fUjlmSnJpa19qeTB6VGhLNlAzT19BRm9DeUphMEswZTI2YkM3TFRGbTZIZ1FzRXpUTHZUWHlqSk5fTmZRSFdXbjROZG56MWpSN0IwUjhpamtjcXVRYmlrTzlCVVowMnFmb1QyblpFTS0xWUNUblJQVi1GSXpKQ1BJN2lNNkU0RzlzVjVEM1dlYzlWenhkOU1lMzc3Zk93eFJrbk9rS2RqN2huWWfSAYcCQVVfeXFMUEcyWVlyYW83TU5wY0FlY2dwWEZmaHo2R0Q0WkFPeDBZV1ZYRDF1SU9TMVZaNHJNbG52cC0tMmFyVTFJTVhBRmU4V3R0U0JvTXdObzdKYy15V0FEd1p4eFVkWXRTbHR2QXcwdVBXSDZxSUkxTkxNcy1ZVXVocnJqc2RsSmpWelFQVHFLSVZmYllCY3czVlZUazJnYUFNWDRGeUhCVjlqa25wLTYycFYzUl83bnd0Ul9RRWxLRkRPdmdhdWVmMlJiOUF5VDdrSm14SURabWdmWWtpbnJ2NG1kMmpwTXRreEROZjRQN3RvN2luVUkyOVlzdUZMWURsd0hOR21hYUJCTmM?oc=5",
-   "source": "ET HealthWorld",
-   "published": "Thu, 14 Mar 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "c84114c000f446c0",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Aurobindo may start Pencillin-G production at its Andhra Facility - ETPharma.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVEVCWFVTSnJGcklaeU1LZHVPbjJULVlkdFR4TFVMcjA0TEtJaXBqNWxrNkNfM09qRzJwUXZWVENuVzY2cjA0NDZLdWRNQ0VKRnFzclRidVFfNkt6Z204b3AtcGdtUmtBMjBIendTMExGRWJsSC1xUnpsUzZtZHdUQ0RydzBfSnhUSE5NWEJrdXNCZGVBUEU1RTY0NUIzaUt3OUZ5b2N2dXI4eVd3eE9fNFdyMUZDNTlrTlFXX0F3eGo4dTdkVHpEQkc0T1k4MW0wOGxNOGFqQdIB3AFBVV95cUxOZ2hteGx5aDU3X21iZ0tEQXBHeTEyUHBjVEpfSllNdTNmZTkwUnhxaC1wRXhpUndDQ3l4Q21Cc0UzT2h0aFdYU29LUnRZb0tzLWYybEpLVkVpRDNJSmZxeTlpaGZFRy1SYUVYYXBGRXIyUFJDR0E1bEppbWx0eGNxNUFXS3dZekVoenJkYmJTb0hmdG9jMzdpekxVVGJiYWlfMzY5REVhLUhrLWtCWHZxSlBiUnFFWkItV3hHS1FkbGJpUnRrZE9ZcGtwLUY5djRaclQtRlpjQ25PbThC?oc=5",
-   "source": "ETPharma.com",
-   "published": "Sat, 21 Sep 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "24f06a9396655955",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药成交额创2020年8月7日以来新高 - 腾讯新闻",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93M2xwbWd1SHlOeTZvM0ZNUVBhM3lMWXBKREliUG1lM0ZURThzckFDbUIyVzBsbHdacEFocHVoQkJqeVBKQ3dDb2MwT1hQSU1NeGFKT19R?oc=5",
-   "source": "腾讯新闻",
-   "published": "Thu, 15 Oct 2026 04:02:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "7d47a8b0869f83d8",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "10.19财哥早盘分析：华北制药新华文轩赛力斯 - 财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pcEhHVkZhSWtzbWNMZVdmNUxabG11UnR2VTU4a2hMdGdxaG9FVWhkRl9zNjJjMWJVNkY1STBISTFOWTRBc3lkRzlPYml5UTRxMmV2bXVWNklLYTM1YldIMWRTR3FVOXVZTHZR?oc=5",
-   "source": "财富号",
-   "published": "Mon, 19 Oct 2026 01:59:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "be3ea0ef6d47784d",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Centrient Pharmaceuticals optimaliseert planningsproces via SAP IBP - Dutch IT Channel",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHZ0bVJFQ2NWTkpPXzY3eFFDQ3p6b2w0RWg4dW5zZ0lYWkNIV3pKeGs2Q0tFVG5DSXp0YndhNVZXN2ZkdUpMOUxTUURac2dNMzlkV2NMZWVXODQwcDdFVlI4ZnVSVXRQQUMyODN4a1lQall2RWZSNENKeDlVQzk1ZFNHa3pBbDl4Qjl3c0xkNDBrbXFvUzBlTHVtdDU2OUZDMDFUdmdoWFowZlY1cWhCMXRGeE0?oc=5",
-   "source": "Dutch IT Channel",
-   "published": "Thu, 10 Jul 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "852f6be1fa132ca6",
-   "query": "credit",
-   "route": "google:de",
-   "lang": "de",
-   "title": "CENTRIENT H. 25/30 | Kurs, Chart, Analysen | XS3045391607 - n-tv.de",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ma0NTdWVSaUNuYVN5NEgyNlpCWlBhZGQ5SHI2OFZibjctbUVmNGpsZHh6bzdfa0xtcUg2SEFWUEQwUzhKYUI4NlN0a2xldVFKY01hYVdBX2JONTlkWm42Z1o1eEV2Q2dEeXBMbnZ0UTdIWXdxcW80?oc=5",
-   "source": "n-tv.de",
-   "published": "Mon, 19 Oct 2026 16:39:04 GMT",
-   "trip": false
-  },
-  {
-   "id": "5c72eba941f93b8c",
-   "query": "policy_mip",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Centre sets import floor price for key Antibiotic inputs - pharma.economictimes.indiatimes.com",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHhDdEJYN0RHLTRPdHJYd1A4MXJ6UTNESkRVZWNRUTlXVnhHX2ktaXFlVk5VazBINkJ2ZHg2SmFyVEkxcGc1Q1hMcEN2eVdKeldWamFXdFNHbjZKOHowWGpybGg2SVV1T2ZEXzE1VnVmaE9heEpXd1A0Z25CQmg4bXBialBHc2Y1QUpMNG53LXpVelRVcjBZOUpUOEZ2UjFJZ0RDbWtPVzVFVF9JR2VLQ1pKSWx1ZFJsVTZGQzhqU0hoRzJyZWx6U2F3MFlBNnBCRVY3U9IB2gFBVV95cUxPTGtIS3F6TzktTFdFT0JieWViLW9USjdNME14SDMxWnlRSU9WRnNXWURBUVVPcHNDZmo5dnBXd1YwbGk3OGl5U2JKelBCTVdCU0RtOTd5VEtJZXdEUElYYU5LQUpONVduQlVwUGJyQzZHeEEwVFJGb2pBRVd1RTF5ejZsTzdSOEktc1NUb0M1U2xTaFBwYWFSSXZSMEhWQ25faXMwU2NlSjNxUEI0QmEtT2NVaUtEMHVzR2ZXdDg2LVpuX0o1dEl5dDVVRVpMTi1SRjVENXUxWm8tdw?oc=5",
-   "source": "pharma.economictimes.indiatimes.com",
-   "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "8a5fbfa2e4657dcc",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "西方国家抗生素依赖中国“堪比稀土” 或成地缘政治新筹码 - 香港01",
-   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQaElKRktTQm0tSXRfVzBUdWtJWlp5RXdhSXlJZTJGLXdxdGJ3aWpGOXgtYUZnZ1llSHpOeWU2UGhhWUNXQ29yM1JaYWd0a3RkeHkzZ0tWbDhMUno4N01PeENteVZxZEFhWVk5bjA5VFRmMDE1bzE3d2JfcUxGSmc2aUlWQVJMSGlhc1ZFcnJLTkxONWlNR2lYcU8zZk13ZjE5eWlpYXQydFF0SUJCdHpZOUtKNXRVcXNiM0NSdVo4MjhBSmdFUm1hQThMcWkxYmVZU2t4YTFhOVlBZWpOb1RPNVVKWVV2QjM0VTlZMVAzU3VNMXVtdFJNVkt0NmlQT1ZKelI1T2ZMMDd6Z0E3VEZuSEdrUll0Y01TMjJxQXlQa2JNb0czUmp1eDh0UmhDWTlWOGtFVTJQSGNaMWI3WG5Zc212emZJWkpucWE5dnlTREtKc3FTYjlKajdVcW1wWDRYZEJNcjNLNEZaX1dWMUNQQ0JIdW8xY1Job0ZlQllrZE9Sajd5Z28tSU9CWm1aM0xrSzRhaHN3cFdOdTVU?oc=5",
-   "source": "香港01",
-   "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "d642f29463822aaa",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药集团授出合共7808.5万股受限制股份 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmVCdURxSDRyNmxMRzZ5WXpDSE1PdW5EaXRMVkwtUkFUb0Yzbm5BbHRrNkl6LVlrUlJPelJzT0pubkxPZ3dzMm9ETmJlX1JNY1JvTFJOaTN2aG11UFcwR0tSdzFvZURZN0JoY1JUeXp2bWstd2RtM2Z4R3laMmRjUGJVUkJUSktfVGxtRlVOdW1sWDZOQ1M1X25NVnhIbGROUkpTVWhpRkpHRFNSaVFsTE5QZ1YzMkVETkhRaloyTzJnSkJkUlNpaXFTYjVUdnRwaFNvZW02SWRJaEJ5cV9icTNoM2IxQQ?oc=5",
-   "source": "新浪财经",
-   "published": "Sun, 18 Oct 2026 12:09:32 GMT",
-   "trip": false
-  },
-  {
-   "id": "bab21cf308bd8f08",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "关注环保变量和供求关系 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaF9ydzloSUhUczdDc3dqU051Y2E0UmxMSV9WSGtpNXBYNUFaSnBGcUZzN0pRU2xvMXlMdURZd2dWOEFPc0piaDlGTzA1MUE4VkQw?oc=5",
-   "source": "华尔街见闻",
-   "published": "Tue, 09 Apr 2019 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "52de254c566db505",
-   "query": "chuanning",
-   "route": "google:en",
-   "lang": "en",
-   "title": "301080 Stock Price and Chart — SZSE:301080 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13RzRMcWpJQmwzSUJFbVdHVlBFTUVVbnYxTHN4WUFkX0pJNUFkSUd2SHg0azR1Z1VPNmxFaVBhNkdydHNRNTJJNDVaVnhkODBPVWRCa3piUHpuT2JM?oc=5",
-   "source": "TradingView",
-   "published": "Mon, 18 Oct 2021 08:34:12 GMT",
-   "trip": false
-  },
-  {
-   "id": "d2f5765546f1780e",
-   "query": "centrient_core",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Centrient Pharma boosts statins API manufacturing capacity in India - BioSpectrum Asia",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWNKeXhHSXE3b3h4X1ZaLVlwY0oyd29UdUJPZDhjVXdfQ3BtYkR5RE1rY1V6NS1nWENaQmhjZ3BIaUhmR21LbXpTNjF6RzIxa3BpUnFsTjNmT2F2UkhQYjhERVhLMDNyMXJCZTVvM245Z0FxS2dQamJ5Q3FNSFFFdkpVVjZ1bWpYZlVUQklJV3JNQnhISmdubnduNFROUWJtNjQ4OTFhSjFJMHBEd2ZBWmxiYTB4TWRpbHc?oc=5",
-   "source": "BioSpectrum Asia",
-   "published": "Mon, 21 Jun 2021 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 2,
-  "anglikang": 0,
+  "chuanning": 1,
+  "anglikang": 1,
   "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
