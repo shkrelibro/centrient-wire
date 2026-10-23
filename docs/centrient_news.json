@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-10-23T07:29:59Z",
+ "generated_at": "2026-10-23T13:24:24Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "d907ff402d924fce",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812.SH)：获得《药品注册证书》_公司新闻 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9maWdHN3psckVmODduWUY2SFRIbEt2ZmRJTU14cGlkcnd6WmxXTmdTb1ZvbmVmUjdZVk9tNjA0NmhJMDQ0eVk3Vmk4c2YzRGktZjd1azV6OEpVS3FxVDlKbA?oc=5",
+   "source": "证券之星",
+   "published": "Fri, 23 Oct 2026 09:40:35 GMT",
+   "trip": false
+  },
+  {
+   "id": "b9998abf75060b84",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物前三季度归母净利润3.32亿元 同比下降45.63% - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLbEQ5QTBNM0gwYTZBYmdHaXREQ2ZkY1hFSFNzTjBhenBEdzdQeTZOSUR6Tl9zN1FfNTFZUC1BY2tHcHdiTmVfWXFRRkp2QQ?oc=5",
+   "source": "观点网",
+   "published": "Thu, 22 Oct 2026 09:57:35 GMT",
+   "trip": false
+  },
   {
    "id": "eeefb03e261afe54",
    "query": "chain_pensalt",
@@ -969,53 +991,20 @@
    "source": "Yahoo Finance",
    "published": "Tue, 20 Oct 2026 17:13:16 GMT",
    "trip": false
-  },
-  {
-   "id": "856726a8357d59e0",
-   "query": "acsdobfar",
-   "route": "google:de",
-   "lang": "de",
-   "title": "BC Partners acquires co-control stake in Swiss CDMO InfoRLife - Leaders League",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWo1TXMwcmczbURKRTl0eVhwRGVzVnl3NjVaVlRNZlVtNnVOVXRzWEhnOUdiMlkyUnY3UzRXdEZyUlEtT0xvRHZ1T29NQ3d4cFQzV0stODNDWFVub1JqUU50T3B0UGc0YjBIQ05LYjNxQk16bnFsRkZFZGNubEJESk9xN2JINW1OdGZqdXFmb0VHSlNXaTREWkFXM2hHMWdN?oc=5",
-   "source": "Leaders League",
-   "published": "Wed, 29 Jul 2026 17:09:01 GMT",
-   "trip": false
-  },
-  {
-   "id": "65c386393776dc2d",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药董秘肖志广身兼三职 去年年薪30万在上市药企中偏低？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTWtsWi1rSkp5dUNkMTFIVnJEZzJGcXZQcV91UVNoaXdMQzZFLWRyUkEtT0dzVXF4YUFvLWVPWjZTZm1YTDhYNFhnSVdSenVDR2RBS2xfSnBWX1FTZ1J5R21ydkhMWHlTVjktaWk5SlUzSEtVQnEzemVCT2w3WW8?oc=5",
-   "source": "新浪财经",
-   "published": "Sun, 18 Oct 2026 05:20:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "442dc09c7e4fbc41",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康股价创新高 - 新浪财经_金融信息服务商",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSW5XMkJmcUY5ODZTVWZ2eE5CVGEwcWo5ZFpNY2Q4eXh5U0dIVDd2V0U1blljLWMzNzZzOTJFQTdvNzJnNVpVbUY1YW1iNXZqUFN0UzhvanphSkhlMXdRODkxWlkyYWtUblNtbmF0RHpxQQ?oc=5",
-   "source": "新浪财经_金融信息服务商",
-   "published": "Fri, 18 Jul 2025 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 3,
-  "anglikang": 2,
+  "chuanning": 1,
+  "anglikang": 0,
   "ncpc": 1,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
