@@ -142,3 +142,7 @@ fx_usdcny,2026-10-22,6.6743,CNY per USD (ECB),api.frankfurter.dev,,2026-10-23T07
 fx_usdeur,2026-10-22,0.89246,EUR per USD (ECB),api.frankfurter.dev,,2026-10-23T07:31:05Z
 dce_corn_rmb_t,2026-10-23,2212.0,RMB/t (rt last/settle),sina:hq:nf_C0,,2026-10-23T07:31:05Z
 dce_cornstarch_rmb_t,2026-10-23,2478.0,RMB/t (rt last/settle),sina:hq:nf_CS0,,2026-10-23T07:31:05Z
+fx_usdcny,2026-10-23,6.6702,CNY per USD (ECB),api.frankfurter.dev,,2026-10-24T05:52:47Z
+fx_usdeur,2026-10-23,0.89342,EUR per USD (ECB),api.frankfurter.dev,,2026-10-24T05:52:47Z
+dce_corn_rmb_t,2026-10-23,2209.0,RMB/t (rt last/settle),sina:hq:nf_C0,,2026-10-24T05:52:47Z
+dce_cornstarch_rmb_t,2026-10-23,2468.0,RMB/t (rt last/settle),sina:hq:nf_CS0,,2026-10-24T05:52:47Z

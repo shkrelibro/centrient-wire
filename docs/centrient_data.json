@@ -1,14 +1,19 @@
 {
- "generated_at": "2026-10-24T00:40:25Z",
+ "generated_at": "2026-10-24T05:50:51Z",
  "ran": {
   "news": true,
-  "data": false,
+  "data": true,
   "weekly": false,
   "monthly": false
  },
  "statuses": {
-  "news": "10 new across 21 queries",
-  "regulators": "reg_fda_ia_6640=unchanged; reg_fda_ia_6678=unchanged; reg_edqm_ceps=unchanged; reg_dgft=CHANGED [JS shell flaps the hash - demoted from trip Oct-26; MIP paging comes from the policy_mip news query]; reg_ema_news=unchanged; reg_mhra_alerts=ok (0 new); reg_pib=ok (0 new); reg_fedreg=ok (0 new); reg_gacc_monthly=unchanged; reg_nhsa=unchanged [Chinese page; English mirror unreliable]; reg_mee=unchanged; reg_cbgmeb=CHANGED; reg_cma_train=unchanged; reg_whopq=CHANGED",
+  "news": "8 new across 17 queries; 4 rotated out this hour",
+  "regulators": "reg_fda_ia_6640=skipped (rotation); reg_fda_ia_6678=skipped (rotation); reg_edqm_ceps=skipped (rotation); reg_dgft=skipped (rotation); reg_ema_news=skipped (rotation); reg_mhra_alerts=skipped (rotation); reg_pib=skipped (rotation); reg_fedreg=skipped (rotation); reg_gacc_monthly=skipped (rotation); reg_nhsa=skipped (rotation); reg_mee=skipped (rotation); reg_cbgmeb=skipped (rotation); reg_cma_train=skipped (rotation); reg_whopq=skipped (rotation)",
+  "chemicalbook": "empty",
+  "pharmacompass": "empty",
+  "fx": "ok",
+  "dce_futures": "ok",
+  "bond_quotes": "empty: bond_675_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual); bond_frn_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual)",
   "tradestat_india": "manual (JS portal) — 29411010/30/50 monthly at tradestat.commerce.gov.in",
   "gacc_8digit": "not scraped (captcha + foreign-IP) — buy HS6 from chinadata.live when volumes needed",
   "healthoo": "paywalled — the real tape; Monday broker PDFs re-print it"
@@ -72,20 +77,16 @@
   "dce_corn_rmb_t": {
    "latest": {
     "date": "2026-10-23",
-    "value": 2212.0,
+    "value": 2209.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2026-10-22",
-    "value": 2218.0
+    "date": "2026-10-23",
+    "value": 2212.0
    },
-   "delta_pct": -0.3,
+   "delta_pct": -0.1,
    "source": "sina:hq:nf_C0",
    "history_tail": [
-    {
-     "date": "2026-10-14",
-     "value": 2213.0
-    },
     {
      "date": "2026-10-15",
      "value": 2211.0
@@ -121,26 +122,26 @@
     {
      "date": "2026-10-23",
      "value": 2212.0
+    },
+    {
+     "date": "2026-10-23",
+     "value": 2209.0
     }
    ]
   },
   "dce_cornstarch_rmb_t": {
    "latest": {
     "date": "2026-10-23",
-    "value": 2478.0,
+    "value": 2468.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2026-10-22",
-    "value": 2468.0
+    "date": "2026-10-23",
+    "value": 2478.0
    },
-   "delta_pct": 0.4,
+   "delta_pct": -0.4,
    "source": "sina:hq:nf_CS0",
    "history_tail": [
-    {
-     "date": "2026-10-14",
-     "value": 2442.0
-    },
     {
      "date": "2026-10-15",
      "value": 2448.0
@@ -176,26 +177,26 @@
     {
      "date": "2026-10-23",
      "value": 2478.0
+    },
+    {
+     "date": "2026-10-23",
+     "value": 2468.0
     }
    ]
   },
   "fx_usdcny": {
    "latest": {
-    "date": "2026-10-22",
-    "value": 6.6743,
+    "date": "2026-10-23",
+    "value": 6.6702,
     "unit": "CNY per USD (ECB)"
    },
    "prev": {
-    "date": "2026-10-21",
-    "value": 6.6761
+    "date": "2026-10-22",
+    "value": 6.6743
    },
-   "delta_pct": -0.0,
+   "delta_pct": -0.1,
    "source": "api.frankfurter.dev",
    "history_tail": [
-    {
-     "date": "2026-10-13",
-     "value": 6.6938
-    },
     {
      "date": "2026-10-14",
      "value": 6.6927
@@ -231,26 +232,26 @@
     {
      "date": "2026-10-22",
      "value": 6.6743
+    },
+    {
+     "date": "2026-10-23",
+     "value": 6.6702
     }
    ]
   },
   "fx_usdeur": {
    "latest": {
-    "date": "2026-10-22",
-    "value": 0.89246,
+    "date": "2026-10-23",
+    "value": 0.89342,
     "unit": "EUR per USD (ECB)"
    },
    "prev": {
-    "date": "2026-10-21",
-    "value": 0.89015
+    "date": "2026-10-22",
+    "value": 0.89246
    },
-   "delta_pct": 0.3,
+   "delta_pct": 0.1,
    "source": "api.frankfurter.dev",
    "history_tail": [
-    {
-     "date": "2026-10-13",
-     "value": 0.89381
-    },
     {
      "date": "2026-10-14",
      "value": 0.89326
@@ -286,6 +287,10 @@
     {
      "date": "2026-10-22",
      "value": 0.89246
+    },
+    {
+     "date": "2026-10-23",
+     "value": 0.89342
     }
    ]
   }
