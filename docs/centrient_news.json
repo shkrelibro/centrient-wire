@@ -1,7 +1,18 @@
 {
- "generated_at": "2026-10-24T20:46:57Z",
+ "generated_at": "2026-10-24T23:11:47Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "50d3145d70ecd618",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "千亿石药集团“二代接班”，砸4.5亿“押注”减重赛道 - 界面新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y3hQYXYtbjlTZVVCZEg5SE5uWGMwLXhPMzVvMXhyZEdKX1FDdkt1NTVtOVpKYzh4NGV0cGpEdHpBcUo5NHJIa2pqVi15Qi1oeWxxazN5VUs?oc=5",
+   "source": "界面新闻",
+   "published": "Wed, 24 Dec 2025 08:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "62b72e661c7f9efe",
    "query": "lukang",
@@ -774,16 +785,15 @@
   }
  ],
  "counts_this_run": {
-  "centrient_core": 1,
+  "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
   "anglikang": 0,
   "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
-  "lukang": 1,
-  "cspc": 0,
-  "acsdobfar": 0,
+  "lukang": 0,
+  "cspc": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
