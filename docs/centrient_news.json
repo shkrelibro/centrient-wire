@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-10-24T10:57:00Z",
+ "generated_at": "2026-10-24T14:30:58Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "03bdeab544f3b2b9",
+   "query": "chain_en",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Penicillin G Sodium Prices 2026: Trend, Chart & Forecast - IMARC Group",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lNjVjOXhKc0EtV1hsWWRKYUhPcXFIRHRxODU4S3kteHZTTFJHb1FpUURIRkRGWjE3Sm1VRjVuSHJQYk0zRmFULV9rc3dGeEpRaDJNRmhlaG9MRkdxNmVlZERDdGdBMGVIWnoxbnB3?oc=5",
+   "source": "IMARC Group",
+   "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "3d880419921beb82",
+   "query": "acsdobfar",
+   "route": "google:en",
+   "lang": "en",
+   "title": "BC Partners agrees to acquire co-control stake in InfoRLife - PEI Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTRmN0VScWVueHRZZTE1bFVGMUZLUHBEOURQQms3WmNCUVhQZXNoeW5kcE1feGU2SEV0R3FHWGlQU2FTMzlIakNTNFc0ZjVXc2h2WnlxZlpGZFV0eFd1YjRqY3pGWjVwUnhUWTFEWXRsQWRETjhiSnJ1cjR3blZVVllKcS13ajV1Tnc?oc=5",
+   "source": "PEI Private Equity",
+   "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "8949294b822841cd",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "2.您认为碧生源常润茶等保健品广告违法吗？ - 凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aUjNGeG1KZ3FsRWFDa2oxZG1GaTRMMGlUdkp2SGNXSjd5cG1lc2tJOEVWT0t2UUxGVzBKa1pxa09TUTFlVDk2QWQ4UUdKRWUzT3hkWWRLcjdxWjB6eng5cQ?oc=5",
+   "source": "凤凰网财经",
+   "published": "Wed, 14 Jul 2021 19:29:34 GMT",
+   "trip": false
+  },
+  {
+   "id": "9b64af8ab3104afd",
+   "query": "aurobindo",
+   "route": "google:in",
+   "lang": "in",
+   "title": "Govt to set minimum penicillin import price, big boost for Aurobindo Pharma? - Alice Blue",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYzNuTXp5cW9RNk1yZnRKemlRSm0xVU9KemRBYTZ1Qzg4SHVjWTdpMzZ4dHFoWTRrY3kyYXNqNDlBYlkwOW5Ud3NzQnp6VjBkcG1iVmhUVnc2b2lndFNnbEREWW1JdFUyTG9ZbVZzTzlpMC1sMDRfVmpOZVBwcDhfdEw4TTlKcTdfOWtGSndOSndYM0R3eGxpVVVwSEdweFN0WDNKVVRlU25Fdk0?oc=5",
+   "source": "Alice Blue",
+   "published": "Tue, 30 Dec 2025 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "7c1dc29d555fff54",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药(600812.SH)：获得《药品注册证书》 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sWHlTUzN1ZEVoYmZKejk4c1NYLWZEaVEyaV9GUk9XWkxlMnNiQThfQzFSbUZ6M1k3aWVpX0lqcWpjU2I5WTBTS2J0bC11eWQ5TFp4ck5rcWtDMXZ0eHVoX2Iwa0JudHF0OWlUNVBzZ19Rb1JESHUzUw?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 23 Oct 2026 12:59:34 GMT",
+   "trip": false
+  },
+  {
+   "id": "bcac5a5fe06b5821",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药10月20日盘中跌幅达5% - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52a2tuWWFTWHBQUVdXS04zLWxGaUpZMjB4ZjBHVndUX0FCUXBVZzRnWFdBdVBGbDdwQWxBZ3ZoYmgwdHEtSkcyMzV4VWNaYy1jYlVSZzZuek5tSkQwdXMzNEUtRVVTQQ?oc=5",
+   "source": "东方财富网",
+   "published": "Tue, 20 Oct 2026 01:33:00 GMT",
+   "trip": false
+  },
   {
    "id": "c6e1143f886ae43c",
    "query": "chain_pensalt",
@@ -595,57 +661,24 @@
    "source": "东方财富",
    "published": "Thu, 22 Oct 2026 06:59:55 GMT",
    "trip": false
-  },
-  {
-   "id": "e6e43bf7cfebcffa",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华药与石药合并案重启 上市公司难避免同业竞争 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YZnpWOVMwai1KVW5ITzFGV0RFWWs4TFNlSkxhVUZ6UjZNNTFMektpQXozem9pWExSSlJQd05CQ282VlpXclU2cVNfMWN0UGsxV0hPVlliM09nUDlRdWg5djcwNUJldkIzWTV3TkJZUlItb1V3OVBMREpuQjE?oc=5",
-   "source": "新浪财经",
-   "published": "Thu, 14 Jul 2005 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "9c2c13a5bf04a35c",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：股价波动较大 提示相关投资风险 - QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zOEMtZ3V2RDlKVUwxdENZOEF1QlJ5RHJjUGNTdjVjenZwSzU5UzluSWw0NUhlbGpaZWZ6Zk1Pbl84RXFIMEFzcjIwUWRmUGZCTVpVNTln?oc=5",
-   "source": "QQ News",
-   "published": "Mon, 12 Oct 2026 11:48:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "db6f37e00a1acd94",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "创新药板块表现活跃 昂利康涨停 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kVkpfVUtvaHg3SEVUaHY0N2JSejNiWXBna09fWmViVUJXYVZJMlJ6bmlick5yTE15ZFpXeEkzbks1UFRsVmNHX2ZuclRYZW1oeGxJWVZR?oc=5",
-   "source": "搜狐网",
-   "published": "Thu, 14 May 2026 07:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
   "chuanning": 0,
-  "anglikang": 1,
-  "ncpc": 0,
-  "aurobindo": 0,
+  "anglikang": 0,
+  "ncpc": 2,
+  "aurobindo": 1,
   "weiqida": 0,
-  "lukang": 1,
+  "lukang": 0,
   "cspc": 1,
   "acsdobfar": 1,
   "chain_6apa": 0,
-  "chain_pensalt": 2,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
-  "chain_en": 0,
+  "chain_en": 1,
   "conduct_cn": 0,
   "policy_mip": 0,
   "credit": 0
