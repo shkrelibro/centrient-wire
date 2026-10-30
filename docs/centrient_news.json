@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-10-29T23:16:51Z",
+ "generated_at": "2026-10-30T02:39:20Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "f8d6772fcafb2e43",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "Processo sulle autorizzazioni ambientali della Provincia di Frosinone, tutti assolti. Patrizi: «Finito un incubo» - Il Messaggero",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnMzdDB5aWZ0aFNpRjRVWmFvZVFMY2xLeHM5T2hpNlNpSmZ5RENlb1RPeHl5cFRFSHl0UVVVcVpCZkFzSW55aGZEZ0JWazZDcVJKd1ctR0h3b1MyMTdQbjRtNVk2VmlHUDZvSmJFODBKOTB4UzRrMEJocHUxNWYwNEhOWnZlUXNVaExZemh0RUZzeW5qeGtONkh6enJLNE14U2pFNVY1UWEtLVAwRGJVU2dfZEhvd1FjdlJv?oc=5",
+   "source": "Il Messaggero",
+   "published": "Thu, 21 Dec 2023 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "8f01015bb0eb60a4",
+   "query": "tul",
+   "route": "google:en",
+   "lang": "en",
+   "title": "United Laboratories International Holdings (SEHK:3933) Stock Confronts A Brutal Margin Squeeze - Simply Wall St",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNnZrYXJER0NIYUw4TTJwQVNlNjZ3YTJYQnR5cThQZVo0ME0ydTBXcGh6SE5tM1k1ZEhYZGUxaHpTclRBc212ZExvUlQyM2kxaXpLQlVDNWlidTJSSjVxdkNmbDVwNzhISjNaNjRTN3VNdWxISEhmVXdianE3WVR6aFNCd29STEJBaWZrSE5CaWpSM2ZaQVVtN3BDWFZDRUhBV1h0bkp1Wkt0RTNaUjlLUzZwVi1hTDVCRWN0aW5PX2dhS09rcllqZ3RZR2YwNFQzcktYNGFXMksxektzUG1TelFCOWg5OG02b3EtOWNnZHMyV1Q4SUp1VmoxbVpoaU55R3d6VUhMRGZkRG9s?oc=5",
+   "source": "Simply Wall St",
+   "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "567d7e18b91a10f3",
    "query": "ncpc",
@@ -793,117 +815,19 @@
    "source": "搜狐网",
    "published": "Fri, 23 Oct 2026 22:32:08 GMT",
    "trip": false
-  },
-  {
-   "id": "0037f19072c27be1",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "2019年原料药供需格局分析（中） - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00andZTE53QUlDa2JBNDFwQzNVY1RFbXN3TlQwMjdfV3V6dDlyUjh0MkZuNWpqdnVCaFZJdGdSbV84anBvN1JES1psdndvT0xS?oc=5",
-   "source": "雪球",
-   "published": "Wed, 02 Jan 2019 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "730780a5332b3b53",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药创新(300765):增加2026年度日常关联交易预计额度 - 中财网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sN3JvNjQwendTQUl0cXY3bS1vRU8tS3l1ZTg0TnNUbTIxYXJyekxneVJUOVFDcWlzbHkxZmYwVmtRdW01REk5UURIOVpuZWVaaldubWZ3?oc=5",
-   "source": "中财网",
-   "published": "Wed, 28 Oct 2026 10:26:38 GMT",
-   "trip": false
-  },
-  {
-   "id": "4cfda19e93db6fcb",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "石药创新(300765):国投证券关于石药创新部分募投项目延期及使用募集资金向子公司提供借款以实施募投项目的核查意见 - 中财网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vM0VoS1Z5OXBEUllmNl8wT3RSNEVReVZFUGpNbXExaXpITmYzb0hMNklFN0tIeDkyeG42U0d6MFpuOC0xdVpDT2luQjV0NlljUmRLSzN3?oc=5",
-   "source": "中财网",
-   "published": "Wed, 28 Oct 2026 10:26:37 GMT",
-   "trip": false
-  },
-  {
-   "id": "3ae07cb62d396733",
-   "query": "lukang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "鲁抗医药：公司产品出口80多个国家和地区，目前公司产销正常 - QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZEdDYlNQRjZST1JyOG9wQVNValU2WVZuTVRwUGJJcmpKaG1weElrVXB3akk3N29RSUYxaEJFdF9tLWU5N2hTUUxlOGtWeDJGNkhEOGJB?oc=5",
-   "source": "QQ News",
-   "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "393eab67a7f08d62",
-   "query": "weiqida",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "产能过剩、集采降价压顶，国药现代前三季度净利润预跌近六成，制剂板块收入承压 - 腾讯新闻",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90LXFIOTk2TlJyWmtkZk9xTndCM25RS0R1ajI0V3N5UmFVNXo2LUtUeUNOaWxXaEFOcW1ENW01d0RxUURjeXZKWVdsT1B3SGxOcjc5NmNR?oc=5",
-   "source": "腾讯新闻",
-   "published": "Thu, 15 Oct 2026 04:02:00 GMT",
-   "trip": true
-  },
-  {
-   "id": "2dbdfd015ce0830d",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Aurobindo targets $2 Bn US revenue with in-licensing push - pharma.economictimes.indiatimes.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkhvUmN3VDB2ZFZDZHhzTkFXalRPa1V1THlqUUR2MmhlSnJpNFFGeGFGTFQ3bHZaQ0oxRXRvOENaX0F1SWZaczRIWmNZeDVCZ3VnNUdiR1RWRkVVWFZ1TU1NM2ZEUjhVZkVnTTlJTldzM1Ryb0pEaHlRWC1zcmVxV2ZVdVJTV3VxbzBsY001RFR0eXNQU255MjJsZWsxRWlBX180Wl9SMGFMOE9MNHJRcmRxajlDd09sQzZsXzQ5QVJKRThjdG0yOWhnc9IB0AFBVV95cUxNb1ZQenpNY2Jic1plV3EySWFidm9udHkyTHY1U0dvamdXYlRlUjU0SmtEZFo0bTd1NXZPOGxYeDd5ZUdFekhERldnR3hnWjUwc1NEYmM1cDljWkVjeFpZeE8tYlVtbm90Y1dfWks3VUw5UmFIVXZGX3hCd3UwNkZOSEFjVmJrNjZPdURqQXBMZkxRZERoR0h3VGFDUVk0YUtVY2hFOWRyRFRhXzB2MVFhb0JCakVCVjAwWFRBbS15c0syQnZzV3dXbWRMNW1oTEZ1?oc=5",
-   "source": "pharma.economictimes.indiatimes.com",
-   "published": "Fri, 22 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "4d9698cf4aab0437",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：出口产品主要以青霉素类原料药及制剂药产品、部分头孢类原料药及制剂药为主 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSdmxtZzN0X2tGcThiOWsxNWFrb2ltbHNfbEg3MVAyQmVBSkJPMmJxUW1vWXJIVFZVa0VJT2VSMkNDYjByTnZtZ0p1Wml5aGtqcjNOUTU0VUZfc2FZSDJfZg?oc=5",
-   "source": "东方财富",
-   "published": "Tue, 12 May 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1aeac9e07645fb77",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康A股股东户数减少799户降幅2.20%，流通A股户均持股5208.12股增幅2.25%，户均持股市值11.96万元降幅11.10% - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVNVVkZZN3BuZ014cjVXY1JHOEZzQ1hRZFRKY3dpUEJlZUk4dVY1QkNNb0EwaUNzTHdrd0lyRWF2RWt5c2NFUVA2VzkwbHRPeXo4eVZCWVpEQlFpb1lsMzdXdmk3akFtWmhoZV9hOXNwXzJYVEU0WS1kWHhkejZvOTJXdWxlaVZEU3lTYQ?oc=5",
-   "source": "新浪财经",
-   "published": "Wed, 28 Oct 2026 10:51:26 GMT",
-   "trip": false
-  },
-  {
-   "id": "c700cccfe1973e9e",
-   "query": "anglikang",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "昂利康（002940.SZ）新增一起对外投资，被投资公司为浙江嵊熠光电有限公司_公司新闻 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkM1FFeW15SDU2ZTBNdFJ3Y244c1hqbk04aUFiSHdKNGRHeXNIcjhfeTgxN2dYcG84TmJ0dTF1NHh3Q09VZS1pMVFsYUJtbEl3aS1wWE10YnM3d2djVllTcktYZ3M?oc=5",
-   "source": "证券之星",
-   "published": "Mon, 26 Oct 2026 20:02:29 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 0,
+  "tul": 1,
   "chuanning": 0,
-  "anglikang": 1,
-  "ncpc": 1,
+  "anglikang": 0,
+  "ncpc": 0,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
