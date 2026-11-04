@@ -195,3 +195,8 @@ fx_usdcny,2026-11-02,6.6483,CNY per USD (ECB),api.frankfurter.dev,,2026-11-03T10
 fx_usdeur,2026-11-02,0.89158,EUR per USD (ECB),api.frankfurter.dev,,2026-11-03T10:50:41Z
 dce_corn_rmb_t,2026-11-03,2230.0,RMB/t (rt last/settle),sina:hq:nf_C0,,2026-11-03T10:50:41Z
 dce_cornstarch_rmb_t,2026-11-03,2498.0,RMB/t (rt last/settle),sina:hq:nf_CS0,,2026-11-03T10:50:41Z
+cb_6apa_rmb_t,2026-11-03,330000.0,RMB/t (list quote),https://m.chemicalbook.com/priceindex_cb1410046.htm,,2026-11-04T06:19:06Z
+fx_usdcny,2026-11-03,6.6723,CNY per USD (ECB),api.frankfurter.dev,,2026-11-04T06:19:06Z
+fx_usdeur,2026-11-03,0.89453,EUR per USD (ECB),api.frankfurter.dev,,2026-11-04T06:19:06Z
+dce_corn_rmb_t,2026-11-04,2228.0,RMB/t (rt last/settle),sina:hq:nf_C0,,2026-11-04T06:19:06Z
+dce_cornstarch_rmb_t,2026-11-04,2508.0,RMB/t (rt last/settle),sina:hq:nf_CS0,,2026-11-04T06:19:06Z
