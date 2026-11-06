@@ -1,7 +1,139 @@
 {
- "generated_at": "2026-11-05T18:44:05Z",
+ "generated_at": "2026-11-06T00:13:54Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "2d42c97ea251ce62",
+   "query": "reg_whopq",
+   "route": "page",
+   "lang": "en",
+   "title": "WHO Prequalification news: page updated",
+   "url": "https://extranet.who.int/prequal/news",
+   "source": "WHO Prequalification news",
+   "published": "",
+   "trip": false
+  },
+  {
+   "id": "b6762fee85384d48",
+   "query": "reg_cbgmeb",
+   "route": "page",
+   "lang": "en",
+   "title": "CBG-MEB news (NL): page updated",
+   "url": "https://www.cbg-meb.nl/actueel",
+   "source": "CBG-MEB news (NL)",
+   "published": "",
+   "trip": false
+  },
+  {
+   "id": "7d99d81c9550c874",
+   "query": "reg_dgft",
+   "route": "page",
+   "lang": "en",
+   "title": "DGFT notifications (MIP watch): page updated",
+   "url": "https://www.dgft.gov.in/CP/?opt=notification",
+   "source": "DGFT notifications (MIP watch)",
+   "published": "",
+   "trip": false
+  },
+  {
+   "id": "03c9cc83c214ce5f",
+   "query": "credit",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Centrient Pharma files second lawsuit against Dalas Biotech - The Financial Express",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDlCOExqQzVRSnoyWXEtaDFwYmhRSjRQZ0JidFB6WkItWmcyWkw1RFRmNng5X3BXbW1VRkdQWWxJVHd3NlU3Y1FOeWpZTlp4UXhTbHRFQml0cl9zdzZmaDZuTHRsLUswQ1BMTFd0WDU5MVhoTzdTTmNPY0labkNXSXB4cGxvLWZzZUpYSEdPUWtpVDRWX2MtU1hLX2VnZ1preldPaVhTa0tzSlQ1NG5tTmN2WldZbTRGNmln0gHCAUFVX3lxTE1iTzBSd2htbHhwV1hacENfTnFPQnlueC1ieUpqRlBXMkpidGgyTk5KeXdKRXBuMkR2YmtMQ1lFSS1nSzVONzRncFNlQUVPR3lueHZIMm9makxWWFNGUGZmZllmUVQtY1F2VnVya2piYmlBRXZEN1dsYWhzWkwwUWgtYnFFcWhGUEI1NjNoamVrM0p1TkowM0lvY0p5NThORkU3WjViSTNpdm1HaGhnd3RVWUFuUEF4ZU84bDhvdV9jSk5n?oc=5",
+   "source": "The Financial Express",
+   "published": "Sat, 19 Oct 2019 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "cac93f3632e028f2",
+   "query": "acsdobfar",
+   "route": "google:it",
+   "lang": "it",
+   "title": "La Ue approva l'acquisizione congiunta di InfoRLife da parte di BC Partners e ACS Dobfar - MarketScreener Italia",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFFreTlDdENyaUkxM0w0MVR2LWpOemxsS3F6d0JFc0FkMXVMWC1fc05mQVVDdjVIY0ZIbTc5aGxudjhXWmN4YzBjYzhGTEdVczFwcDZRTTlSUEUxU2xKa0l2dlI3S2lCSU1uTmV1bXo4SXNHWWpsczhKdTJJQXBULUNDOGVxRWx0UVhsWndIMGJsaFVYMXJOdG9KZnFkU19MRjdlN3FoMEVydElSb0Y0cTZ2UlA1RUVyMEJ6SXA3enctVElUbktsXzBkRkVrLVpOcTJUbmRBRUJSeFk?oc=5",
+   "source": "MarketScreener Italia",
+   "published": "Thu, 05 Nov 2026 12:33:26 GMT",
+   "trip": false
+  },
+  {
+   "id": "09bf9990c53f1f24",
+   "query": "cspc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "AI赋能产业创新升级 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fR0U0QWpFdVh5OUQxOUUwb1JxSkxZeTRxVEVSSGxHczVuX1Y2UkdZMjNMc1ZUcTYzZnRuNTA4a3RaTHdVeTkzdGhNaEJVZ1IwWkxVeUpjRmE1V09rSHZfeE5jQkZGMDJDNDE2MGduakRVdU5MR0tKUVQweklPSEE?oc=5",
+   "source": "手机新浪网",
+   "published": "Thu, 05 Nov 2026 22:45:41 GMT",
+   "trip": false
+  },
+  {
+   "id": "3ba22e6d23ffd543",
+   "query": "sandoz",
+   "route": "google:ru",
+   "lang": "ru",
+   "title": "Единственный оставшийся в Европе завод пенициллина вот-вот прикажет долго жить - EADaily",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnkwNnBubGg5OHo0azJ2UkJfRVI0ckIwUzAyNXFQVHVxQ3E4QUN4Nk55V1VoWVM4RWdKWmYzVVdRLURfck5FR0hVYUt4c3ZuQmxUeEYwT2k1MEZEVm9yTGJ5eS0wazZSM29VNnRkZDZHZWh6QWVTSGtRbWU1WkQ3UHBxSGtiWW84U2YyTTR0ME1Fa0pwdHYzWTZOcmNsS0Fud2NqaTM5QUJVeHR2VXlnLXlUYUF5ZUtFQ3RjY1F6NEhwUdIBxgFBVV95cUxNUEM4R21QalpMUkJYSG9ZZW5NQTM3MXRwZmNsODdoVkxTNkduRjYtM2o5dk5KX3dNUHJPTWNENkVUMS1YUFFZMzA4X1haM2J1RTlBeDVmemNkM0FNLTU4RXVzZFktbHhoN0k2VndzR2ZrMzZXUnMtdnVfV3VJQ3ZXeTVCSHdVNjR4aWtRRThENDRRdFFLVG5DV1NXRjYxbmpNb3RqblNDdGs5aEVMaVo3S3RNVW9sR3laWVBWWEdQaEQzai1xZ0E?oc=5",
+   "source": "EADaily",
+   "published": "Sat, 24 Oct 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "1e5eb8a92af50be2",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：第十二届董事会第四次会议决议公告 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01SFU1aUNJLVd2akNSQUZweVhad1ZzTWJEZ3h1S0hGS2hwR1hkdDRJVnhBZFhQaGFYRndVRVpJWmdkLUtFQU9xSXdBSGRHVFY4QjFIVFJLcFp5RHVmZWpTaW5Hb3FQUQ?oc=5",
+   "source": "东方财富",
+   "published": "Thu, 05 Nov 2026 20:58:42 GMT",
+   "trip": false
+  },
+  {
+   "id": "fcb19697cef71f76",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "11月5日共50股连涨5天，宁德时代、盐湖股份、亿纬锂能、华友钴业、恩捷股份等上榜 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13YjRMSHQ2TmFCQnp6V0xiUXhSeDJfX2VnRDd2WTk3dnZLZWhwNGItUHRVclp3cFFMRG9pZURPVm9HR2E0Q1FPQzFZbVczMWJFZVoyY2pqSW9OenhwQU9aZU5Xcy1adFJnVFFyU0V0VEk4RmVt?oc=5",
+   "source": "金融界",
+   "published": "Thu, 05 Nov 2026 09:16:23 GMT",
+   "trip": false
+  },
+  {
+   "id": "52cd9946769694fa",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "联邦制药荣获“最佳ESG先锋实践上市公司”奖项 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ieXhfRWFTa0pjelYtWUdNVHpvbTJfeXVNcVlZS2FNRHJIRjc5NzkzQ0hJN1lPWHNZaVZaaDFtVjNsYVF2MzJMWkZQeENRTEZVLU4ycTFETzF3SmhaZWF1UVhOMkoxRERRbnVwQktncjdBQWd2S3hhdQ?oc=5",
+   "source": "新浪财经",
+   "published": "Sun, 28 Sep 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "17cfb913664da8e3",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "黄敏硕 - 联邦制药前景看俏 | 开工前落盘/头条名家本周心水 - 星島頭條",
+   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcE1EMldEb0RZSmhJZkRfYnZva2d4OVd4VG80RExIV091VnhwdWV4RFRoX1RNcHhlWlpKSFBVOHQ5Q3ZGOW1jREJlTkhuUVprTk9FNWppako2Q2FaWEUwSE1rVzZZaW5neHVtYjMzUzctbmRrSHBIRk1WR1NMS3VCQVdRUXR5Z2JYYkhSczM0eG1kX2lGcTJQTGlVU1E1RGV6OEdDS2VSNDJndmpXc2N6UGZvTVFsdlVGUExCYzJOQ2ZKQmF5bXd3bjVxWWdrSGY4aUpzX0JlMUs5TXhBdkEzMTA4NXhiU3Z4dGlZLVg4WXdDcF9vd2dsNk5WN0E1amhhTzJ5Q1lrZU9IZVRFQWNwaUJUY1MxLUs2OU5oeWY0R2h6OUt1RFJCNTZQNWFYY0IwTVliSjl4eFhlR3FKLTBKTWtXU3YtVWRLaXVOTW5CS04yNVREV3VKUTZCMHRNLXhvQk1qVXpTdG9zejRPYWRUTUJLYWEtZlhCcjdDcEdlMGcxWUU?oc=5",
+   "source": "星島頭條",
+   "published": "Mon, 19 Aug 2024 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "a025241a687d4779",
+   "query": "centrient",
+   "route": "google:en",
+   "lang": "en",
+   "title": "Centrient Pharmaceuticals Appoints Genevieve Machin as Chief People and Transformation Officer - https://hrtoday.in/",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUtKakQxb0VfT05FSGxmQmJ1MHdoMmoxeHFDbnUyVDFiVUl2aVk0UTlsUml2X3RJX185cENQUFljWTNtTm1aTHhuSUhSTHgtNG1CUmZaR0dscDFwWlFzTzZLNTVDaEF3ZW00QkNuTkV4UWNaSXNZcWpHOVFqY2pXSUVQczZMdHNMeGsyWThGR3FWWTY0QlYyNGJRY2JJV255U2d1azBXNEJ2LTc1Ym5EQk9ZQTc?oc=5",
+   "source": "https://hrtoday.in/",
+   "published": "Fri, 19 Jun 2026 12:34:00 GMT",
+   "trip": false
+  },
   {
    "id": "0ca824f014d31a8f",
    "query": "reg_mhra_alerts",
@@ -378,18 +510,18 @@
   }
  ],
  "counts_this_run": {
-  "centrient": 3,
+  "centrient": 1,
   "centrient_core": 0,
-  "tul": 0,
+  "tul": 2,
   "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 5,
+  "ncpc": 1,
   "aurobindo": 0,
-  "sandoz": 2,
+  "sandoz": 1,
   "weiqida": 0,
   "lukang": 0,
-  "cspc": 0,
-  "acsdobfar": 4,
+  "cspc": 1,
+  "acsdobfar": 1,
   "chain_6apa": 0,
   "chain_pensalt": 0,
   "chain_7adca": 0,
@@ -398,7 +530,7 @@
   "conduct_cn": 0,
   "policy_mip": 0,
   "policy_eu": 0,
-  "credit": 0
+  "credit": 1
  },
  "errors_this_run": [],
  "regulator_watch": {
@@ -407,15 +539,15 @@
   "reg_edqm_ceps": "unchanged",
   "reg_dgft": "CHANGED [JS shell flaps the hash - demoted from trip Oct-26; MIP paging comes from the policy_mip news query]",
   "reg_ema_news": "unchanged",
-  "reg_mhra_alerts": "ok (3 new)",
+  "reg_mhra_alerts": "ok (0 new)",
   "reg_pib": "ok (0 new)",
   "reg_fedreg": "ok (0 new)",
   "reg_gacc_monthly": "unchanged",
-  "reg_nhsa": "skipped (rotation)",
-  "reg_mee": "skipped (rotation)",
-  "reg_cbgmeb": "skipped (rotation)",
-  "reg_cma_train": "skipped (rotation)",
-  "reg_whopq": "skipped (rotation)"
+  "reg_nhsa": "error: ConnectTimeout",
+  "reg_mee": "unchanged",
+  "reg_cbgmeb": "CHANGED",
+  "reg_cma_train": "unchanged",
+  "reg_whopq": "CHANGED"
  },
  "manual_weekly": [
   {
