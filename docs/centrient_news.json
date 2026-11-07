@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-11-07T07:07:53Z",
+ "generated_at": "2026-11-07T13:59:35Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "581f111e62e6fefc",
+   "query": "lukang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "国内第三大抗生素基地，泰乐菌素龙头，前三季度业绩翻番，营收连续5年两位数增长：鲁抗医药要翻身？ - 新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjBUWVNWckJGR2lRc0RrTDhKVjNCTmJjamRWWTlNWWlHU0RVdGszVXBrem8talpLaVUxTFpQWk9KbEx0SUtKcnY5b0RJNy1OQUJ3M2o3QWxkalZfRFlOZ1gyZG5FZUthTGtfQW8ta2VzeDNoQ1JKal96VTVMRXdDT3pOakxpUms?oc=5",
+   "source": "新浪财经_金融信息服务商",
+   "published": "Thu, 02 Nov 2023 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "cf0e82f593a5e031",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：头孢拉定原料药上市申请获批 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN1M2MUNveVh0QXJmS2NBSmJZUW5DQ1Z2dzFVeC1uQzZCdzVxZ01yQXVUYnpRNEFlc2JMT0NaSmF2NmF4ZnNfSE1ubXlsX0dNaUMwMUdZWTBfTFdPZUkzeQ?oc=5",
+   "source": "东方财富",
+   "published": "Sat, 07 Nov 2026 01:13:59 GMT",
+   "trip": false
+  },
+  {
+   "id": "87d08bfe79acbb47",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：2025年年度归属于上市公司股东的净利润同比增长44.15% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVelZ3eXBtRlFpbG9CNndaM2xOTWFBU2Flc2F3OUZubG4zTjVyZmV4WnJYd0x6b0hNeTdvZzlwdkdGdFRZaEt1dUlrLXZBMjVEZklySkh2a01ZMkdQdmdCNA?oc=5",
+   "source": "东方财富",
+   "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "896c3ca8f9ddde46",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：昂利康（002940）11月6日主力资金净卖出1052.90万元_主力研究 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tZ0lJX0JsY0lkZG9DNkR1aEtOZFhkS202MEJ3T0NTZXk1ck1jUWV0OXV1alNuYVUyV2R3ejhCSllXMjVPYlNmSV9nQy1lV0d6V2R1ejB0eU5BQk9pMG52aGFn?oc=5",
+   "source": "证券之星",
+   "published": "Sat, 07 Nov 2026 11:19:59 GMT",
+   "trip": false
+  },
+  {
+   "id": "b0bd6f057d4f92eb",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）11月6日主力资金净卖出3021.57万元_主力研究 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KMVZJbFV6OWZ0UmlUS3hJUGdwRHNJY0RXT05xNFBqQW5XSWViTERZM0ZaYm4zOEZjankxblBNaEZmSWh5Y1JCanQtT3NFbUt3WDQ2V0J2T2xsMWZuQkotTQ?oc=5",
+   "source": "证券之星",
+   "published": "Sat, 07 Nov 2026 06:59:35 GMT",
+   "trip": false
+  },
+  {
+   "id": "476937c2b516c5f1",
+   "query": "tul",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "美股GLP-1主题基金引发思考 下一个“诺和诺德”会是谁？ - 财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhNWtOUlB4c2JIQnpNaFBiNmo1UkRxYjBPb1Zndm5BVURYTG53Y09XeW5zRUZDSlFqRHdreG1Bd0Vla1N2bnc?oc=5",
+   "source": "财联社电报",
+   "published": "Mon, 27 May 2024 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "54d105e97d6d5b2f",
    "query": "chain_pensalt",
@@ -364,138 +430,6 @@
    "source": "Nyheter24",
    "published": "Mon, 05 Oct 2026 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "2d42c97ea251ce62",
-   "query": "reg_whopq",
-   "route": "page",
-   "lang": "en",
-   "title": "WHO Prequalification news: page updated",
-   "url": "https://extranet.who.int/prequal/news",
-   "source": "WHO Prequalification news",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "b6762fee85384d48",
-   "query": "reg_cbgmeb",
-   "route": "page",
-   "lang": "en",
-   "title": "CBG-MEB news (NL): page updated",
-   "url": "https://www.cbg-meb.nl/actueel",
-   "source": "CBG-MEB news (NL)",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "7d99d81c9550c874",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "03c9cc83c214ce5f",
-   "query": "credit",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Centrient Pharma files second lawsuit against Dalas Biotech - The Financial Express",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDlCOExqQzVRSnoyWXEtaDFwYmhRSjRQZ0JidFB6WkItWmcyWkw1RFRmNng5X3BXbW1VRkdQWWxJVHd3NlU3Y1FOeWpZTlp4UXhTbHRFQml0cl9zdzZmaDZuTHRsLUswQ1BMTFd0WDU5MVhoTzdTTmNPY0labkNXSXB4cGxvLWZzZUpYSEdPUWtpVDRWX2MtU1hLX2VnZ1preldPaVhTa0tzSlQ1NG5tTmN2WldZbTRGNmln0gHCAUFVX3lxTE1iTzBSd2htbHhwV1hacENfTnFPQnlueC1ieUpqRlBXMkpidGgyTk5KeXdKRXBuMkR2YmtMQ1lFSS1nSzVONzRncFNlQUVPR3lueHZIMm9makxWWFNGUGZmZllmUVQtY1F2VnVya2piYmlBRXZEN1dsYWhzWkwwUWgtYnFFcWhGUEI1NjNoamVrM0p1TkowM0lvY0p5NThORkU3WjViSTNpdm1HaGhnd3RVWUFuUEF4ZU84bDhvdV9jSk5n?oc=5",
-   "source": "The Financial Express",
-   "published": "Sat, 19 Oct 2019 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "cac93f3632e028f2",
-   "query": "acsdobfar",
-   "route": "google:it",
-   "lang": "it",
-   "title": "La Ue approva l'acquisizione congiunta di InfoRLife da parte di BC Partners e ACS Dobfar - MarketScreener Italia",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOFFreTlDdENyaUkxM0w0MVR2LWpOemxsS3F6d0JFc0FkMXVMWC1fc05mQVVDdjVIY0ZIbTc5aGxudjhXWmN4YzBjYzhGTEdVczFwcDZRTTlSUEUxU2xKa0l2dlI3S2lCSU1uTmV1bXo4SXNHWWpsczhKdTJJQXBULUNDOGVxRWx0UVhsWndIMGJsaFVYMXJOdG9KZnFkU19MRjdlN3FoMEVydElSb0Y0cTZ2UlA1RUVyMEJ6SXA3enctVElUbktsXzBkRkVrLVpOcTJUbmRBRUJSeFk?oc=5",
-   "source": "MarketScreener Italia",
-   "published": "Thu, 05 Nov 2026 12:33:26 GMT",
-   "trip": false
-  },
-  {
-   "id": "09bf9990c53f1f24",
-   "query": "cspc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "AI赋能产业创新升级 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fR0U0QWpFdVh5OUQxOUUwb1JxSkxZeTRxVEVSSGxHczVuX1Y2UkdZMjNMc1ZUcTYzZnRuNTA4a3RaTHdVeTkzdGhNaEJVZ1IwWkxVeUpjRmE1V09rSHZfeE5jQkZGMDJDNDE2MGduakRVdU5MR0tKUVQweklPSEE?oc=5",
-   "source": "手机新浪网",
-   "published": "Thu, 05 Nov 2026 22:45:41 GMT",
-   "trip": false
-  },
-  {
-   "id": "3ba22e6d23ffd543",
-   "query": "sandoz",
-   "route": "google:ru",
-   "lang": "ru",
-   "title": "Единственный оставшийся в Европе завод пенициллина вот-вот прикажет долго жить - EADaily",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnkwNnBubGg5OHo0azJ2UkJfRVI0ckIwUzAyNXFQVHVxQ3E4QUN4Nk55V1VoWVM4RWdKWmYzVVdRLURfck5FR0hVYUt4c3ZuQmxUeEYwT2k1MEZEVm9yTGJ5eS0wazZSM29VNnRkZDZHZWh6QWVTSGtRbWU1WkQ3UHBxSGtiWW84U2YyTTR0ME1Fa0pwdHYzWTZOcmNsS0Fud2NqaTM5QUJVeHR2VXlnLXlUYUF5ZUtFQ3RjY1F6NEhwUdIBxgFBVV95cUxNUEM4R21QalpMUkJYSG9ZZW5NQTM3MXRwZmNsODdoVkxTNkduRjYtM2o5dk5KX3dNUHJPTWNENkVUMS1YUFFZMzA4X1haM2J1RTlBeDVmemNkM0FNLTU4RXVzZFktbHhoN0k2VndzR2ZrMzZXUnMtdnVfV3VJQ3ZXeTVCSHdVNjR4aWtRRThENDRRdFFLVG5DV1NXRjYxbmpNb3RqblNDdGs5aEVMaVo3S3RNVW9sR3laWVBWWEdQaEQzai1xZ0E?oc=5",
-   "source": "EADaily",
-   "published": "Sat, 24 Oct 2026 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "1e5eb8a92af50be2",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：第十二届董事会第四次会议决议公告 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01SFU1aUNJLVd2akNSQUZweVhad1ZzTWJEZ3h1S0hGS2hwR1hkdDRJVnhBZFhQaGFYRndVRVpJWmdkLUtFQU9xSXdBSGRHVFY4QjFIVFJLcFp5RHVmZWpTaW5Hb3FQUQ?oc=5",
-   "source": "东方财富",
-   "published": "Thu, 05 Nov 2026 20:58:42 GMT",
-   "trip": false
-  },
-  {
-   "id": "fcb19697cef71f76",
-   "query": "chuanning",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "11月5日共50股连涨5天，宁德时代、盐湖股份、亿纬锂能、华友钴业、恩捷股份等上榜 - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13YjRMSHQ2TmFCQnp6V0xiUXhSeDJfX2VnRDd2WTk3dnZLZWhwNGItUHRVclp3cFFMRG9pZURPVm9HR2E0Q1FPQzFZbVczMWJFZVoyY2pqSW9OenhwQU9aZU5Xcy1adFJnVFFyU0V0VEk4RmVt?oc=5",
-   "source": "金融界",
-   "published": "Thu, 05 Nov 2026 09:16:23 GMT",
-   "trip": false
-  },
-  {
-   "id": "52cd9946769694fa",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "联邦制药荣获“最佳ESG先锋实践上市公司”奖项 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ieXhfRWFTa0pjelYtWUdNVHpvbTJfeXVNcVlZS2FNRHJIRjc5NzkzQ0hJN1lPWHNZaVZaaDFtVjNsYVF2MzJMWkZQeENRTEZVLU4ycTFETzF3SmhaZWF1UVhOMkoxRERRbnVwQktncjdBQWd2S3hhdQ?oc=5",
-   "source": "新浪财经",
-   "published": "Sun, 28 Sep 2025 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "17cfb913664da8e3",
-   "query": "tul",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "黄敏硕 - 联邦制药前景看俏 | 开工前落盘/头条名家本周心水 - 星島頭條",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOcE1EMldEb0RZSmhJZkRfYnZva2d4OVd4VG80RExIV091VnhwdWV4RFRoX1RNcHhlWlpKSFBVOHQ5Q3ZGOW1jREJlTkhuUVprTk9FNWppako2Q2FaWEUwSE1rVzZZaW5neHVtYjMzUzctbmRrSHBIRk1WR1NMS3VCQVdRUXR5Z2JYYkhSczM0eG1kX2lGcTJQTGlVU1E1RGV6OEdDS2VSNDJndmpXc2N6UGZvTVFsdlVGUExCYzJOQ2ZKQmF5bXd3bjVxWWdrSGY4aUpzX0JlMUs5TXhBdkEzMTA4NXhiU3Z4dGlZLVg4WXdDcF9vd2dsNk5WN0E1amhhTzJ5Q1lrZU9IZVRFQWNwaUJUY1MxLUs2OU5oeWY0R2h6OUt1RFJCNTZQNWFYY0IwTVliSjl4eFhlR3FKLTBKTWtXU3YtVWRLaXVOTW5CS04yNVREV3VKUTZCMHRNLXhvQk1qVXpTdG9zejRPYWRUTUJLYWEtZlhCcjdDcEdlMGcxWUU?oc=5",
-   "source": "星島頭條",
-   "published": "Mon, 19 Aug 2024 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "a025241a687d4779",
-   "query": "centrient",
-   "route": "google:en",
-   "lang": "en",
-   "title": "Centrient Pharmaceuticals Appoints Genevieve Machin as Chief People and Transformation Officer - https://hrtoday.in/",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaUtKakQxb0VfT05FSGxmQmJ1MHdoMmoxeHFDbnUyVDFiVUl2aVk0UTlsUml2X3RJX185cENQUFljWTNtTm1aTHhuSUhSTHgtNG1CUmZaR0dscDFwWlFzTzZLNTVDaEF3ZW00QkNuTkV4UWNaSXNZcWpHOVFqY2pXSUVQczZMdHNMeGsyWThGR3FWWTY0QlYyNGJRY2JJV255U2d1azBXNEJ2LTc1Ym5EQk9ZQTc?oc=5",
-   "source": "https://hrtoday.in/",
-   "published": "Fri, 19 Jun 2026 12:34:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
@@ -506,10 +440,10 @@
   "ncpc": 2,
   "aurobindo": 0,
   "weiqida": 0,
-  "lukang": 0,
+  "lukang": 1,
   "cspc": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 0,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
