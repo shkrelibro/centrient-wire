@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-11-08T10:16:58Z",
+ "generated_at": "2026-11-08T16:42:27Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "8fad3d465f9d62b3",
+   "query": "lukang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "140亿炸场！被减肥榜一大哥相中，冷门药企爆了 - 中国医药创新促进会",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13Ri02Wm1BNmp2amNJYUhmbGZTSEtEMVlQTHZJQjV2OXIzYTlCaVRoYmZFcWpZX2JlN0UtcXpUbEQ5WHdlRW9SRTVrTkJ4ZTIyY2dEWFR3dzd3M0NSWkJaTjNIRkdlYzBzeVlBY1BtUzdrMW9yd083U0J3?oc=5",
+   "source": "中国医药创新促进会",
+   "published": "Thu, 27 Mar 2025 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "1857b43105e1879d",
+   "query": "anglikang",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "昂利康澄清：业务不涉及光芯片等领域 实控人及亲属仅持有嵊熠光电少数股权 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jWUQ1UHo3Y2k4c3Q2WGFxd0hFUGpqZmU3QlJNTHZGOWJ1dEhnMVdIZ3lhNkp6amZ0UUdMQUNYSmZUX2phZkxUX1Jqdmd6enp2bWE1R01PVkE0a1ltd20xcg?oc=5",
+   "source": "东方财富",
+   "published": "Mon, 25 May 2026 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "50f3bc09f7556fcf",
    "query": "aurobindo",
@@ -419,83 +441,17 @@
    "source": "finance.sina.com.cn",
    "published": "Fri, 14 Feb 2014 08:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "b4b2a12cf43e8313",
-   "query": "reg_whopq",
-   "route": "page",
-   "lang": "en",
-   "title": "WHO Prequalification news: page updated",
-   "url": "https://extranet.who.int/prequal/news",
-   "source": "WHO Prequalification news",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "d84288668876cc16",
-   "query": "reg_ema_news",
-   "route": "page",
-   "lang": "en",
-   "title": "EMA news: page updated",
-   "url": "https://www.ema.europa.eu/en/news",
-   "source": "EMA news",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "4b5c063604d9a53d",
-   "query": "reg_dgft",
-   "route": "page",
-   "lang": "en",
-   "title": "DGFT notifications (MIP watch): page updated",
-   "url": "https://www.dgft.gov.in/CP/?opt=notification",
-   "source": "DGFT notifications (MIP watch)",
-   "published": "",
-   "trip": false
-  },
-  {
-   "id": "aacb945efcfb186a",
-   "query": "reg_fda_ia_6640",
-   "route": "page",
-   "lang": "en",
-   "title": "FDA Import Alert 66-40: page updated",
-   "url": "https://www.accessdata.fda.gov/cms_ia/importalert_189.html",
-   "source": "FDA Import Alert 66-40",
-   "published": "",
-   "trip": true
-  },
-  {
-   "id": "712ef79bd1979949",
-   "query": "sandoz",
-   "route": "google:uk",
-   "lang": "uk",
-   "title": "Останній великий завод з виробництва пеніциліну у Європі опинився під загрозою (ВІДЕО) - Ukr.net",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ck1VRm1ya0hpSlU0RWQ1QlNMc3pQeGY5c0lJZlRzSWdBLXJEV1hCbUdaNEptRkh0TENIRTRaOGNjdXRUVTNxM3VLd1N1VVp6bWtHTkM1bHpRWkVuZk1PWnNrUQ?oc=5",
-   "source": "Ukr.net",
-   "published": "Mon, 26 Oct 2026 16:17:14 GMT",
-   "trip": false
-  },
-  {
-   "id": "ead2af0a8c1d7b3d",
-   "query": "ncpc",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "华北制药：头孢拉定获化学原料药上市申请批准通知书_股市直击 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuUFV4Q3lZNElIREljRnFjRlBYcnNWS3J0STRhT1lHTXJnV2M2cXVVVFNJYjN5UmxGNEZlcnZvVW5QdjRCZUQ4bVdkbEs1UUMzbnZobVkxQ2YyX2RHZ2QzSlJn?oc=5",
-   "source": "证券之星",
-   "published": "Fri, 06 Nov 2026 10:16:26 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 2,
-  "chuanning": 1,
-  "anglikang": 2,
-  "ncpc": 1,
-  "aurobindo": 2,
+  "tul": 0,
+  "chuanning": 0,
+  "anglikang": 1,
+  "ncpc": 0,
+  "aurobindo": 0,
   "weiqida": 0,
-  "lukang": 0,
+  "lukang": 1,
   "cspc": 0,
   "acsdobfar": 0,
   "chain_6apa": 0,
