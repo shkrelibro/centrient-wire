@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-11-10T17:48:41Z",
+ "generated_at": "2026-11-10T23:18:00Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "089ca63ab8bef7a0",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "激荡40载 华北制药集团改革再创辉煌 - 中国食品药品网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNzdyVUtmclRPelF0Y29mb2IwVFcyN0ZvT0YxazF1SlFiZzBZUjIyZTlkbV9nbXVuVzg5VDk2czgtSTNfQWlxa2RnbGo2ckxHbTBNeWd3?oc=5",
+   "source": "中国食品药品网",
+   "published": "Tue, 23 Oct 2018 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "0e71e59c4ef8f7c8",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "股票行情快报：川宁生物（301301）11月9日主力资金净卖出659.40万元 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNjRFYURWbkR2TVR5UTE5c3VUa0RRcXFIV0pHdGdRbmJGMzZtbS1oRU5ERU1fTmFlb1BHN2luNURnX2JfWUdqSzhyLVllekwydDZsb1ZpU1hwdl9kWEFQZVE2TlZYQjB1OVlLcFlnUnlyc2ZrSHpET0oyZV9HY3JlejVXZWpjNlpGNlFYZg?oc=5",
+   "source": "Sohu",
+   "published": "Tue, 10 Nov 2026 15:09:00 GMT",
+   "trip": false
+  },
   {
    "id": "b665e4e1aea5b96a",
    "query": "weiqida",
@@ -380,11 +402,11 @@
  "counts_this_run": {
   "centrient_core": 0,
   "tul": 0,
-  "chuanning": 2,
-  "anglikang": 1,
+  "chuanning": 1,
+  "anglikang": 0,
   "ncpc": 1,
   "aurobindo": 0,
-  "weiqida": 1,
+  "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
   "chain_6apa": 0,
