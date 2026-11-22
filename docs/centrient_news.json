@@ -1,7 +1,73 @@
 {
- "generated_at": "2026-11-22T11:19:07Z",
+ "generated_at": "2026-11-22T19:35:39Z",
  "window_hours": 36,
  "items": [
+  {
+   "id": "e6bc67b5786f22b3",
+   "query": "chain_pensalt",
+   "route": "bing:en",
+   "lang": "en",
+   "title": "印度将正式对我药企青霉素工业盐反倾销调查",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03441e77234bd39c5826b34145037c&url=https%3a%2f%2fwww.qingdaonews.com%2fcontent%2f2006-01%2f29%2fcontent_5969683.htm&c=16067980996340099305&mkt=en-us",
+   "source": "",
+   "published": "Sun, 29 Jan 2006 03:20:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "6baf3d8189382ab2",
+   "query": "chain_pensalt",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "印对中青霉素工业盐 初裁反倾销 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ndmFHdmNvTDNTQ1h0Wlp5MVczOENEeGpRM2FrUHVsak96SXB2TXlla2dZOWE5VzVlTU5xcGNGbmNWa1lNV3NiX3V6X3Rmd2lmTF9HZjhXTTRBaVYtTmFfbU1sTUo3SWU2cG5iS3ZsRFVhX2tBU052R1h1RmE?oc=5",
+   "source": "新浪财经",
+   "published": "Fri, 26 Feb 2010 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "580ef4820afef052",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药集团有限责任公司到访药学院 - 上海交通大学 新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tVGNQTVMxRjlTYnFvTkVYYjcwd0ptVERfNTN4MW9jemNmaXdsa0Q5OTQ3MUY1ZXFrZDdtb2dMaTdCMm13RHR1NkpWNnVsU0s5c2dyMVlJSnNnZlNpUUdB?oc=5",
+   "source": "上海交通大学 新闻网",
+   "published": "Fri, 01 Mar 2024 08:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "79857f5ef3246a83",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：公司出口产品主要以青霉素类原料药及制剂药产品、部分头孢类原料药及制剂药为主 - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sNElTU21NWF9FV2xCbVFRQVhVaHJRR0xJVlgxOXQ1emtUWFhSeUN1Ulg0VU9xcTVYYm5MN3Nua1dXTWRLMXZYeFdjT3E5TVd1SjZFc1d6VU04YnNldmNZXw?oc=5",
+   "source": "东方财富网",
+   "published": "Tue, 12 May 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "6f79e14105dbafea",
+   "query": "ncpc",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "华北制药：注射用哌拉西林钠他唑巴坦钠/氯化钠注射液获药品注册证书 - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wV0NMWndMWWJ0R0w1RjdUMU16MDJ4Y2VlVF93ZVVMNFlmYnFUVTNFaTBoVERUR3BvYy03UWhSZjFkVWJEVXdWRldvWlVsbHNKM2hhdjF6eHEwczV2WVBxeA?oc=5",
+   "source": "东方财富网",
+   "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "trip": false
+  },
+  {
+   "id": "787278ee1587ac91",
+   "query": "chuanning",
+   "route": "google:zh",
+   "lang": "zh",
+   "title": "川宁生物：2023年净利同比增长128.56% 拟10派2.25元 - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YSTJYRkp1Y2IzdmRHbkR0SGZNa0R1XzlXQnBaWEFVWHlqWXRCamx6NkQzaEJZcFlCVnNDckVSaEU0STZfbDkwdS14LWRPbmRIVmlIa05uaEhJUTBrcjZnRg?oc=5",
+   "source": "东方财富网",
+   "published": "Sun, 21 Apr 2024 07:00:00 GMT",
+   "trip": false
+  },
   {
    "id": "358c048ff52f6cc7",
    "query": "chain_pensalt",
@@ -562,64 +628,20 @@
    "source": "星島頭條",
    "published": "Thu, 31 Oct 2024 07:00:00 GMT",
    "trip": false
-  },
-  {
-   "id": "972eeb2fe6d9a649",
-   "query": "chain_amoxi",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "2021年原料药市场国内药企营收top15！新和成夺得榜首 - 摩熵医药",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fYmJZVUlMMko5NWRiZnJTbU5FS01YWEE3ZHYxUGM0bnVUZVlyWlQyWUZySzVDQjRXTHZ0bzJxSWswOHRlWkx2RnhMVVNReEMxY2RaZg?oc=5",
-   "source": "摩熵医药",
-   "published": "Wed, 18 May 2022 16:37:49 GMT",
-   "trip": false
-  },
-  {
-   "id": "13a07a2ddb78341c",
-   "query": "chain_7adca",
-   "route": "google:zh",
-   "lang": "zh",
-   "title": "中国治疗用单抗药物市场研究报告（2023版） - 健康网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6R0lIQTBJTlhiM2ItMk5PM24taERfX2RPb0tGbGJXSjRmX05zbDJqSVpUeDctQl9vSTkxU2g3UF9YMEZBWjhCeUpGYU8wUnlEX042dUlqM3lMV1RyT2RkdS15V0xkMXNwRHlaZDdscUI?oc=5",
-   "source": "健康网",
-   "published": "Fri, 22 Sep 2023 07:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "919265ee1e4bc0ea",
-   "query": "aurobindo",
-   "route": "google:in",
-   "lang": "in",
-   "title": "Motilal Oswal retains 'Buy' on Aurobindo Pharma as FY26-28 prospects shine - Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY19mRzZPN2V1MWZ2TUdlb1lRbWw3ejRGNHE3T0dtS0hNdmpLUVhBa2s0UUp5SnpHMG9STWtuWkxnRlk1MWd2ZHdldVRXdFdnRm9XYWVybWN6WDdQc1RPb3NqYnB2b1RhcnIxMFlVQmJqWW11NDZxMWwzaEd1amtrUHlZX083SC1ab0U5RUZ1SUxPZVBwaHpmV2UtM256YWJnejlFQWo4Qk80MlB5N2dyeVRORjZNbkJIQmtnNEtNTUxMWS1KNDhVTG5haVE4YWx1T1piWVJR0gHbAUFVX3lxTE54VE1Eem5YdDFIMUZTUkJNNmV1bldzaHpHX2tzSnhuUEQycHhLWlpPUWVWNXlOdENQdWhKU3htWnduRE5SM0t4TnZuaEFkVmdoN0lVTTZZX0d0cGRhLV9FcE5fVUFOcUpaZ3ZQM296MmJzYzBlOEJYSllya0szM0VQUi0zMC00UHRfU05xZU5lRGNldmQ0RVFQMG9xU0VyYVdOTEJxa21FNnRSUWNlcFdwaV9aRzBDd3lvRjlRaTNYLUtRNkpSdy12anZhdzdHZVU0Y2hoVlRvbzQxQQ?oc=5",
-   "source": "Business Standard",
-   "published": "Thu, 04 Dec 2025 08:00:00 GMT",
-   "trip": false
-  },
-  {
-   "id": "e472b012c9ce811b",
-   "query": "centrient_core",
-   "route": "google:nl",
-   "lang": "nl",
-   "title": "Minister Hermans bezoekt koploper Centrient in Delft - Nederlandse Vereniging Duurzame Energie",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyUHB3TkxNVk10WG14R1BvVGhieHZzNTViR0JoaWs5b2VBbTV6emdYU3RZWHBtbllLUE9iSUV6dVRYQ0t0RjBNMVFWX0xCZGVRd3llSDlVdy1HSHlJa2E5SlVNdEV6OU44WG5QTy1kZEtTY0dsUnhUYWdad0Zidw?oc=5",
-   "source": "Nederlandse Vereniging Duurzame Energie",
-   "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-   "trip": false
   }
  ],
  "counts_this_run": {
   "centrient_core": 0,
-  "tul": 2,
+  "tul": 0,
   "chuanning": 1,
   "anglikang": 0,
-  "ncpc": 2,
+  "ncpc": 3,
   "aurobindo": 0,
   "weiqida": 0,
   "lukang": 0,
   "cspc": 0,
   "chain_6apa": 0,
-  "chain_pensalt": 1,
+  "chain_pensalt": 2,
   "chain_7adca": 0,
   "chain_amoxi": 0,
   "chain_en": 0,
