@@ -1,14 +1,19 @@
 {
- "generated_at": "2026-11-23T21:19:16Z",
+ "generated_at": "2026-11-24T05:59:34Z",
  "ran": {
   "news": true,
-  "data": false,
+  "data": true,
   "weekly": false,
   "monthly": false
  },
  "statuses": {
-  "news": "20 new across 20 queries; 1 rotated out this hour",
-  "regulators": "reg_fda_ia_6640=unchanged; reg_fda_ia_6678=unchanged; reg_edqm_ceps=skipped (rotation); reg_dgft=skipped (rotation); reg_ema_news=skipped (rotation); reg_mhra_alerts=skipped (rotation); reg_pib=ok (0 new); reg_fedreg=skipped (rotation); reg_gacc_monthly=skipped (rotation); reg_nhsa=skipped (rotation); reg_mee=skipped (rotation); reg_cbgmeb=skipped (rotation); reg_cma_train=skipped (rotation); reg_whopq=skipped (rotation)",
+  "news": "14 new across 17 queries; 4 rotated out this hour",
+  "regulators": "reg_fda_ia_6640=skipped (rotation); reg_fda_ia_6678=skipped (rotation); reg_edqm_ceps=skipped (rotation); reg_dgft=skipped (rotation); reg_ema_news=skipped (rotation); reg_mhra_alerts=skipped (rotation); reg_pib=skipped (rotation); reg_fedreg=skipped (rotation); reg_gacc_monthly=skipped (rotation); reg_nhsa=skipped (rotation); reg_mee=skipped (rotation); reg_cbgmeb=skipped (rotation); reg_cma_train=skipped (rotation); reg_whopq=skipped (rotation)",
+  "chemicalbook": "partial: cb_cefalexin_rmb_t: no price pattern; cb_amoxicillin_rmb_t: no price pattern; cb_pengK_rmb_t: no price pattern; cb_pengK_ind_rmb_t: no price pattern; cb_7adca_rmb_t: no price pattern",
+  "pharmacompass": "empty",
+  "fx": "ok",
+  "dce_futures": "ok",
+  "bond_quotes": "empty: bond_675_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual); bond_frn_2030: empty (XFRA header scheme + Tradegate both blank; Stuttgart manual)",
   "tradestat_india": "manual (JS portal) — 29411010/30/50 monthly at tradestat.commerce.gov.in",
   "gacc_8digit": "not scraped (captcha + foreign-IP) — buy HS6 from chinadata.live when volumes needed",
   "healthoo": "paywalled — the real tape; Monday broker PDFs re-print it"
@@ -28,11 +33,11 @@
    "source": "https://m.chemicalbook.com/priceindex_cb1410046.htm",
    "history_tail": [
     {
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "value": 330000.0
     },
     {
-     "date": "2026-11-12",
+     "date": "2026-11-13",
      "value": 330000.0
     },
     {
@@ -71,21 +76,17 @@
   },
   "dce_corn_rmb_t": {
    "latest": {
-    "date": "2026-11-23",
-    "value": 2160.0,
+    "date": "2026-11-24",
+    "value": 2156.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2026-11-20",
-    "value": 2167.0
+    "date": "2026-11-23",
+    "value": 2160.0
    },
-   "delta_pct": -0.3,
+   "delta_pct": -0.2,
    "source": "sina:hq:nf_C0",
    "history_tail": [
-    {
-     "date": "2026-11-13",
-     "value": 2182.0
-    },
     {
      "date": "2026-11-13",
      "value": 2182.0
@@ -121,26 +122,26 @@
     {
      "date": "2026-11-23",
      "value": 2160.0
+    },
+    {
+     "date": "2026-11-24",
+     "value": 2156.0
     }
    ]
   },
   "dce_cornstarch_rmb_t": {
    "latest": {
-    "date": "2026-11-23",
-    "value": 2434.0,
+    "date": "2026-11-24",
+    "value": 2415.0,
     "unit": "RMB/t (rt last/settle)"
    },
    "prev": {
-    "date": "2026-11-20",
-    "value": 2435.0
+    "date": "2026-11-23",
+    "value": 2434.0
    },
-   "delta_pct": -0.0,
+   "delta_pct": -0.8,
    "source": "sina:hq:nf_CS0",
    "history_tail": [
-    {
-     "date": "2026-11-13",
-     "value": 2459.0
-    },
     {
      "date": "2026-11-13",
      "value": 2459.0
@@ -176,26 +177,26 @@
     {
      "date": "2026-11-23",
      "value": 2434.0
+    },
+    {
+     "date": "2026-11-24",
+     "value": 2415.0
     }
    ]
   },
   "fx_usdcny": {
    "latest": {
-    "date": "2026-11-20",
-    "value": 6.6777,
+    "date": "2026-11-23",
+    "value": 6.6647,
     "unit": "CNY per USD (ECB)"
    },
    "prev": {
     "date": "2026-11-20",
     "value": 6.6777
    },
-   "delta_pct": 0.0,
+   "delta_pct": -0.2,
    "source": "api.frankfurter.dev",
    "history_tail": [
-    {
-     "date": "2026-11-13",
-     "value": 6.6719
-    },
     {
      "date": "2026-11-13",
      "value": 6.6719
@@ -231,26 +232,26 @@
     {
      "date": "2026-11-20",
      "value": 6.6777
+    },
+    {
+     "date": "2026-11-23",
+     "value": 6.6647
     }
    ]
   },
   "fx_usdeur": {
    "latest": {
-    "date": "2026-11-20",
-    "value": 0.90992,
+    "date": "2026-11-23",
+    "value": 0.91416,
     "unit": "EUR per USD (ECB)"
    },
    "prev": {
     "date": "2026-11-20",
     "value": 0.90992
    },
-   "delta_pct": 0.0,
+   "delta_pct": 0.5,
    "source": "api.frankfurter.dev",
    "history_tail": [
-    {
-     "date": "2026-11-13",
-     "value": 0.90481
-    },
     {
      "date": "2026-11-13",
      "value": 0.90481
@@ -286,6 +287,10 @@
     {
      "date": "2026-11-20",
      "value": 0.90992
+    },
+    {
+     "date": "2026-11-23",
+     "value": 0.91416
     }
    ]
   }
